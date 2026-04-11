@@ -1,28 +1,55 @@
-race,sex,age_cat,FPR,TPR
-african-american,female,25-45,0.2727272727272727,0.6
-african-american,female,46-65,0.0,0.0
-african-american,female,less than 25,0.35714285714285715,0.6
-african-american,male,25-45,0.25984251968503935,0.6666666666666666
-african-american,male,46-65,0.1891891891891892,0.4230769230769231
-african-american,male,less than 25,0.4380952380952381,0.7933884297520661
-caucasian,female,25-45,0.1111111111111111,0.5
-caucasian,female,46-65,0.0,0.0
-caucasian,female,greater than 65,0.0,
-caucasian,female,less than 25,0.6666666666666666,0.8333333333333334
-caucasian,male,25-45,0.28440366972477066,0.6
-caucasian,male,46-65,0.05357142857142857,0.2857142857142857
-caucasian,male,greater than 65,0.0,0.0
-caucasian,male,less than 25,0.7818181818181819,0.9473684210526315
-hispanic,female,25-45,0.0,0.5
-hispanic,female,46-65,0.0,
-hispanic,female,less than 25,0.3333333333333333,1.0
-hispanic,male,25-45,0.22580645161290322,0.45454545454545453
-hispanic,male,46-65,0.05555555555555555,0.3333333333333333
-hispanic,male,less than 25,0.7666666666666667,0.8333333333333334
-other,female,25-45,0.0,1.0
-other,female,46-65,,0.0
-other,female,less than 25,1.0,
-other,male,25-45,0.13043478260869565,0.75
-other,male,46-65,0.0,0.0
-other,male,greater than 65,0.0,
-other,male,less than 25,0.8235294117647058,0.875
+race,sex,age_cat,FPR,TPR,modelo,grupo
+african-american,female,25-45,0.2727272727272727,0.6,propuesta_modelo,african-american | female | 25-45
+african-american,female,46-65,0.0,0.0,propuesta_modelo,african-american | female | 46-65
+african-american,female,less than 25,0.35714285714285715,0.6,propuesta_modelo,african-american | female | less than 25
+african-american,male,25-45,0.25984251968503935,0.6666666666666666,propuesta_modelo,african-american | male | 25-45
+african-american,male,46-65,0.1891891891891892,0.4230769230769231,propuesta_modelo,african-american | male | 46-65
+african-american,male,less than 25,0.4380952380952381,0.7933884297520661,propuesta_modelo,african-american | male | less than 25
+caucasian,female,25-45,0.1111111111111111,0.5,propuesta_modelo,caucasian | female | 25-45
+caucasian,female,46-65,0.0,0.0,propuesta_modelo,caucasian | female | 46-65
+caucasian,female,greater than 65,0.0,0.0,propuesta_modelo,caucasian | female | greater than 65
+caucasian,female,less than 25,0.6666666666666666,0.8333333333333334,propuesta_modelo,caucasian | female | less than 25
+caucasian,male,25-45,0.28440366972477066,0.6,propuesta_modelo,caucasian | male | 25-45
+caucasian,male,46-65,0.05357142857142857,0.2857142857142857,propuesta_modelo,caucasian | male | 46-65
+caucasian,male,greater than 65,0.0,0.0,propuesta_modelo,caucasian | male | greater than 65
+caucasian,male,less than 25,0.7818181818181819,0.9473684210526315,propuesta_modelo,caucasian | male | less than 25
+hispanic,female,25-45,0.0,0.5,propuesta_modelo,hispanic | female | 25-45
+hispanic,female,46-65,0.0,0.0,propuesta_modelo,hispanic | female | 46-65
+hispanic,female,less than 25,0.3333333333333333,1.0,propuesta_modelo,hispanic | female | less than 25
+hispanic,male,25-45,0.22580645161290322,0.45454545454545453,propuesta_modelo,hispanic | male | 25-45
+hispanic,male,46-65,0.05555555555555555,0.3333333333333333,propuesta_modelo,hispanic | male | 46-65
+hispanic,male,less than 25,0.7666666666666667,0.8333333333333334,propuesta_modelo,hispanic | male | less than 25
+other,female,25-45,0.0,1.0,propuesta_modelo,other | female | 25-45
+other,female,46-65,0.0,0.0,propuesta_modelo,other | female | 46-65
+other,female,less than 25,1.0,0.0,propuesta_modelo,other | female | less than 25
+other,male,25-45,0.13043478260869565,0.75,propuesta_modelo,other | male | 25-45
+other,male,46-65,0.0,0.0,propuesta_modelo,other | male | 46-65
+other,male,greater than 65,0.0,0.0,propuesta_modelo,other | male | greater than 65
+other,male,less than 25,0.8235294117647058,0.875,propuesta_modelo,other | male | less than 25
+african-american,female,25-45,0.36363636363636365,0.7333333333333333,propublica,african-american | female | 25-45
+african-american,female,46-65,0.2222222222222222,0.0,propublica,african-american | female | 46-65
+african-american,female,less than 25,0.5357142857142857,0.9,propublica,african-american | female | less than 25
+african-american,male,25-45,0.4645669291338583,0.6666666666666666,propublica,african-american | male | 25-45
+african-american,male,46-65,0.24324324324324326,0.6538461538461539,propublica,african-american | male | 46-65
+african-american,male,less than 25,0.5333333333333333,0.7933884297520661,propublica,african-american | male | less than 25
+caucasian,female,25-45,0.1111111111111111,0.5,propublica,caucasian | female | 25-45
+caucasian,female,46-65,0.10526315789473684,0.0,propublica,caucasian | female | 46-65
+caucasian,female,greater than 65,0.0,0.0,propublica,caucasian | female | greater than 65
+caucasian,female,less than 25,0.5833333333333334,0.6666666666666666,propublica,caucasian | female | less than 25
+caucasian,male,25-45,0.21100917431192662,0.4666666666666667,propublica,caucasian | male | 25-45
+caucasian,male,46-65,0.05357142857142857,0.2857142857142857,propublica,caucasian | male | 46-65
+caucasian,male,greater than 65,0.0,0.0,propublica,caucasian | male | greater than 65
+caucasian,male,less than 25,0.41818181818181815,0.631578947368421,propublica,caucasian | male | less than 25
+hispanic,female,25-45,0.0,0.0,propublica,hispanic | female | 25-45
+hispanic,female,46-65,0.0,0.0,propublica,hispanic | female | 46-65
+hispanic,female,less than 25,0.0,1.0,propublica,hispanic | female | less than 25
+hispanic,male,25-45,0.2903225806451613,0.45454545454545453,propublica,hispanic | male | 25-45
+hispanic,male,46-65,0.0,0.3333333333333333,propublica,hispanic | male | 46-65
+hispanic,male,less than 25,0.4666666666666667,0.75,propublica,hispanic | male | less than 25
+other,female,25-45,0.0,1.0,propublica,other | female | 25-45
+other,female,46-65,0.0,0.0,propublica,other | female | 46-65
+other,female,less than 25,0.0,0.0,propublica,other | female | less than 25
+other,male,25-45,0.13043478260869565,0.125,propublica,other | male | 25-45
+other,male,46-65,0.0,0.0,propublica,other | male | 46-65
+other,male,greater than 65,0.0,0.0,propublica,other | male | greater than 65
+other,male,less than 25,0.35294117647058826,0.5,propublica,other | male | less than 25
