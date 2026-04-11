@@ -1,0 +1,2429 @@
+person_id,race,sex,age_cat,y_true,decil,modelo
+59474.0,other,male,25-45,0,6,mi_modelo
+59890.0,african-american,male,less than 25,1,5,mi_modelo
+61156.0,hispanic,male,less than 25,0,4,mi_modelo
+57039.0,caucasian,female,25-45,0,8,mi_modelo
+58070.0,other,male,less than 25,1,3,mi_modelo
+59243.0,african-american,male,less than 25,1,2,mi_modelo
+56956.0,african-american,male,25-45,1,6,mi_modelo
+53694.0,hispanic,male,less than 25,0,1,mi_modelo
+20833.0,african-american,male,less than 25,0,2,mi_modelo
+55654.0,caucasian,male,25-45,1,7,mi_modelo
+56328.0,caucasian,male,25-45,0,9,mi_modelo
+52294.0,african-american,male,25-45,0,1,mi_modelo
+56488.0,caucasian,male,46-65,0,10,mi_modelo
+43912.0,african-american,male,46-65,1,7,mi_modelo
+54467.0,african-american,male,less than 25,1,6,mi_modelo
+60092.0,other,female,25-45,0,7,mi_modelo
+34412.0,african-american,female,25-45,0,6,mi_modelo
+58386.0,african-american,male,less than 25,1,1,mi_modelo
+50735.0,african-american,male,46-65,1,1,mi_modelo
+56713.0,african-american,female,25-45,0,4,mi_modelo
+47596.0,caucasian,female,25-45,1,7,mi_modelo
+58497.0,caucasian,male,less than 25,1,7,mi_modelo
+51081.0,african-american,male,25-45,0,7,mi_modelo
+53259.0,other,male,less than 25,0,3,mi_modelo
+53751.0,caucasian,male,46-65,1,4,mi_modelo
+60283.0,african-american,female,less than 25,0,3,mi_modelo
+51665.0,hispanic,male,less than 25,0,5,mi_modelo
+57097.0,african-american,male,25-45,1,8,mi_modelo
+23645.0,african-american,male,less than 25,1,2,mi_modelo
+61635.0,caucasian,male,46-65,0,10,mi_modelo
+54601.0,african-american,male,25-45,0,5,mi_modelo
+57798.0,caucasian,female,less than 25,0,3,mi_modelo
+8157.0,african-american,male,less than 25,1,1,mi_modelo
+58863.0,african-american,male,25-45,1,1,mi_modelo
+19580.0,african-american,male,less than 25,1,1,mi_modelo
+55820.0,hispanic,male,less than 25,0,4,mi_modelo
+43420.0,african-american,male,46-65,1,1,mi_modelo
+61441.0,african-american,male,46-65,0,9,mi_modelo
+58722.0,other,male,25-45,1,5,mi_modelo
+57970.0,african-american,female,25-45,1,1,mi_modelo
+53308.0,caucasian,female,25-45,0,9,mi_modelo
+25222.0,african-american,male,less than 25,1,1,mi_modelo
+51625.0,caucasian,male,25-45,1,9,mi_modelo
+27066.0,african-american,male,46-65,1,8,mi_modelo
+60112.0,african-american,male,less than 25,0,2,mi_modelo
+58002.0,caucasian,female,25-45,1,5,mi_modelo
+54327.0,caucasian,male,46-65,0,10,mi_modelo
+50853.0,african-american,male,less than 25,1,4,mi_modelo
+54911.0,caucasian,female,less than 25,0,7,mi_modelo
+56078.0,caucasian,female,46-65,0,10,mi_modelo
+62216.0,african-american,male,25-45,0,6,mi_modelo
+31059.0,caucasian,male,25-45,1,1,mi_modelo
+57311.0,hispanic,male,46-65,0,10,mi_modelo
+60530.0,african-american,male,25-45,0,7,mi_modelo
+54108.0,african-american,male,less than 25,0,5,mi_modelo
+51379.0,african-american,female,25-45,0,3,mi_modelo
+62046.0,caucasian,male,25-45,0,8,mi_modelo
+11454.0,african-american,female,less than 25,0,6,mi_modelo
+53460.0,african-american,male,25-45,0,8,mi_modelo
+59273.0,african-american,male,25-45,1,2,mi_modelo
+56102.0,african-american,female,46-65,0,9,mi_modelo
+53226.0,other,male,less than 25,1,5,mi_modelo
+40741.0,african-american,male,25-45,0,4,mi_modelo
+56179.0,african-american,female,25-45,0,6,mi_modelo
+53733.0,african-american,male,25-45,1,8,mi_modelo
+52682.0,african-american,male,25-45,0,6,mi_modelo
+29185.0,african-american,male,less than 25,0,7,mi_modelo
+46409.0,african-american,male,less than 25,0,4,mi_modelo
+61056.0,caucasian,male,25-45,0,8,mi_modelo
+52976.0,african-american,male,25-45,0,7,mi_modelo
+58960.0,caucasian,female,less than 25,0,4,mi_modelo
+50888.0,african-american,male,less than 25,0,4,mi_modelo
+59114.0,caucasian,male,25-45,0,9,mi_modelo
+59453.0,african-american,male,less than 25,1,2,mi_modelo
+57323.0,caucasian,male,46-65,0,9,mi_modelo
+57270.0,african-american,female,less than 25,0,7,mi_modelo
+51402.0,other,male,25-45,1,6,mi_modelo
+61087.0,african-american,male,25-45,0,2,mi_modelo
+48433.0,african-american,male,less than 25,1,3,mi_modelo
+50890.0,african-american,male,25-45,0,10,mi_modelo
+53723.0,african-american,male,46-65,1,5,mi_modelo
+61655.0,hispanic,female,25-45,0,8,mi_modelo
+55080.0,caucasian,male,46-65,0,10,mi_modelo
+54822.0,caucasian,female,25-45,0,9,mi_modelo
+49449.0,african-american,female,less than 25,0,4,mi_modelo
+50925.0,african-american,male,25-45,0,7,mi_modelo
+55007.0,caucasian,male,25-45,0,9,mi_modelo
+62002.0,african-american,male,less than 25,0,5,mi_modelo
+52709.0,african-american,male,less than 25,1,2,mi_modelo
+34682.0,african-american,male,46-65,0,9,mi_modelo
+60899.0,african-american,male,less than 25,0,5,mi_modelo
+52807.0,african-american,male,less than 25,1,2,mi_modelo
+54403.0,caucasian,male,25-45,0,7,mi_modelo
+58498.0,african-american,female,less than 25,0,8,mi_modelo
+60862.0,african-american,male,25-45,0,7,mi_modelo
+52288.0,caucasian,male,25-45,0,8,mi_modelo
+58209.0,other,male,46-65,0,10,mi_modelo
+57975.0,caucasian,male,25-45,0,10,mi_modelo
+56008.0,caucasian,male,less than 25,1,4,mi_modelo
+61404.0,caucasian,male,25-45,0,8,mi_modelo
+51729.0,african-american,male,less than 25,1,4,mi_modelo
+54232.0,caucasian,male,less than 25,1,2,mi_modelo
+39898.0,other,male,less than 25,0,2,mi_modelo
+53788.0,caucasian,female,less than 25,0,6,mi_modelo
+34102.0,african-american,male,25-45,0,2,mi_modelo
+52784.0,caucasian,male,25-45,0,8,mi_modelo
+60713.0,caucasian,male,25-45,1,8,mi_modelo
+7663.0,african-american,male,25-45,0,4,mi_modelo
+15395.0,caucasian,male,25-45,1,2,mi_modelo
+52094.0,african-american,male,less than 25,1,4,mi_modelo
+57338.0,african-american,female,25-45,0,6,mi_modelo
+32763.0,african-american,male,less than 25,0,3,mi_modelo
+53825.0,african-american,male,25-45,0,1,mi_modelo
+53811.0,african-american,male,25-45,0,7,mi_modelo
+59717.0,caucasian,female,25-45,0,8,mi_modelo
+51651.0,caucasian,male,46-65,0,9,mi_modelo
+55521.0,caucasian,female,46-65,0,9,mi_modelo
+56326.0,african-american,male,25-45,1,1,mi_modelo
+56720.0,hispanic,male,less than 25,0,6,mi_modelo
+51913.0,african-american,female,25-45,0,7,mi_modelo
+54063.0,caucasian,male,25-45,0,8,mi_modelo
+54961.0,hispanic,male,46-65,0,9,mi_modelo
+41644.0,hispanic,male,less than 25,1,4,mi_modelo
+4584.0,african-american,male,25-45,1,3,mi_modelo
+59607.0,african-american,female,46-65,0,7,mi_modelo
+33606.0,african-american,male,less than 25,0,1,mi_modelo
+55636.0,african-american,male,25-45,0,7,mi_modelo
+51978.0,african-american,male,25-45,1,9,mi_modelo
+56520.0,african-american,male,less than 25,1,5,mi_modelo
+59196.0,african-american,male,25-45,1,6,mi_modelo
+57293.0,caucasian,male,25-45,1,7,mi_modelo
+8021.0,caucasian,male,less than 25,0,3,mi_modelo
+2609.0,hispanic,male,less than 25,0,2,mi_modelo
+62279.0,caucasian,male,greater than 65,1,7,mi_modelo
+57432.0,hispanic,male,46-65,0,9,mi_modelo
+51684.0,african-american,male,less than 25,0,4,mi_modelo
+56396.0,caucasian,female,46-65,0,10,mi_modelo
+22310.0,caucasian,male,25-45,1,4,mi_modelo
+50953.0,african-american,male,46-65,0,7,mi_modelo
+59455.0,african-american,male,46-65,0,2,mi_modelo
+27745.0,african-american,male,25-45,1,4,mi_modelo
+55805.0,caucasian,male,25-45,0,5,mi_modelo
+36630.0,african-american,male,less than 25,1,2,mi_modelo
+55088.0,caucasian,male,46-65,0,10,mi_modelo
+59115.0,african-american,male,25-45,1,3,mi_modelo
+62395.0,caucasian,female,46-65,0,10,mi_modelo
+47770.0,african-american,male,less than 25,1,1,mi_modelo
+51462.0,other,male,25-45,0,8,mi_modelo
+51685.0,caucasian,male,46-65,0,9,mi_modelo
+46588.0,african-american,male,less than 25,1,1,mi_modelo
+60467.0,african-american,male,less than 25,0,4,mi_modelo
+60662.0,caucasian,male,less than 25,1,2,mi_modelo
+42501.0,african-american,male,less than 25,0,6,mi_modelo
+57762.0,african-american,female,less than 25,0,6,mi_modelo
+63177.0,african-american,male,less than 25,0,2,mi_modelo
+55206.0,caucasian,male,46-65,0,10,mi_modelo
+55234.0,caucasian,male,25-45,0,9,mi_modelo
+61809.0,caucasian,female,46-65,0,9,mi_modelo
+59036.0,african-american,male,less than 25,1,2,mi_modelo
+56825.0,caucasian,male,25-45,0,6,mi_modelo
+56704.0,caucasian,female,less than 25,1,3,mi_modelo
+57976.0,african-american,male,25-45,0,8,mi_modelo
+52707.0,african-american,male,25-45,0,7,mi_modelo
+57475.0,hispanic,male,25-45,0,3,mi_modelo
+9376.0,african-american,male,less than 25,1,4,mi_modelo
+62069.0,african-american,male,25-45,1,9,mi_modelo
+61510.0,caucasian,male,25-45,0,6,mi_modelo
+51636.0,african-american,female,less than 25,0,4,mi_modelo
+59043.0,caucasian,male,25-45,1,8,mi_modelo
+57466.0,other,male,25-45,1,6,mi_modelo
+59461.0,caucasian,male,25-45,0,2,mi_modelo
+54454.0,caucasian,male,25-45,0,9,mi_modelo
+60692.0,african-american,male,less than 25,1,5,mi_modelo
+54150.0,caucasian,male,25-45,0,7,mi_modelo
+52075.0,caucasian,female,25-45,0,9,mi_modelo
+52482.0,hispanic,male,46-65,1,9,mi_modelo
+52686.0,african-american,male,25-45,0,9,mi_modelo
+59794.0,other,male,46-65,0,10,mi_modelo
+54570.0,hispanic,male,46-65,0,10,mi_modelo
+57028.0,african-american,male,less than 25,0,5,mi_modelo
+54773.0,caucasian,male,25-45,0,10,mi_modelo
+51393.0,caucasian,male,25-45,1,7,mi_modelo
+56068.0,african-american,male,less than 25,1,5,mi_modelo
+55854.0,african-american,male,less than 25,0,6,mi_modelo
+57704.0,caucasian,male,25-45,1,5,mi_modelo
+58549.0,caucasian,male,46-65,0,10,mi_modelo
+57233.0,african-american,female,less than 25,1,4,mi_modelo
+54905.0,caucasian,male,25-45,1,4,mi_modelo
+59198.0,african-american,female,25-45,1,4,mi_modelo
+53423.0,other,male,25-45,0,10,mi_modelo
+58237.0,african-american,male,25-45,0,6,mi_modelo
+54625.0,african-american,male,46-65,1,7,mi_modelo
+59101.0,african-american,male,less than 25,1,3,mi_modelo
+54438.0,caucasian,male,less than 25,0,2,mi_modelo
+54706.0,caucasian,male,46-65,0,9,mi_modelo
+32013.0,hispanic,male,25-45,0,6,mi_modelo
+56456.0,hispanic,male,25-45,0,6,mi_modelo
+57163.0,other,male,25-45,0,9,mi_modelo
+54104.0,other,male,less than 25,0,4,mi_modelo
+56987.0,african-american,male,25-45,0,5,mi_modelo
+1279.0,caucasian,female,25-45,0,4,mi_modelo
+2920.0,african-american,male,25-45,0,6,mi_modelo
+58867.0,caucasian,male,25-45,1,8,mi_modelo
+57666.0,caucasian,male,46-65,0,10,mi_modelo
+53702.0,caucasian,female,46-65,0,8,mi_modelo
+4994.0,african-american,male,46-65,1,4,mi_modelo
+53567.0,african-american,male,25-45,1,2,mi_modelo
+56745.0,african-american,male,less than 25,0,5,mi_modelo
+53037.0,african-american,female,less than 25,1,7,mi_modelo
+58678.0,caucasian,female,less than 25,0,4,mi_modelo
+60807.0,african-american,male,less than 25,1,1,mi_modelo
+47480.0,african-american,male,25-45,1,2,mi_modelo
+58425.0,hispanic,male,less than 25,0,4,mi_modelo
+54219.0,caucasian,female,25-45,0,8,mi_modelo
+51502.0,african-american,male,25-45,1,5,mi_modelo
+61620.0,african-american,male,less than 25,0,5,mi_modelo
+51195.0,african-american,female,less than 25,0,3,mi_modelo
+56994.0,caucasian,female,25-45,1,8,mi_modelo
+57064.0,african-american,male,less than 25,0,7,mi_modelo
+61480.0,caucasian,male,46-65,1,8,mi_modelo
+23992.0,african-american,male,46-65,1,1,mi_modelo
+2305.0,african-american,male,less than 25,0,3,mi_modelo
+31012.0,african-american,male,25-45,1,2,mi_modelo
+57470.0,hispanic,male,25-45,0,8,mi_modelo
+55096.0,african-american,male,25-45,0,9,mi_modelo
+58403.0,caucasian,female,less than 25,0,5,mi_modelo
+52506.0,african-american,male,25-45,0,7,mi_modelo
+61182.0,caucasian,male,less than 25,1,3,mi_modelo
+43205.0,african-american,female,less than 25,0,5,mi_modelo
+26934.0,other,female,25-45,1,2,mi_modelo
+57882.0,african-american,female,25-45,0,8,mi_modelo
+58669.0,hispanic,female,25-45,0,8,mi_modelo
+45351.0,caucasian,female,less than 25,0,7,mi_modelo
+59211.0,caucasian,male,46-65,0,10,mi_modelo
+55770.0,african-american,male,less than 25,0,7,mi_modelo
+58539.0,african-american,female,25-45,1,4,mi_modelo
+61789.0,african-american,female,less than 25,0,5,mi_modelo
+54262.0,caucasian,male,25-45,0,8,mi_modelo
+52982.0,african-american,female,25-45,1,1,mi_modelo
+52768.0,caucasian,male,greater than 65,0,10,mi_modelo
+54331.0,caucasian,male,25-45,0,10,mi_modelo
+32337.0,african-american,male,25-45,1,1,mi_modelo
+35022.0,african-american,male,25-45,0,4,mi_modelo
+56192.0,hispanic,male,25-45,1,8,mi_modelo
+61097.0,african-american,male,less than 25,1,7,mi_modelo
+40176.0,african-american,female,25-45,0,1,mi_modelo
+13459.0,african-american,female,less than 25,1,2,mi_modelo
+53565.0,caucasian,male,25-45,1,1,mi_modelo
+60142.0,african-american,male,25-45,1,5,mi_modelo
+52234.0,other,male,25-45,0,3,mi_modelo
+54687.0,caucasian,female,25-45,1,3,mi_modelo
+48595.0,african-american,female,less than 25,1,3,mi_modelo
+28048.0,african-american,female,25-45,0,4,mi_modelo
+60146.0,african-american,female,25-45,1,8,mi_modelo
+2462.0,caucasian,male,46-65,0,10,mi_modelo
+54781.0,african-american,male,less than 25,0,5,mi_modelo
+53228.0,caucasian,male,25-45,1,3,mi_modelo
+60027.0,african-american,male,25-45,0,7,mi_modelo
+57809.0,caucasian,male,25-45,0,7,mi_modelo
+54674.0,caucasian,female,46-65,0,10,mi_modelo
+54964.0,caucasian,male,less than 25,0,3,mi_modelo
+52497.0,caucasian,male,46-65,0,9,mi_modelo
+60571.0,caucasian,female,25-45,1,6,mi_modelo
+50965.0,african-american,male,25-45,1,2,mi_modelo
+60632.0,african-american,male,46-65,0,10,mi_modelo
+56447.0,hispanic,male,less than 25,0,3,mi_modelo
+62158.0,african-american,male,25-45,1,9,mi_modelo
+33083.0,caucasian,male,46-65,0,10,mi_modelo
+59412.0,caucasian,male,46-65,0,5,mi_modelo
+58327.0,african-american,male,46-65,1,5,mi_modelo
+59034.0,african-american,female,46-65,1,10,mi_modelo
+57940.0,caucasian,male,25-45,1,9,mi_modelo
+59955.0,african-american,male,25-45,0,3,mi_modelo
+52857.0,hispanic,male,25-45,1,10,mi_modelo
+44229.0,african-american,male,25-45,0,1,mi_modelo
+51506.0,caucasian,female,46-65,0,10,mi_modelo
+53281.0,african-american,male,46-65,1,10,mi_modelo
+57316.0,african-american,male,46-65,0,6,mi_modelo
+55131.0,caucasian,female,25-45,0,8,mi_modelo
+56685.0,hispanic,male,less than 25,0,7,mi_modelo
+61994.0,african-american,male,46-65,0,10,mi_modelo
+52741.0,african-american,male,25-45,0,8,mi_modelo
+21268.0,caucasian,male,less than 25,0,3,mi_modelo
+54365.0,other,male,less than 25,0,7,mi_modelo
+21458.0,african-american,male,46-65,0,5,mi_modelo
+59898.0,caucasian,male,25-45,0,8,mi_modelo
+14331.0,caucasian,male,less than 25,1,1,mi_modelo
+2753.0,caucasian,male,less than 25,0,2,mi_modelo
+61444.0,caucasian,male,less than 25,0,7,mi_modelo
+51133.0,caucasian,male,46-65,0,10,mi_modelo
+22711.0,african-american,male,25-45,1,4,mi_modelo
+51429.0,african-american,male,less than 25,1,3,mi_modelo
+54639.0,caucasian,male,25-45,1,3,mi_modelo
+53773.0,african-american,male,46-65,0,1,mi_modelo
+59864.0,other,male,less than 25,0,5,mi_modelo
+53881.0,caucasian,male,46-65,0,8,mi_modelo
+57764.0,hispanic,male,46-65,0,8,mi_modelo
+59171.0,caucasian,male,25-45,1,1,mi_modelo
+57973.0,caucasian,female,less than 25,0,5,mi_modelo
+51488.0,caucasian,male,less than 25,0,6,mi_modelo
+59051.0,caucasian,female,less than 25,0,7,mi_modelo
+53557.0,other,male,25-45,0,8,mi_modelo
+55934.0,hispanic,male,25-45,0,7,mi_modelo
+55642.0,african-american,male,46-65,0,10,mi_modelo
+58796.0,african-american,male,25-45,1,6,mi_modelo
+59301.0,other,male,25-45,0,10,mi_modelo
+5705.0,african-american,male,less than 25,1,2,mi_modelo
+52870.0,caucasian,male,25-45,0,8,mi_modelo
+56325.0,african-american,male,25-45,0,5,mi_modelo
+54381.0,hispanic,male,25-45,0,9,mi_modelo
+59116.0,african-american,male,less than 25,1,3,mi_modelo
+40675.0,african-american,male,less than 25,0,3,mi_modelo
+58557.0,african-american,female,46-65,0,9,mi_modelo
+60204.0,african-american,female,25-45,1,1,mi_modelo
+21533.0,african-american,male,25-45,1,5,mi_modelo
+52463.0,hispanic,female,25-45,0,7,mi_modelo
+56916.0,hispanic,male,less than 25,0,3,mi_modelo
+53705.0,african-american,male,less than 25,1,3,mi_modelo
+58363.0,african-american,male,25-45,1,1,mi_modelo
+57584.0,caucasian,male,46-65,0,9,mi_modelo
+52646.0,african-american,male,less than 25,1,2,mi_modelo
+61106.0,caucasian,male,less than 25,0,6,mi_modelo
+61574.0,african-american,female,25-45,0,6,mi_modelo
+56731.0,african-american,female,less than 25,0,4,mi_modelo
+58929.0,african-american,male,less than 25,1,5,mi_modelo
+56233.0,african-american,male,46-65,0,9,mi_modelo
+58626.0,african-american,male,less than 25,1,3,mi_modelo
+52279.0,caucasian,male,25-45,0,8,mi_modelo
+61986.0,other,male,less than 25,0,7,mi_modelo
+35385.0,caucasian,male,46-65,0,7,mi_modelo
+53455.0,caucasian,male,less than 25,0,2,mi_modelo
+39175.0,african-american,male,less than 25,1,2,mi_modelo
+59199.0,caucasian,male,25-45,1,8,mi_modelo
+60466.0,caucasian,male,46-65,0,8,mi_modelo
+54656.0,hispanic,male,25-45,1,2,mi_modelo
+55927.0,hispanic,male,25-45,1,2,mi_modelo
+58873.0,caucasian,male,46-65,1,10,mi_modelo
+52233.0,hispanic,male,less than 25,1,4,mi_modelo
+51242.0,african-american,male,less than 25,0,6,mi_modelo
+60893.0,african-american,male,less than 25,0,7,mi_modelo
+57946.0,african-american,female,25-45,0,7,mi_modelo
+43041.0,caucasian,female,25-45,1,1,mi_modelo
+54763.0,hispanic,male,25-45,0,9,mi_modelo
+52167.0,african-american,female,25-45,0,2,mi_modelo
+52432.0,caucasian,male,25-45,0,7,mi_modelo
+51720.0,caucasian,male,less than 25,1,3,mi_modelo
+48272.0,african-american,male,less than 25,0,6,mi_modelo
+59532.0,other,male,25-45,0,8,mi_modelo
+51902.0,other,male,less than 25,0,3,mi_modelo
+53151.0,african-american,female,less than 25,0,7,mi_modelo
+60876.0,caucasian,male,25-45,0,5,mi_modelo
+61403.0,african-american,female,less than 25,0,4,mi_modelo
+54764.0,african-american,male,25-45,0,6,mi_modelo
+56260.0,hispanic,male,25-45,1,7,mi_modelo
+19187.0,african-american,male,less than 25,0,1,mi_modelo
+61812.0,hispanic,male,less than 25,0,6,mi_modelo
+56473.0,caucasian,male,25-45,0,1,mi_modelo
+58763.0,caucasian,male,25-45,0,3,mi_modelo
+58692.0,caucasian,male,46-65,0,10,mi_modelo
+59537.0,caucasian,male,46-65,0,10,mi_modelo
+61419.0,caucasian,male,25-45,1,5,mi_modelo
+15663.0,hispanic,male,less than 25,1,3,mi_modelo
+51039.0,caucasian,female,46-65,0,9,mi_modelo
+34944.0,african-american,male,25-45,0,2,mi_modelo
+32316.0,african-american,male,less than 25,0,3,mi_modelo
+53042.0,other,male,25-45,0,8,mi_modelo
+57807.0,african-american,male,25-45,0,7,mi_modelo
+51191.0,african-american,male,less than 25,1,3,mi_modelo
+57441.0,hispanic,male,25-45,0,9,mi_modelo
+44458.0,african-american,male,less than 25,1,1,mi_modelo
+60863.0,african-american,male,less than 25,1,6,mi_modelo
+61234.0,caucasian,male,25-45,0,10,mi_modelo
+56247.0,caucasian,male,less than 25,0,2,mi_modelo
+5287.0,african-american,female,25-45,1,2,mi_modelo
+52048.0,african-american,male,less than 25,0,4,mi_modelo
+61484.0,caucasian,male,less than 25,0,5,mi_modelo
+59827.0,caucasian,male,46-65,0,10,mi_modelo
+54592.0,caucasian,male,less than 25,1,2,mi_modelo
+38097.0,african-american,male,25-45,1,1,mi_modelo
+46183.0,african-american,male,25-45,0,2,mi_modelo
+8382.0,caucasian,male,25-45,1,1,mi_modelo
+57386.0,african-american,male,25-45,1,6,mi_modelo
+60659.0,caucasian,male,25-45,1,8,mi_modelo
+36886.0,african-american,male,25-45,0,5,mi_modelo
+60349.0,caucasian,female,46-65,1,10,mi_modelo
+52950.0,caucasian,female,less than 25,1,5,mi_modelo
+57418.0,african-american,male,46-65,0,9,mi_modelo
+61823.0,caucasian,male,25-45,0,2,mi_modelo
+10580.0,african-american,male,less than 25,1,3,mi_modelo
+51127.0,caucasian,male,25-45,0,7,mi_modelo
+61501.0,caucasian,male,25-45,0,10,mi_modelo
+27573.0,african-american,male,less than 25,0,2,mi_modelo
+36003.0,caucasian,male,less than 25,0,2,mi_modelo
+54092.0,african-american,male,46-65,1,10,mi_modelo
+53036.0,african-american,male,25-45,1,6,mi_modelo
+57903.0,african-american,male,25-45,0,6,mi_modelo
+9377.0,african-american,male,less than 25,1,1,mi_modelo
+53655.0,african-american,male,less than 25,1,1,mi_modelo
+61075.0,caucasian,male,25-45,0,5,mi_modelo
+51359.0,african-american,male,less than 25,1,5,mi_modelo
+52704.0,caucasian,male,25-45,0,2,mi_modelo
+34031.0,african-american,male,25-45,0,5,mi_modelo
+60036.0,caucasian,male,25-45,0,9,mi_modelo
+26144.0,african-american,male,25-45,0,3,mi_modelo
+45111.0,african-american,male,25-45,0,3,mi_modelo
+58782.0,hispanic,male,46-65,0,10,mi_modelo
+53727.0,african-american,male,25-45,1,2,mi_modelo
+39483.0,caucasian,male,less than 25,0,6,mi_modelo
+51217.0,african-american,male,less than 25,0,5,mi_modelo
+55090.0,hispanic,male,less than 25,1,2,mi_modelo
+57532.0,african-american,female,less than 25,0,7,mi_modelo
+55617.0,african-american,male,less than 25,0,5,mi_modelo
+59045.0,african-american,male,25-45,1,3,mi_modelo
+58865.0,caucasian,male,46-65,0,10,mi_modelo
+54402.0,african-american,male,46-65,0,10,mi_modelo
+51719.0,african-american,male,46-65,0,10,mi_modelo
+54711.0,african-american,male,25-45,0,1,mi_modelo
+52494.0,hispanic,male,25-45,0,9,mi_modelo
+60739.0,caucasian,male,46-65,1,10,mi_modelo
+55115.0,african-american,male,25-45,1,3,mi_modelo
+56152.0,african-american,female,25-45,0,8,mi_modelo
+37356.0,african-american,male,less than 25,1,2,mi_modelo
+54638.0,african-american,female,less than 25,0,4,mi_modelo
+54642.0,other,male,25-45,0,8,mi_modelo
+51679.0,other,male,less than 25,1,5,mi_modelo
+60127.0,african-american,male,25-45,0,2,mi_modelo
+56104.0,african-american,male,25-45,0,5,mi_modelo
+54907.0,african-american,male,25-45,1,1,mi_modelo
+22507.0,african-american,male,25-45,1,1,mi_modelo
+52706.0,african-american,male,25-45,0,6,mi_modelo
+41977.0,african-american,male,25-45,0,4,mi_modelo
+52295.0,caucasian,male,less than 25,0,4,mi_modelo
+31989.0,african-american,female,25-45,0,1,mi_modelo
+60981.0,african-american,male,25-45,1,7,mi_modelo
+52317.0,caucasian,male,25-45,0,2,mi_modelo
+61185.0,caucasian,male,less than 25,0,3,mi_modelo
+54489.0,african-american,male,less than 25,0,3,mi_modelo
+59140.0,caucasian,female,less than 25,0,7,mi_modelo
+60927.0,african-american,male,less than 25,0,4,mi_modelo
+23691.0,african-american,female,46-65,0,7,mi_modelo
+52609.0,hispanic,male,25-45,0,10,mi_modelo
+61762.0,hispanic,male,46-65,1,10,mi_modelo
+51865.0,caucasian,male,46-65,1,10,mi_modelo
+60546.0,african-american,male,less than 25,0,6,mi_modelo
+55514.0,african-american,male,less than 25,1,4,mi_modelo
+55593.0,caucasian,male,46-65,1,6,mi_modelo
+38904.0,caucasian,male,25-45,0,9,mi_modelo
+58176.0,african-american,male,46-65,0,7,mi_modelo
+60702.0,other,female,25-45,0,9,mi_modelo
+55773.0,caucasian,male,greater than 65,0,10,mi_modelo
+62218.0,hispanic,female,46-65,0,10,mi_modelo
+56074.0,african-american,male,46-65,1,7,mi_modelo
+47684.0,african-american,female,less than 25,1,6,mi_modelo
+60350.0,african-american,male,46-65,0,9,mi_modelo
+56281.0,caucasian,male,25-45,0,5,mi_modelo
+57507.0,caucasian,male,less than 25,0,3,mi_modelo
+59112.0,caucasian,male,25-45,0,9,mi_modelo
+56341.0,african-american,male,less than 25,1,6,mi_modelo
+51613.0,caucasian,male,25-45,0,6,mi_modelo
+51167.0,caucasian,female,25-45,0,8,mi_modelo
+60139.0,caucasian,male,25-45,0,5,mi_modelo
+59913.0,african-american,female,less than 25,0,6,mi_modelo
+53556.0,caucasian,male,46-65,0,9,mi_modelo
+50892.0,caucasian,male,less than 25,1,5,mi_modelo
+57260.0,african-american,male,25-45,1,2,mi_modelo
+59329.0,caucasian,male,25-45,1,4,mi_modelo
+62141.0,caucasian,male,less than 25,0,4,mi_modelo
+58476.0,african-american,male,25-45,1,1,mi_modelo
+61868.0,african-american,male,less than 25,0,5,mi_modelo
+54521.0,african-american,male,46-65,0,9,mi_modelo
+51456.0,african-american,male,46-65,0,2,mi_modelo
+53352.0,caucasian,male,25-45,0,7,mi_modelo
+54589.0,african-american,male,25-45,0,1,mi_modelo
+52002.0,hispanic,male,25-45,1,4,mi_modelo
+55065.0,caucasian,female,25-45,1,6,mi_modelo
+13400.0,african-american,male,less than 25,1,2,mi_modelo
+61678.0,caucasian,male,25-45,0,7,mi_modelo
+55360.0,hispanic,female,less than 25,1,4,mi_modelo
+57561.0,african-american,female,less than 25,0,5,mi_modelo
+53890.0,african-american,male,less than 25,0,5,mi_modelo
+52272.0,african-american,male,less than 25,1,2,mi_modelo
+54018.0,african-american,male,25-45,0,9,mi_modelo
+51148.0,african-american,male,25-45,0,10,mi_modelo
+52369.0,caucasian,male,46-65,0,10,mi_modelo
+53137.0,caucasian,male,46-65,0,10,mi_modelo
+61038.0,african-american,male,25-45,0,1,mi_modelo
+65542.0,hispanic,female,less than 25,0,6,mi_modelo
+59102.0,african-american,male,25-45,0,8,mi_modelo
+57796.0,caucasian,female,46-65,1,8,mi_modelo
+54495.0,other,male,25-45,1,5,mi_modelo
+55978.0,african-american,female,less than 25,0,5,mi_modelo
+54105.0,african-american,male,less than 25,0,6,mi_modelo
+52743.0,hispanic,male,less than 25,0,2,mi_modelo
+53855.0,african-american,male,25-45,0,6,mi_modelo
+62186.0,african-american,male,less than 25,0,5,mi_modelo
+53505.0,caucasian,male,less than 25,0,2,mi_modelo
+61486.0,caucasian,male,46-65,0,9,mi_modelo
+56131.0,african-american,male,less than 25,1,3,mi_modelo
+4403.0,caucasian,male,25-45,0,7,mi_modelo
+52840.0,african-american,female,less than 25,1,5,mi_modelo
+55576.0,african-american,male,25-45,0,1,mi_modelo
+58891.0,caucasian,male,less than 25,0,5,mi_modelo
+59809.0,caucasian,female,less than 25,1,4,mi_modelo
+52134.0,caucasian,male,25-45,0,10,mi_modelo
+52946.0,hispanic,male,less than 25,0,4,mi_modelo
+44123.0,hispanic,male,46-65,0,10,mi_modelo
+52685.0,african-american,male,less than 25,1,5,mi_modelo
+54882.0,african-american,female,less than 25,0,4,mi_modelo
+61050.0,african-american,male,25-45,0,5,mi_modelo
+61785.0,hispanic,male,46-65,0,10,mi_modelo
+59960.0,caucasian,female,46-65,0,10,mi_modelo
+62210.0,african-american,male,46-65,1,5,mi_modelo
+52151.0,caucasian,female,25-45,0,8,mi_modelo
+51380.0,caucasian,male,25-45,0,9,mi_modelo
+57185.0,african-american,male,less than 25,1,5,mi_modelo
+57115.0,other,female,25-45,0,9,mi_modelo
+61018.0,hispanic,male,less than 25,0,3,mi_modelo
+61350.0,african-american,male,less than 25,0,4,mi_modelo
+55101.0,african-american,female,46-65,0,10,mi_modelo
+52668.0,african-american,male,25-45,1,2,mi_modelo
+18210.0,african-american,male,46-65,0,1,mi_modelo
+52750.0,hispanic,male,25-45,0,6,mi_modelo
+60218.0,african-american,male,25-45,0,9,mi_modelo
+62064.0,caucasian,male,less than 25,0,4,mi_modelo
+6733.0,african-american,male,25-45,0,7,mi_modelo
+51605.0,african-american,male,25-45,1,3,mi_modelo
+57863.0,caucasian,male,less than 25,0,6,mi_modelo
+22566.0,african-american,male,25-45,1,1,mi_modelo
+59448.0,african-american,male,less than 25,0,6,mi_modelo
+59082.0,african-american,male,less than 25,0,4,mi_modelo
+44612.0,african-american,male,less than 25,1,2,mi_modelo
+53435.0,african-american,male,25-45,0,8,mi_modelo
+58169.0,african-american,male,25-45,1,2,mi_modelo
+59111.0,african-american,male,less than 25,0,3,mi_modelo
+54276.0,african-american,male,less than 25,0,6,mi_modelo
+55962.0,hispanic,male,less than 25,1,6,mi_modelo
+52271.0,african-american,female,25-45,0,7,mi_modelo
+3506.0,african-american,male,less than 25,1,2,mi_modelo
+44871.0,african-american,male,25-45,0,3,mi_modelo
+58615.0,african-american,male,25-45,0,9,mi_modelo
+55992.0,caucasian,female,25-45,0,10,mi_modelo
+50929.0,caucasian,male,less than 25,1,3,mi_modelo
+55547.0,caucasian,male,25-45,1,4,mi_modelo
+32728.0,african-american,male,25-45,1,4,mi_modelo
+9544.0,african-american,male,25-45,1,1,mi_modelo
+30377.0,caucasian,male,less than 25,1,2,mi_modelo
+54899.0,caucasian,male,less than 25,0,7,mi_modelo
+56197.0,caucasian,male,25-45,1,1,mi_modelo
+60660.0,caucasian,male,25-45,0,9,mi_modelo
+52135.0,caucasian,male,46-65,0,9,mi_modelo
+54923.0,caucasian,male,less than 25,1,2,mi_modelo
+56960.0,hispanic,female,less than 25,0,7,mi_modelo
+51196.0,african-american,male,25-45,0,5,mi_modelo
+20971.0,other,male,25-45,1,7,mi_modelo
+51214.0,caucasian,male,less than 25,0,8,mi_modelo
+57027.0,african-american,male,25-45,0,8,mi_modelo
+51962.0,african-american,male,less than 25,1,1,mi_modelo
+43099.0,african-american,male,less than 25,1,4,mi_modelo
+58402.0,african-american,male,less than 25,0,5,mi_modelo
+56959.0,caucasian,male,25-45,0,9,mi_modelo
+60912.0,caucasian,male,25-45,0,9,mi_modelo
+57343.0,african-american,male,less than 25,1,3,mi_modelo
+50968.0,african-american,male,less than 25,0,6,mi_modelo
+56262.0,hispanic,male,less than 25,1,6,mi_modelo
+60717.0,caucasian,male,25-45,1,9,mi_modelo
+60351.0,african-american,male,25-45,0,7,mi_modelo
+57669.0,hispanic,male,less than 25,1,2,mi_modelo
+57506.0,african-american,female,46-65,0,10,mi_modelo
+58123.0,caucasian,male,less than 25,0,3,mi_modelo
+61438.0,african-american,male,less than 25,1,1,mi_modelo
+57727.0,african-american,male,25-45,0,3,mi_modelo
+34331.0,african-american,male,25-45,1,1,mi_modelo
+57626.0,caucasian,male,less than 25,1,6,mi_modelo
+60614.0,african-american,male,25-45,0,7,mi_modelo
+56552.0,african-american,male,25-45,0,8,mi_modelo
+41633.0,caucasian,male,less than 25,1,2,mi_modelo
+29728.0,hispanic,male,less than 25,0,1,mi_modelo
+51624.0,caucasian,male,46-65,0,8,mi_modelo
+43241.0,african-american,male,25-45,1,1,mi_modelo
+50955.0,caucasian,male,25-45,1,9,mi_modelo
+60906.0,african-american,male,less than 25,1,4,mi_modelo
+53777.0,african-american,female,25-45,0,9,mi_modelo
+47021.0,african-american,male,less than 25,1,1,mi_modelo
+51292.0,african-american,male,less than 25,0,5,mi_modelo
+55478.0,african-american,female,25-45,0,8,mi_modelo
+57624.0,african-american,male,25-45,0,8,mi_modelo
+60329.0,other,male,46-65,1,8,mi_modelo
+59886.0,african-american,male,25-45,1,1,mi_modelo
+53180.0,caucasian,male,less than 25,1,2,mi_modelo
+51897.0,african-american,male,less than 25,1,1,mi_modelo
+53625.0,african-american,male,less than 25,0,6,mi_modelo
+59512.0,other,male,25-45,0,7,mi_modelo
+60510.0,caucasian,male,25-45,0,6,mi_modelo
+37963.0,african-american,male,25-45,0,6,mi_modelo
+22722.0,hispanic,male,25-45,1,4,mi_modelo
+12411.0,african-american,male,25-45,0,1,mi_modelo
+54470.0,african-american,male,25-45,0,8,mi_modelo
+55343.0,hispanic,male,46-65,0,10,mi_modelo
+57841.0,caucasian,male,less than 25,1,2,mi_modelo
+19347.0,caucasian,male,less than 25,0,2,mi_modelo
+53475.0,caucasian,male,25-45,1,5,mi_modelo
+54900.0,other,male,25-45,1,4,mi_modelo
+51980.0,hispanic,male,25-45,1,9,mi_modelo
+60029.0,african-american,male,25-45,1,8,mi_modelo
+65395.0,other,male,less than 25,1,4,mi_modelo
+61476.0,caucasian,male,25-45,1,4,mi_modelo
+51601.0,african-american,male,25-45,1,8,mi_modelo
+59736.0,caucasian,female,less than 25,0,7,mi_modelo
+52975.0,african-american,male,less than 25,1,1,mi_modelo
+38528.0,caucasian,male,less than 25,1,1,mi_modelo
+60722.0,caucasian,female,less than 25,0,4,mi_modelo
+43819.0,african-american,male,less than 25,1,3,mi_modelo
+51169.0,african-american,male,25-45,0,3,mi_modelo
+57060.0,hispanic,male,46-65,0,2,mi_modelo
+54343.0,caucasian,male,25-45,0,7,mi_modelo
+59997.0,african-american,female,less than 25,0,6,mi_modelo
+59425.0,african-american,female,46-65,0,8,mi_modelo
+62087.0,african-american,male,less than 25,0,5,mi_modelo
+34724.0,african-american,male,less than 25,1,1,mi_modelo
+53738.0,caucasian,female,46-65,0,10,mi_modelo
+59376.0,african-american,male,25-45,0,2,mi_modelo
+61262.0,african-american,male,46-65,1,10,mi_modelo
+59069.0,african-american,male,25-45,0,5,mi_modelo
+55229.0,caucasian,female,less than 25,0,6,mi_modelo
+55884.0,caucasian,male,less than 25,1,3,mi_modelo
+54465.0,african-american,male,less than 25,1,2,mi_modelo
+35213.0,caucasian,male,46-65,0,10,mi_modelo
+60031.0,caucasian,male,46-65,0,10,mi_modelo
+55488.0,hispanic,male,46-65,0,9,mi_modelo
+49179.0,caucasian,male,46-65,0,8,mi_modelo
+58724.0,hispanic,male,46-65,0,10,mi_modelo
+55137.0,other,female,25-45,0,9,mi_modelo
+61581.0,african-american,male,less than 25,0,6,mi_modelo
+28532.0,african-american,male,25-45,1,2,mi_modelo
+51849.0,african-american,male,46-65,0,8,mi_modelo
+59934.0,african-american,female,less than 25,0,4,mi_modelo
+8832.0,other,male,25-45,0,3,mi_modelo
+52970.0,african-american,male,25-45,1,7,mi_modelo
+52593.0,african-american,male,25-45,1,6,mi_modelo
+58434.0,african-american,male,less than 25,1,4,mi_modelo
+53009.0,caucasian,male,25-45,0,7,mi_modelo
+52024.0,african-american,male,25-45,1,4,mi_modelo
+54798.0,african-american,male,less than 25,1,2,mi_modelo
+53425.0,caucasian,male,25-45,0,9,mi_modelo
+51077.0,african-american,female,less than 25,1,4,mi_modelo
+59739.0,caucasian,male,25-45,0,5,mi_modelo
+51227.0,caucasian,female,less than 25,0,3,mi_modelo
+9364.0,african-american,male,46-65,1,6,mi_modelo
+39783.0,caucasian,male,less than 25,0,6,mi_modelo
+4549.0,caucasian,male,46-65,1,4,mi_modelo
+56993.0,hispanic,male,less than 25,0,7,mi_modelo
+51707.0,hispanic,male,less than 25,1,5,mi_modelo
+50917.0,african-american,male,25-45,0,4,mi_modelo
+57105.0,caucasian,male,25-45,0,9,mi_modelo
+53789.0,caucasian,female,25-45,0,9,mi_modelo
+59606.0,caucasian,male,25-45,0,7,mi_modelo
+57883.0,caucasian,male,46-65,0,10,mi_modelo
+3580.0,caucasian,male,less than 25,1,1,mi_modelo
+52301.0,hispanic,male,less than 25,0,6,mi_modelo
+23464.0,african-american,male,less than 25,0,3,mi_modelo
+54926.0,other,male,25-45,1,6,mi_modelo
+25191.0,african-american,male,less than 25,1,3,mi_modelo
+57081.0,african-american,male,25-45,1,1,mi_modelo
+57036.0,african-american,female,25-45,0,7,mi_modelo
+52097.0,african-american,male,25-45,0,7,mi_modelo
+51232.0,african-american,male,less than 25,0,5,mi_modelo
+54371.0,caucasian,male,25-45,0,10,mi_modelo
+56615.0,other,male,less than 25,0,3,mi_modelo
+57538.0,caucasian,male,25-45,1,10,mi_modelo
+52844.0,caucasian,male,less than 25,0,3,mi_modelo
+51215.0,caucasian,male,less than 25,1,5,mi_modelo
+53638.0,caucasian,male,less than 25,0,2,mi_modelo
+47971.0,caucasian,male,25-45,1,5,mi_modelo
+55105.0,caucasian,male,less than 25,1,6,mi_modelo
+54624.0,african-american,male,25-45,1,1,mi_modelo
+53024.0,caucasian,male,less than 25,1,6,mi_modelo
+52701.0,hispanic,male,less than 25,0,6,mi_modelo
+61096.0,hispanic,female,25-45,0,10,mi_modelo
+61838.0,african-american,male,25-45,0,8,mi_modelo
+53860.0,african-american,male,less than 25,1,5,mi_modelo
+56898.0,caucasian,male,25-45,0,6,mi_modelo
+29822.0,african-american,male,less than 25,0,1,mi_modelo
+58382.0,caucasian,male,25-45,0,7,mi_modelo
+56269.0,african-american,male,46-65,0,10,mi_modelo
+53735.0,caucasian,female,25-45,1,9,mi_modelo
+61177.0,caucasian,female,46-65,0,10,mi_modelo
+60090.0,caucasian,male,less than 25,0,7,mi_modelo
+52385.0,caucasian,female,25-45,0,10,mi_modelo
+46011.0,african-american,male,less than 25,0,3,mi_modelo
+13550.0,african-american,male,25-45,1,1,mi_modelo
+52168.0,african-american,male,less than 25,1,4,mi_modelo
+57066.0,caucasian,female,25-45,0,10,mi_modelo
+55738.0,african-american,male,46-65,1,8,mi_modelo
+62232.0,caucasian,male,25-45,0,8,mi_modelo
+58004.0,hispanic,male,25-45,0,5,mi_modelo
+25778.0,african-american,male,less than 25,0,4,mi_modelo
+58733.0,african-american,male,less than 25,1,8,mi_modelo
+57837.0,caucasian,male,46-65,1,7,mi_modelo
+51491.0,african-american,male,46-65,0,8,mi_modelo
+58852.0,caucasian,male,25-45,1,3,mi_modelo
+59667.0,caucasian,male,less than 25,1,4,mi_modelo
+19575.0,african-american,male,25-45,0,6,mi_modelo
+58441.0,caucasian,female,less than 25,0,5,mi_modelo
+43996.0,caucasian,male,25-45,0,7,mi_modelo
+67551.0,african-american,male,less than 25,1,5,mi_modelo
+57804.0,other,male,greater than 65,0,10,mi_modelo
+54299.0,hispanic,male,46-65,0,10,mi_modelo
+54115.0,hispanic,male,less than 25,0,3,mi_modelo
+55068.0,caucasian,female,46-65,0,9,mi_modelo
+56686.0,african-american,female,25-45,1,4,mi_modelo
+55268.0,caucasian,female,25-45,0,8,mi_modelo
+51137.0,caucasian,male,25-45,0,9,mi_modelo
+52074.0,hispanic,male,25-45,0,8,mi_modelo
+56139.0,african-american,female,less than 25,0,7,mi_modelo
+53698.0,hispanic,male,25-45,0,2,mi_modelo
+46130.0,african-american,male,46-65,1,9,mi_modelo
+6248.0,african-american,male,46-65,1,2,mi_modelo
+52861.0,other,male,25-45,0,8,mi_modelo
+62187.0,african-american,male,46-65,0,2,mi_modelo
+57656.0,caucasian,male,less than 25,0,3,mi_modelo
+60755.0,caucasian,male,25-45,0,7,mi_modelo
+57104.0,caucasian,male,25-45,0,3,mi_modelo
+56545.0,caucasian,male,25-45,0,5,mi_modelo
+27194.0,other,male,less than 25,1,1,mi_modelo
+58242.0,african-american,male,less than 25,0,4,mi_modelo
+53498.0,african-american,male,25-45,0,9,mi_modelo
+57280.0,caucasian,male,less than 25,1,5,mi_modelo
+56824.0,african-american,male,less than 25,0,3,mi_modelo
+56735.0,caucasian,male,46-65,1,7,mi_modelo
+55830.0,other,male,less than 25,0,3,mi_modelo
+58795.0,african-american,male,less than 25,1,2,mi_modelo
+50014.0,caucasian,male,less than 25,0,7,mi_modelo
+52671.0,caucasian,male,25-45,0,9,mi_modelo
+60887.0,african-american,male,25-45,0,9,mi_modelo
+57349.0,caucasian,female,25-45,0,8,mi_modelo
+60393.0,other,male,less than 25,0,5,mi_modelo
+57987.0,african-american,female,25-45,0,3,mi_modelo
+54910.0,african-american,male,25-45,0,7,mi_modelo
+59349.0,caucasian,male,25-45,0,10,mi_modelo
+50127.0,african-american,male,46-65,1,3,mi_modelo
+30274.0,african-american,male,25-45,0,2,mi_modelo
+45766.0,african-american,male,25-45,1,1,mi_modelo
+33391.0,african-american,male,less than 25,0,3,mi_modelo
+54267.0,hispanic,male,less than 25,0,2,mi_modelo
+30040.0,other,male,less than 25,0,5,mi_modelo
+62204.0,african-american,male,less than 25,0,1,mi_modelo
+47225.0,african-american,male,less than 25,0,2,mi_modelo
+54896.0,caucasian,female,46-65,0,10,mi_modelo
+53195.0,african-american,female,25-45,1,6,mi_modelo
+51028.0,other,male,less than 25,1,4,mi_modelo
+56636.0,african-american,male,25-45,1,1,mi_modelo
+52383.0,caucasian,male,25-45,0,5,mi_modelo
+56990.0,african-american,male,25-45,0,6,mi_modelo
+56609.0,hispanic,female,25-45,1,8,mi_modelo
+54352.0,hispanic,male,less than 25,0,5,mi_modelo
+51799.0,caucasian,male,46-65,0,10,mi_modelo
+61186.0,african-american,male,less than 25,1,4,mi_modelo
+56806.0,other,female,46-65,1,8,mi_modelo
+57211.0,african-american,male,25-45,1,1,mi_modelo
+38682.0,caucasian,male,25-45,1,2,mi_modelo
+58104.0,african-american,male,25-45,0,4,mi_modelo
+59704.0,african-american,male,less than 25,1,5,mi_modelo
+55650.0,caucasian,female,25-45,0,9,mi_modelo
+51170.0,caucasian,female,less than 25,0,8,mi_modelo
+57067.0,caucasian,male,25-45,0,8,mi_modelo
+54080.0,african-american,male,25-45,1,3,mi_modelo
+62063.0,caucasian,female,25-45,0,10,mi_modelo
+53862.0,african-american,male,25-45,1,3,mi_modelo
+56246.0,african-american,male,less than 25,0,3,mi_modelo
+58643.0,african-american,female,25-45,0,8,mi_modelo
+53282.0,african-american,male,25-45,1,7,mi_modelo
+60222.0,hispanic,male,less than 25,0,4,mi_modelo
+50887.0,african-american,female,25-45,0,1,mi_modelo
+53452.0,african-american,male,25-45,0,6,mi_modelo
+59924.0,caucasian,male,less than 25,0,8,mi_modelo
+54623.0,african-american,male,25-45,1,6,mi_modelo
+51029.0,african-american,male,less than 25,1,6,mi_modelo
+55664.0,other,male,46-65,0,10,mi_modelo
+54228.0,african-american,male,less than 25,1,4,mi_modelo
+50974.0,african-american,male,less than 25,0,4,mi_modelo
+56797.0,african-american,male,25-45,0,6,mi_modelo
+8641.0,african-american,male,less than 25,0,1,mi_modelo
+51161.0,african-american,male,25-45,1,1,mi_modelo
+57680.0,other,male,less than 25,0,4,mi_modelo
+51945.0,african-american,male,less than 25,0,5,mi_modelo
+54221.0,african-american,male,25-45,0,9,mi_modelo
+51977.0,african-american,female,less than 25,0,2,mi_modelo
+58387.0,african-american,male,25-45,0,6,mi_modelo
+52423.0,caucasian,male,less than 25,0,2,mi_modelo
+56173.0,african-american,male,25-45,0,3,mi_modelo
+59372.0,african-american,male,25-45,1,3,mi_modelo
+8538.0,african-american,male,less than 25,0,3,mi_modelo
+39488.0,african-american,male,less than 25,1,3,mi_modelo
+54531.0,caucasian,male,less than 25,1,2,mi_modelo
+60024.0,other,male,less than 25,0,6,mi_modelo
+3579.0,african-american,female,less than 25,0,2,mi_modelo
+47312.0,african-american,male,less than 25,1,1,mi_modelo
+62018.0,african-american,male,less than 25,0,7,mi_modelo
+58589.0,caucasian,male,46-65,0,10,mi_modelo
+51222.0,african-american,male,25-45,1,2,mi_modelo
+54101.0,african-american,male,less than 25,0,7,mi_modelo
+53999.0,caucasian,female,25-45,0,6,mi_modelo
+17967.0,african-american,male,less than 25,1,1,mi_modelo
+52705.0,other,male,46-65,0,10,mi_modelo
+53970.0,african-american,female,less than 25,1,1,mi_modelo
+57769.0,african-american,male,less than 25,0,6,mi_modelo
+60251.0,african-american,female,25-45,0,7,mi_modelo
+59035.0,caucasian,male,25-45,0,6,mi_modelo
+57026.0,african-american,male,less than 25,1,6,mi_modelo
+30936.0,african-american,male,less than 25,1,2,mi_modelo
+7481.0,caucasian,male,less than 25,1,3,mi_modelo
+53697.0,caucasian,male,less than 25,1,2,mi_modelo
+52172.0,african-american,male,25-45,1,6,mi_modelo
+54119.0,caucasian,male,less than 25,0,5,mi_modelo
+59989.0,other,male,25-45,0,8,mi_modelo
+28633.0,african-american,male,25-45,1,1,mi_modelo
+53464.0,hispanic,male,25-45,0,8,mi_modelo
+60962.0,african-american,male,25-45,0,8,mi_modelo
+54113.0,other,male,less than 25,1,3,mi_modelo
+60843.0,caucasian,male,46-65,0,9,mi_modelo
+54314.0,caucasian,male,46-65,0,10,mi_modelo
+59937.0,african-american,male,25-45,1,3,mi_modelo
+27232.0,african-american,male,less than 25,1,2,mi_modelo
+54737.0,caucasian,male,25-45,0,7,mi_modelo
+60561.0,caucasian,male,25-45,0,6,mi_modelo
+62112.0,caucasian,male,greater than 65,0,10,mi_modelo
+59285.0,other,male,25-45,0,7,mi_modelo
+54524.0,african-american,female,25-45,0,9,mi_modelo
+61183.0,caucasian,male,46-65,0,9,mi_modelo
+57472.0,hispanic,male,less than 25,1,6,mi_modelo
+28188.0,african-american,male,25-45,0,5,mi_modelo
+50879.0,african-american,male,25-45,1,8,mi_modelo
+57320.0,hispanic,male,46-65,0,10,mi_modelo
+47457.0,other,male,46-65,0,8,mi_modelo
+12087.0,hispanic,male,less than 25,1,1,mi_modelo
+60405.0,african-american,male,25-45,1,1,mi_modelo
+46563.0,african-american,male,less than 25,0,3,mi_modelo
+59670.0,african-american,male,less than 25,0,3,mi_modelo
+59978.0,african-american,male,less than 25,1,3,mi_modelo
+53718.0,hispanic,male,25-45,0,9,mi_modelo
+59201.0,caucasian,female,less than 25,0,4,mi_modelo
+51373.0,african-american,male,25-45,1,1,mi_modelo
+52839.0,caucasian,male,less than 25,1,3,mi_modelo
+1561.0,african-american,male,25-45,0,9,mi_modelo
+52847.0,caucasian,male,25-45,0,8,mi_modelo
+57555.0,caucasian,male,46-65,0,4,mi_modelo
+60240.0,african-american,male,25-45,1,4,mi_modelo
+55568.0,african-american,male,46-65,1,7,mi_modelo
+59173.0,caucasian,female,less than 25,0,3,mi_modelo
+57564.0,caucasian,male,25-45,0,8,mi_modelo
+23392.0,african-american,male,25-45,0,5,mi_modelo
+56672.0,african-american,male,less than 25,1,2,mi_modelo
+59643.0,caucasian,male,25-45,0,5,mi_modelo
+51124.0,caucasian,male,25-45,0,5,mi_modelo
+54558.0,african-american,female,25-45,1,7,mi_modelo
+45763.0,african-american,male,25-45,1,1,mi_modelo
+55217.0,hispanic,male,25-45,0,7,mi_modelo
+58675.0,hispanic,male,less than 25,0,2,mi_modelo
+58261.0,african-american,male,25-45,1,4,mi_modelo
+54750.0,caucasian,male,25-45,0,9,mi_modelo
+53814.0,caucasian,male,25-45,0,8,mi_modelo
+56736.0,hispanic,female,25-45,0,10,mi_modelo
+50986.0,african-american,male,46-65,1,1,mi_modelo
+54132.0,african-american,male,less than 25,1,4,mi_modelo
+54024.0,hispanic,male,less than 25,0,5,mi_modelo
+61396.0,african-american,female,less than 25,1,4,mi_modelo
+60034.0,other,female,25-45,0,7,mi_modelo
+51686.0,african-american,male,less than 25,0,3,mi_modelo
+55889.0,hispanic,male,25-45,0,7,mi_modelo
+67179.0,african-american,male,25-45,1,2,mi_modelo
+55089.0,hispanic,male,less than 25,0,5,mi_modelo
+62410.0,african-american,male,46-65,1,9,mi_modelo
+61368.0,african-american,male,46-65,0,10,mi_modelo
+50850.0,african-american,female,less than 25,0,6,mi_modelo
+58455.0,hispanic,male,25-45,0,9,mi_modelo
+3832.0,african-american,male,46-65,0,1,mi_modelo
+15379.0,african-american,male,25-45,1,1,mi_modelo
+57607.0,african-american,male,46-65,0,10,mi_modelo
+60187.0,hispanic,male,25-45,0,9,mi_modelo
+46634.0,african-american,male,less than 25,1,2,mi_modelo
+59106.0,caucasian,male,less than 25,1,4,mi_modelo
+15606.0,african-american,male,25-45,0,7,mi_modelo
+52261.0,other,male,less than 25,0,3,mi_modelo
+61158.0,african-american,male,25-45,1,6,mi_modelo
+61113.0,caucasian,male,less than 25,1,6,mi_modelo
+42846.0,african-american,male,less than 25,1,1,mi_modelo
+24690.0,african-american,male,25-45,1,7,mi_modelo
+60033.0,caucasian,male,25-45,0,6,mi_modelo
+48922.0,african-american,male,less than 25,1,1,mi_modelo
+66275.0,african-american,male,less than 25,1,2,mi_modelo
+53275.0,caucasian,female,46-65,0,9,mi_modelo
+50854.0,caucasian,male,25-45,0,8,mi_modelo
+27125.0,african-american,male,46-65,1,2,mi_modelo
+60015.0,caucasian,male,less than 25,0,5,mi_modelo
+54197.0,african-american,male,less than 25,1,1,mi_modelo
+61504.0,african-american,male,less than 25,1,1,mi_modelo
+51848.0,african-american,male,less than 25,0,6,mi_modelo
+51409.0,african-american,male,less than 25,0,4,mi_modelo
+57827.0,african-american,male,46-65,0,5,mi_modelo
+29332.0,caucasian,male,25-45,0,1,mi_modelo
+55328.0,african-american,male,25-45,0,7,mi_modelo
+50375.0,african-american,male,46-65,0,7,mi_modelo
+60012.0,hispanic,male,25-45,1,9,mi_modelo
+61485.0,caucasian,male,25-45,1,5,mi_modelo
+53492.0,caucasian,male,less than 25,0,3,mi_modelo
+33404.0,caucasian,male,less than 25,0,3,mi_modelo
+53717.0,hispanic,male,46-65,0,10,mi_modelo
+54139.0,african-american,male,46-65,0,10,mi_modelo
+27789.0,caucasian,male,25-45,0,5,mi_modelo
+60949.0,african-american,female,25-45,1,7,mi_modelo
+33731.0,african-american,male,25-45,1,1,mi_modelo
+53303.0,caucasian,male,46-65,0,10,mi_modelo
+51678.0,caucasian,male,less than 25,1,1,mi_modelo
+55751.0,caucasian,male,less than 25,0,4,mi_modelo
+56114.0,caucasian,female,25-45,1,5,mi_modelo
+53832.0,african-american,male,25-45,0,8,mi_modelo
+51035.0,african-american,male,25-45,1,6,mi_modelo
+4961.0,african-american,male,25-45,0,7,mi_modelo
+57993.0,african-american,male,less than 25,0,3,mi_modelo
+52332.0,other,male,46-65,0,10,mi_modelo
+57413.0,african-american,male,less than 25,0,6,mi_modelo
+60052.0,african-american,male,46-65,0,10,mi_modelo
+58925.0,other,male,25-45,0,8,mi_modelo
+52526.0,african-american,male,25-45,0,6,mi_modelo
+60695.0,other,male,25-45,0,8,mi_modelo
+37543.0,hispanic,male,25-45,0,4,mi_modelo
+47384.0,caucasian,female,25-45,1,4,mi_modelo
+57929.0,hispanic,male,25-45,0,10,mi_modelo
+57078.0,caucasian,male,25-45,0,9,mi_modelo
+53133.0,african-american,male,46-65,0,10,mi_modelo
+58869.0,african-american,male,less than 25,1,3,mi_modelo
+52225.0,caucasian,male,46-65,0,10,mi_modelo
+51890.0,caucasian,male,46-65,1,9,mi_modelo
+58256.0,african-american,female,25-45,0,8,mi_modelo
+5512.0,african-american,male,25-45,0,7,mi_modelo
+60634.0,african-american,male,46-65,0,10,mi_modelo
+60908.0,african-american,male,less than 25,1,2,mi_modelo
+60951.0,caucasian,male,25-45,0,9,mi_modelo
+60362.0,caucasian,male,less than 25,0,4,mi_modelo
+52297.0,other,male,25-45,0,10,mi_modelo
+2160.0,african-american,male,less than 25,1,2,mi_modelo
+51206.0,african-american,female,25-45,1,9,mi_modelo
+53294.0,african-american,male,25-45,0,8,mi_modelo
+53632.0,caucasian,male,46-65,1,7,mi_modelo
+54780.0,other,female,less than 25,0,5,mi_modelo
+52309.0,caucasian,male,less than 25,1,3,mi_modelo
+55575.0,hispanic,male,less than 25,0,4,mi_modelo
+53914.0,african-american,male,less than 25,0,5,mi_modelo
+59821.0,caucasian,female,25-45,0,9,mi_modelo
+60892.0,other,male,25-45,0,3,mi_modelo
+51850.0,african-american,male,less than 25,1,5,mi_modelo
+61478.0,other,male,less than 25,1,7,mi_modelo
+51264.0,african-american,male,25-45,1,9,mi_modelo
+55078.0,african-american,male,25-45,1,9,mi_modelo
+52058.0,caucasian,female,25-45,0,9,mi_modelo
+60525.0,caucasian,male,less than 25,0,4,mi_modelo
+54643.0,african-american,male,25-45,0,6,mi_modelo
+34175.0,african-american,male,less than 25,0,6,mi_modelo
+60658.0,african-american,female,less than 25,0,7,mi_modelo
+57061.0,caucasian,male,25-45,0,8,mi_modelo
+55817.0,african-american,female,less than 25,1,4,mi_modelo
+25709.0,african-american,male,25-45,1,3,mi_modelo
+56229.0,caucasian,male,less than 25,0,1,mi_modelo
+50919.0,african-american,male,less than 25,1,4,mi_modelo
+59066.0,caucasian,female,25-45,0,4,mi_modelo
+59424.0,african-american,male,less than 25,1,1,mi_modelo
+47035.0,african-american,male,less than 25,1,2,mi_modelo
+54137.0,caucasian,male,25-45,0,7,mi_modelo
+60877.0,caucasian,male,46-65,0,10,mi_modelo
+49070.0,african-american,male,less than 25,1,4,mi_modelo
+52431.0,african-american,male,less than 25,1,1,mi_modelo
+53077.0,african-american,male,less than 25,0,4,mi_modelo
+51941.0,caucasian,female,less than 25,0,5,mi_modelo
+58846.0,african-american,female,25-45,0,2,mi_modelo
+52237.0,african-american,male,less than 25,1,2,mi_modelo
+53038.0,caucasian,male,greater than 65,0,10,mi_modelo
+56371.0,caucasian,female,46-65,1,10,mi_modelo
+51574.0,caucasian,male,less than 25,1,3,mi_modelo
+51852.0,other,male,25-45,0,8,mi_modelo
+58825.0,african-american,male,less than 25,1,5,mi_modelo
+56818.0,caucasian,female,25-45,1,7,mi_modelo
+53445.0,hispanic,male,less than 25,0,6,mi_modelo
+60544.0,hispanic,female,46-65,0,10,mi_modelo
+49532.0,african-american,male,less than 25,0,3,mi_modelo
+58927.0,african-american,male,less than 25,1,5,mi_modelo
+58391.0,african-american,male,25-45,0,6,mi_modelo
+60710.0,caucasian,male,less than 25,0,7,mi_modelo
+58997.0,african-american,male,less than 25,0,2,mi_modelo
+56728.0,african-american,male,25-45,0,9,mi_modelo
+54741.0,caucasian,female,46-65,0,10,mi_modelo
+51400.0,african-american,male,less than 25,1,2,mi_modelo
+57562.0,caucasian,male,25-45,0,3,mi_modelo
+50866.0,caucasian,male,46-65,0,10,mi_modelo
+5689.0,african-american,male,less than 25,1,3,mi_modelo
+25699.0,african-american,male,less than 25,1,1,mi_modelo
+49848.0,african-american,male,less than 25,1,1,mi_modelo
+869.0,other,male,less than 25,0,3,mi_modelo
+53021.0,african-american,male,25-45,0,8,mi_modelo
+52209.0,african-american,male,less than 25,1,1,mi_modelo
+2223.0,african-american,male,less than 25,0,4,mi_modelo
+51654.0,caucasian,male,25-45,1,2,mi_modelo
+61724.0,caucasian,male,less than 25,0,2,mi_modelo
+54895.0,caucasian,female,25-45,1,4,mi_modelo
+50848.0,caucasian,male,25-45,0,8,mi_modelo
+54466.0,african-american,female,25-45,0,8,mi_modelo
+60281.0,caucasian,female,25-45,0,9,mi_modelo
+42622.0,caucasian,male,less than 25,0,4,mi_modelo
+5052.0,african-american,male,25-45,1,5,mi_modelo
+57512.0,african-american,male,less than 25,0,7,mi_modelo
+60742.0,caucasian,male,25-45,0,9,mi_modelo
+55815.0,african-american,male,less than 25,0,6,mi_modelo
+57073.0,hispanic,male,less than 25,0,4,mi_modelo
+53333.0,african-american,male,25-45,0,4,mi_modelo
+57341.0,caucasian,female,25-45,0,9,mi_modelo
+51920.0,hispanic,male,less than 25,0,4,mi_modelo
+50978.0,african-american,male,less than 25,1,5,mi_modelo
+54824.0,african-american,male,less than 25,0,5,mi_modelo
+60411.0,african-american,male,less than 25,0,8,mi_modelo
+53909.0,caucasian,male,25-45,0,1,mi_modelo
+18516.0,african-american,male,less than 25,0,1,mi_modelo
+65018.0,caucasian,male,less than 25,1,3,mi_modelo
+62001.0,caucasian,male,25-45,0,9,mi_modelo
+17876.0,african-american,male,25-45,1,1,mi_modelo
+59033.0,caucasian,male,25-45,0,4,mi_modelo
+60410.0,caucasian,female,46-65,0,10,mi_modelo
+44720.0,african-american,male,25-45,0,2,mi_modelo
+53182.0,hispanic,male,46-65,0,10,mi_modelo
+58306.0,caucasian,male,25-45,0,8,mi_modelo
+59985.0,caucasian,female,less than 25,1,6,mi_modelo
+43195.0,caucasian,male,less than 25,0,1,mi_modelo
+61940.0,african-american,male,less than 25,0,5,mi_modelo
+55149.0,african-american,male,less than 25,0,2,mi_modelo
+8739.0,caucasian,male,25-45,1,3,mi_modelo
+51158.0,african-american,male,less than 25,0,3,mi_modelo
+53023.0,caucasian,male,less than 25,1,3,mi_modelo
+57979.0,caucasian,male,less than 25,0,4,mi_modelo
+59510.0,caucasian,female,46-65,0,10,mi_modelo
+39444.0,african-american,male,less than 25,1,3,mi_modelo
+15365.0,african-american,male,25-45,0,5,mi_modelo
+40942.0,african-american,male,25-45,0,8,mi_modelo
+57484.0,african-american,male,25-45,0,8,mi_modelo
+59312.0,caucasian,male,25-45,0,4,mi_modelo
+53722.0,african-american,male,less than 25,0,4,mi_modelo
+62169.0,caucasian,male,46-65,0,10,mi_modelo
+61777.0,hispanic,male,25-45,0,8,mi_modelo
+58762.0,hispanic,male,25-45,0,2,mi_modelo
+17711.0,caucasian,male,25-45,1,2,mi_modelo
+59375.0,caucasian,male,less than 25,0,4,mi_modelo
+51757.0,african-american,male,less than 25,0,6,mi_modelo
+62295.0,other,male,25-45,0,6,mi_modelo
+51221.0,other,male,less than 25,0,4,mi_modelo
+60299.0,caucasian,female,less than 25,0,7,mi_modelo
+51811.0,african-american,male,less than 25,0,4,mi_modelo
+5754.0,african-american,male,less than 25,0,3,mi_modelo
+56106.0,african-american,male,25-45,0,1,mi_modelo
+52674.0,caucasian,male,25-45,1,2,mi_modelo
+57022.0,african-american,female,25-45,0,8,mi_modelo
+54274.0,african-american,male,less than 25,1,3,mi_modelo
+49241.0,hispanic,female,25-45,1,1,mi_modelo
+61033.0,caucasian,male,less than 25,0,5,mi_modelo
+55367.0,caucasian,male,46-65,0,10,mi_modelo
+59320.0,african-american,male,less than 25,1,3,mi_modelo
+61815.0,caucasian,male,less than 25,1,4,mi_modelo
+58886.0,african-american,male,25-45,0,6,mi_modelo
+50902.0,hispanic,female,25-45,0,7,mi_modelo
+52941.0,caucasian,male,greater than 65,1,10,mi_modelo
+38886.0,african-american,male,25-45,0,5,mi_modelo
+60241.0,caucasian,male,25-45,0,10,mi_modelo
+60356.0,african-american,female,25-45,0,8,mi_modelo
+53493.0,hispanic,male,25-45,0,9,mi_modelo
+56045.0,african-american,male,25-45,0,7,mi_modelo
+54345.0,caucasian,female,less than 25,0,2,mi_modelo
+60004.0,caucasian,female,25-45,0,9,mi_modelo
+40508.0,caucasian,male,25-45,0,9,mi_modelo
+52517.0,hispanic,male,25-45,0,9,mi_modelo
+52597.0,african-american,male,less than 25,0,1,mi_modelo
+62127.0,caucasian,male,25-45,1,5,mi_modelo
+60173.0,hispanic,male,less than 25,1,1,mi_modelo
+61523.0,african-american,female,46-65,0,10,mi_modelo
+54646.0,hispanic,male,25-45,0,3,mi_modelo
+57367.0,caucasian,female,less than 25,0,5,mi_modelo
+60105.0,african-american,male,25-45,1,1,mi_modelo
+53143.0,african-american,female,25-45,0,2,mi_modelo
+50921.0,african-american,male,25-45,1,2,mi_modelo
+56213.0,caucasian,male,46-65,0,10,mi_modelo
+52902.0,african-american,male,25-45,1,9,mi_modelo
+53131.0,african-american,male,less than 25,1,4,mi_modelo
+52320.0,caucasian,female,less than 25,1,2,mi_modelo
+59531.0,caucasian,male,25-45,0,8,mi_modelo
+57455.0,african-american,female,less than 25,0,6,mi_modelo
+59679.0,african-american,male,less than 25,0,4,mi_modelo
+52841.0,caucasian,male,25-45,0,8,mi_modelo
+52519.0,african-american,male,25-45,0,8,mi_modelo
+61155.0,caucasian,male,25-45,0,1,mi_modelo
+51469.0,african-american,male,46-65,0,5,mi_modelo
+2067.0,african-american,female,25-45,1,4,mi_modelo
+60696.0,caucasian,male,25-45,1,10,mi_modelo
+59110.0,african-american,male,25-45,0,6,mi_modelo
+62060.0,african-american,male,25-45,0,9,mi_modelo
+48206.0,african-american,male,46-65,0,9,mi_modelo
+48900.0,caucasian,male,46-65,1,4,mi_modelo
+61784.0,african-american,male,25-45,1,9,mi_modelo
+56577.0,caucasian,male,46-65,1,10,mi_modelo
+55276.0,hispanic,female,25-45,0,8,mi_modelo
+60761.0,caucasian,male,25-45,0,6,mi_modelo
+60289.0,caucasian,female,46-65,1,10,mi_modelo
+54102.0,african-american,male,less than 25,0,7,mi_modelo
+53732.0,caucasian,male,25-45,0,6,mi_modelo
+57748.0,african-american,male,46-65,1,2,mi_modelo
+57174.0,caucasian,male,25-45,1,9,mi_modelo
+59024.0,caucasian,female,greater than 65,0,10,mi_modelo
+56194.0,african-american,male,25-45,1,8,mi_modelo
+59246.0,african-american,male,less than 25,0,6,mi_modelo
+39651.0,hispanic,male,46-65,1,4,mi_modelo
+56540.0,african-american,male,25-45,0,8,mi_modelo
+41486.0,caucasian,male,less than 25,1,2,mi_modelo
+53636.0,other,male,25-45,0,8,mi_modelo
+60154.0,african-american,female,25-45,1,2,mi_modelo
+56580.0,caucasian,female,25-45,0,9,mi_modelo
+57297.0,caucasian,male,46-65,0,6,mi_modelo
+56576.0,caucasian,male,46-65,0,9,mi_modelo
+52648.0,african-american,male,25-45,0,8,mi_modelo
+55806.0,hispanic,male,25-45,0,8,mi_modelo
+51368.0,hispanic,male,25-45,0,7,mi_modelo
+56937.0,caucasian,male,25-45,1,6,mi_modelo
+51216.0,african-american,male,25-45,0,1,mi_modelo
+16722.0,african-american,male,less than 25,1,1,mi_modelo
+43541.0,african-american,female,25-45,0,7,mi_modelo
+54864.0,african-american,female,25-45,0,7,mi_modelo
+52649.0,caucasian,male,25-45,1,9,mi_modelo
+54194.0,african-american,male,less than 25,1,5,mi_modelo
+57258.0,african-american,male,less than 25,1,2,mi_modelo
+54443.0,caucasian,female,46-65,0,10,mi_modelo
+51174.0,african-american,female,less than 25,0,7,mi_modelo
+27663.0,african-american,male,25-45,0,3,mi_modelo
+60865.0,african-american,female,25-45,0,8,mi_modelo
+54351.0,african-american,male,less than 25,1,1,mi_modelo
+52472.0,african-american,male,less than 25,0,8,mi_modelo
+52197.0,caucasian,male,25-45,1,8,mi_modelo
+51948.0,caucasian,male,46-65,0,9,mi_modelo
+58764.0,african-american,male,25-45,1,4,mi_modelo
+61732.0,african-american,male,less than 25,0,4,mi_modelo
+53367.0,hispanic,male,25-45,1,3,mi_modelo
+29843.0,african-american,male,25-45,0,7,mi_modelo
+16568.0,african-american,male,less than 25,1,1,mi_modelo
+57040.0,african-american,male,25-45,1,3,mi_modelo
+60994.0,hispanic,male,46-65,0,10,mi_modelo
+15671.0,african-american,male,25-45,0,9,mi_modelo
+59698.0,other,male,25-45,0,8,mi_modelo
+55048.0,other,female,25-45,0,8,mi_modelo
+62183.0,hispanic,male,less than 25,0,7,mi_modelo
+51894.0,other,male,less than 25,0,6,mi_modelo
+17692.0,hispanic,male,25-45,0,5,mi_modelo
+51919.0,caucasian,male,25-45,0,9,mi_modelo
+7970.0,african-american,male,25-45,1,1,mi_modelo
+50995.0,caucasian,male,25-45,0,7,mi_modelo
+18577.0,caucasian,male,25-45,0,6,mi_modelo
+52218.0,caucasian,male,less than 25,0,6,mi_modelo
+54286.0,african-american,male,25-45,0,1,mi_modelo
+52229.0,caucasian,male,25-45,0,8,mi_modelo
+52171.0,african-american,female,46-65,0,5,mi_modelo
+58244.0,other,male,25-45,1,5,mi_modelo
+56219.0,caucasian,male,46-65,0,9,mi_modelo
+62199.0,african-american,male,25-45,1,1,mi_modelo
+51218.0,african-american,male,46-65,1,2,mi_modelo
+35882.0,caucasian,male,25-45,1,2,mi_modelo
+16757.0,caucasian,male,25-45,0,5,mi_modelo
+60097.0,caucasian,male,less than 25,0,3,mi_modelo
+60039.0,caucasian,male,less than 25,0,2,mi_modelo
+53750.0,hispanic,female,less than 25,0,5,mi_modelo
+60855.0,caucasian,male,less than 25,1,3,mi_modelo
+56710.0,caucasian,male,25-45,0,7,mi_modelo
+54479.0,african-american,male,less than 25,0,6,mi_modelo
+59222.0,caucasian,male,46-65,0,10,mi_modelo
+57583.0,african-american,male,less than 25,1,1,mi_modelo
+59968.0,caucasian,male,less than 25,0,3,mi_modelo
+61624.0,african-american,male,46-65,0,8,mi_modelo
+57592.0,african-american,female,25-45,1,1,mi_modelo
+40687.0,african-american,male,less than 25,1,1,mi_modelo
+55142.0,caucasian,male,less than 25,0,6,mi_modelo
+53307.0,african-american,male,25-45,0,9,mi_modelo
+57296.0,african-american,male,25-45,0,7,mi_modelo
+54901.0,african-american,male,46-65,0,1,mi_modelo
+35899.0,african-american,male,less than 25,1,1,mi_modelo
+59042.0,hispanic,male,25-45,0,9,mi_modelo
+53447.0,african-american,male,less than 25,0,1,mi_modelo
+51918.0,african-american,male,less than 25,0,5,mi_modelo
+60065.0,caucasian,female,less than 25,0,3,mi_modelo
+52905.0,hispanic,male,less than 25,1,5,mi_modelo
+50984.0,caucasian,female,less than 25,1,2,mi_modelo
+51626.0,caucasian,male,25-45,0,9,mi_modelo
+59634.0,caucasian,male,less than 25,0,7,mi_modelo
+60397.0,african-american,male,25-45,0,7,mi_modelo
+54336.0,caucasian,male,less than 25,0,5,mi_modelo
+5346.0,african-american,male,46-65,1,1,mi_modelo
+57543.0,african-american,male,25-45,1,1,mi_modelo
+60880.0,african-american,male,46-65,0,9,mi_modelo
+56142.0,caucasian,male,46-65,0,10,mi_modelo
+52637.0,caucasian,female,25-45,0,9,mi_modelo
+56343.0,caucasian,female,less than 25,0,3,mi_modelo
+59215.0,african-american,male,less than 25,1,4,mi_modelo
+8888.0,african-american,male,less than 25,0,5,mi_modelo
+60514.0,caucasian,male,46-65,0,9,mi_modelo
+50508.0,hispanic,male,46-65,0,10,mi_modelo
+62190.0,african-american,male,less than 25,0,4,mi_modelo
+52476.0,african-american,male,less than 25,1,3,mi_modelo
+54041.0,caucasian,male,46-65,1,3,mi_modelo
+50989.0,hispanic,male,25-45,1,7,mi_modelo
+42327.0,african-american,male,less than 25,0,4,mi_modelo
+54528.0,african-american,female,25-45,0,8,mi_modelo
+52289.0,caucasian,male,25-45,1,2,mi_modelo
+61150.0,african-american,male,25-45,0,6,mi_modelo
+55489.0,african-american,male,25-45,0,7,mi_modelo
+59641.0,african-american,male,25-45,0,8,mi_modelo
+59474.0,other,male,25-45,0,8,propublica
+59890.0,african-american,male,less than 25,1,7,propublica
+61156.0,hispanic,male,less than 25,0,8,propublica
+57039.0,caucasian,female,25-45,0,8,propublica
+58070.0,other,male,less than 25,1,6,propublica
+59243.0,african-american,male,less than 25,1,1,propublica
+56956.0,african-american,male,25-45,1,2,propublica
+53694.0,hispanic,male,less than 25,0,2,propublica
+20833.0,african-american,male,less than 25,0,3,propublica
+55654.0,caucasian,male,25-45,1,5,propublica
+56328.0,caucasian,male,25-45,0,8,propublica
+52294.0,african-american,male,25-45,0,2,propublica
+56488.0,caucasian,male,46-65,0,8,propublica
+43912.0,african-american,male,46-65,1,8,propublica
+54467.0,african-american,male,less than 25,1,5,propublica
+60092.0,other,female,25-45,0,8,propublica
+34412.0,african-american,female,25-45,0,2,propublica
+58386.0,african-american,male,less than 25,1,3,propublica
+50735.0,african-american,male,46-65,1,2,propublica
+56713.0,african-american,female,25-45,0,5,propublica
+47596.0,caucasian,female,25-45,1,6,propublica
+58497.0,caucasian,male,less than 25,1,6,propublica
+51081.0,african-american,male,25-45,0,8,propublica
+53259.0,other,male,less than 25,0,4,propublica
+53751.0,caucasian,male,46-65,1,8,propublica
+60283.0,african-american,female,less than 25,0,5,propublica
+51665.0,hispanic,male,less than 25,0,8,propublica
+57097.0,african-american,male,25-45,1,5,propublica
+23645.0,african-american,male,less than 25,1,2,propublica
+61635.0,caucasian,male,46-65,0,8,propublica
+54601.0,african-american,male,25-45,0,6,propublica
+57798.0,caucasian,female,less than 25,0,5,propublica
+8157.0,african-american,male,less than 25,1,2,propublica
+58863.0,african-american,male,25-45,1,1,propublica
+19580.0,african-american,male,less than 25,1,2,propublica
+55820.0,hispanic,male,less than 25,0,5,propublica
+43420.0,african-american,male,46-65,1,2,propublica
+61441.0,african-american,male,46-65,0,8,propublica
+58722.0,other,male,25-45,1,6,propublica
+57970.0,african-american,female,25-45,1,1,propublica
+53308.0,caucasian,female,25-45,0,8,propublica
+25222.0,african-american,male,less than 25,1,3,propublica
+51625.0,caucasian,male,25-45,1,7,propublica
+27066.0,african-american,male,46-65,1,7,propublica
+60112.0,african-american,male,less than 25,0,4,propublica
+58002.0,caucasian,female,25-45,1,5,propublica
+54327.0,caucasian,male,46-65,0,8,propublica
+50853.0,african-american,male,less than 25,1,2,propublica
+54911.0,caucasian,female,less than 25,0,4,propublica
+56078.0,caucasian,female,46-65,0,8,propublica
+62216.0,african-american,male,25-45,0,2,propublica
+31059.0,caucasian,male,25-45,1,4,propublica
+57311.0,hispanic,male,46-65,0,8,propublica
+60530.0,african-american,male,25-45,0,6,propublica
+54108.0,african-american,male,less than 25,0,6,propublica
+51379.0,african-american,female,25-45,0,5,propublica
+62046.0,caucasian,male,25-45,0,8,propublica
+11454.0,african-american,female,less than 25,0,2,propublica
+53460.0,african-american,male,25-45,0,8,propublica
+59273.0,african-american,male,25-45,1,6,propublica
+56102.0,african-american,female,46-65,0,8,propublica
+53226.0,other,male,less than 25,1,8,propublica
+40741.0,african-american,male,25-45,0,4,propublica
+56179.0,african-american,female,25-45,0,4,propublica
+53733.0,african-american,male,25-45,1,8,propublica
+52682.0,african-american,male,25-45,0,7,propublica
+29185.0,african-american,male,less than 25,0,8,propublica
+46409.0,african-american,male,less than 25,0,4,propublica
+61056.0,caucasian,male,25-45,0,8,propublica
+52976.0,african-american,male,25-45,0,1,propublica
+58960.0,caucasian,female,less than 25,0,3,propublica
+50888.0,african-american,male,less than 25,0,8,propublica
+59114.0,caucasian,male,25-45,0,8,propublica
+59453.0,african-american,male,less than 25,1,2,propublica
+57323.0,caucasian,male,46-65,0,8,propublica
+57270.0,african-american,female,less than 25,0,8,propublica
+51402.0,other,male,25-45,1,8,propublica
+61087.0,african-american,male,25-45,0,8,propublica
+48433.0,african-american,male,less than 25,1,3,propublica
+50890.0,african-american,male,25-45,0,8,propublica
+53723.0,african-american,male,46-65,1,2,propublica
+61655.0,hispanic,female,25-45,0,8,propublica
+55080.0,caucasian,male,46-65,0,8,propublica
+54822.0,caucasian,female,25-45,0,8,propublica
+49449.0,african-american,female,less than 25,0,2,propublica
+50925.0,african-american,male,25-45,0,4,propublica
+55007.0,caucasian,male,25-45,0,7,propublica
+62002.0,african-american,male,less than 25,0,7,propublica
+52709.0,african-american,male,less than 25,1,2,propublica
+34682.0,african-american,male,46-65,0,8,propublica
+60899.0,african-american,male,less than 25,0,7,propublica
+52807.0,african-american,male,less than 25,1,2,propublica
+54403.0,caucasian,male,25-45,0,8,propublica
+58498.0,african-american,female,less than 25,0,2,propublica
+60862.0,african-american,male,25-45,0,8,propublica
+52288.0,caucasian,male,25-45,0,5,propublica
+58209.0,other,male,46-65,0,8,propublica
+57975.0,caucasian,male,25-45,0,8,propublica
+56008.0,caucasian,male,less than 25,1,2,propublica
+61404.0,caucasian,male,25-45,0,5,propublica
+51729.0,african-american,male,less than 25,1,6,propublica
+54232.0,caucasian,male,less than 25,1,5,propublica
+39898.0,other,male,less than 25,0,4,propublica
+53788.0,caucasian,female,less than 25,0,4,propublica
+34102.0,african-american,male,25-45,0,3,propublica
+52784.0,caucasian,male,25-45,0,6,propublica
+60713.0,caucasian,male,25-45,1,8,propublica
+7663.0,african-american,male,25-45,0,4,propublica
+15395.0,caucasian,male,25-45,1,6,propublica
+52094.0,african-american,male,less than 25,1,7,propublica
+57338.0,african-american,female,25-45,0,2,propublica
+32763.0,african-american,male,less than 25,0,1,propublica
+53825.0,african-american,male,25-45,0,2,propublica
+53811.0,african-american,male,25-45,0,8,propublica
+59717.0,caucasian,female,25-45,0,8,propublica
+51651.0,caucasian,male,46-65,0,8,propublica
+55521.0,caucasian,female,46-65,0,8,propublica
+56326.0,african-american,male,25-45,1,1,propublica
+56720.0,hispanic,male,less than 25,0,8,propublica
+51913.0,african-american,female,25-45,0,8,propublica
+54063.0,caucasian,male,25-45,0,8,propublica
+54961.0,hispanic,male,46-65,0,8,propublica
+41644.0,hispanic,male,less than 25,1,2,propublica
+4584.0,african-american,male,25-45,1,5,propublica
+59607.0,african-american,female,46-65,0,6,propublica
+33606.0,african-american,male,less than 25,0,4,propublica
+55636.0,african-american,male,25-45,0,5,propublica
+51978.0,african-american,male,25-45,1,2,propublica
+56520.0,african-american,male,less than 25,1,7,propublica
+59196.0,african-american,male,25-45,1,2,propublica
+57293.0,caucasian,male,25-45,1,8,propublica
+8021.0,caucasian,male,less than 25,0,5,propublica
+2609.0,hispanic,male,less than 25,0,6,propublica
+62279.0,caucasian,male,greater than 65,1,8,propublica
+57432.0,hispanic,male,46-65,0,8,propublica
+51684.0,african-american,male,less than 25,0,7,propublica
+56396.0,caucasian,female,46-65,0,8,propublica
+22310.0,caucasian,male,25-45,1,3,propublica
+50953.0,african-american,male,46-65,0,6,propublica
+59455.0,african-american,male,46-65,0,6,propublica
+27745.0,african-american,male,25-45,1,6,propublica
+55805.0,caucasian,male,25-45,0,8,propublica
+36630.0,african-american,male,less than 25,1,2,propublica
+55088.0,caucasian,male,46-65,0,7,propublica
+59115.0,african-american,male,25-45,1,6,propublica
+62395.0,caucasian,female,46-65,0,8,propublica
+47770.0,african-american,male,less than 25,1,1,propublica
+51462.0,other,male,25-45,0,8,propublica
+51685.0,caucasian,male,46-65,0,8,propublica
+46588.0,african-american,male,less than 25,1,2,propublica
+60467.0,african-american,male,less than 25,0,6,propublica
+60662.0,caucasian,male,less than 25,1,5,propublica
+42501.0,african-american,male,less than 25,0,7,propublica
+57762.0,african-american,female,less than 25,0,7,propublica
+63177.0,african-american,male,less than 25,0,6,propublica
+55206.0,caucasian,male,46-65,0,8,propublica
+55234.0,caucasian,male,25-45,0,8,propublica
+61809.0,caucasian,female,46-65,0,4,propublica
+59036.0,african-american,male,less than 25,1,4,propublica
+56825.0,caucasian,male,25-45,0,5,propublica
+56704.0,caucasian,female,less than 25,1,5,propublica
+57976.0,african-american,male,25-45,0,6,propublica
+52707.0,african-american,male,25-45,0,1,propublica
+57475.0,hispanic,male,25-45,0,4,propublica
+9376.0,african-american,male,less than 25,1,5,propublica
+62069.0,african-american,male,25-45,1,2,propublica
+61510.0,caucasian,male,25-45,0,8,propublica
+51636.0,african-american,female,less than 25,0,5,propublica
+59043.0,caucasian,male,25-45,1,4,propublica
+57466.0,other,male,25-45,1,8,propublica
+59461.0,caucasian,male,25-45,0,2,propublica
+54454.0,caucasian,male,25-45,0,8,propublica
+60692.0,african-american,male,less than 25,1,3,propublica
+54150.0,caucasian,male,25-45,0,7,propublica
+52075.0,caucasian,female,25-45,0,8,propublica
+52482.0,hispanic,male,46-65,1,6,propublica
+52686.0,african-american,male,25-45,0,8,propublica
+59794.0,other,male,46-65,0,8,propublica
+54570.0,hispanic,male,46-65,0,8,propublica
+57028.0,african-american,male,less than 25,0,7,propublica
+54773.0,caucasian,male,25-45,0,8,propublica
+51393.0,caucasian,male,25-45,1,6,propublica
+56068.0,african-american,male,less than 25,1,7,propublica
+55854.0,african-american,male,less than 25,0,7,propublica
+57704.0,caucasian,male,25-45,1,6,propublica
+58549.0,caucasian,male,46-65,0,8,propublica
+57233.0,african-american,female,less than 25,1,4,propublica
+54905.0,caucasian,male,25-45,1,4,propublica
+59198.0,african-american,female,25-45,1,6,propublica
+53423.0,other,male,25-45,0,8,propublica
+58237.0,african-american,male,25-45,0,8,propublica
+54625.0,african-american,male,46-65,1,8,propublica
+59101.0,african-american,male,less than 25,1,2,propublica
+54438.0,caucasian,male,less than 25,0,5,propublica
+54706.0,caucasian,male,46-65,0,8,propublica
+32013.0,hispanic,male,25-45,0,8,propublica
+56456.0,hispanic,male,25-45,0,8,propublica
+57163.0,other,male,25-45,0,8,propublica
+54104.0,other,male,less than 25,0,6,propublica
+56987.0,african-american,male,25-45,0,6,propublica
+1279.0,caucasian,female,25-45,0,6,propublica
+2920.0,african-american,male,25-45,0,6,propublica
+58867.0,caucasian,male,25-45,1,7,propublica
+57666.0,caucasian,male,46-65,0,6,propublica
+53702.0,caucasian,female,46-65,0,8,propublica
+4994.0,african-american,male,46-65,1,4,propublica
+53567.0,african-american,male,25-45,1,3,propublica
+56745.0,african-american,male,less than 25,0,2,propublica
+53037.0,african-american,female,less than 25,1,7,propublica
+58678.0,caucasian,female,less than 25,0,3,propublica
+60807.0,african-american,male,less than 25,1,4,propublica
+47480.0,african-american,male,25-45,1,4,propublica
+58425.0,hispanic,male,less than 25,0,3,propublica
+54219.0,caucasian,female,25-45,0,6,propublica
+51502.0,african-american,male,25-45,1,5,propublica
+61620.0,african-american,male,less than 25,0,8,propublica
+51195.0,african-american,female,less than 25,0,2,propublica
+56994.0,caucasian,female,25-45,1,8,propublica
+57064.0,african-american,male,less than 25,0,8,propublica
+61480.0,caucasian,male,46-65,1,8,propublica
+23992.0,african-american,male,46-65,1,2,propublica
+2305.0,african-american,male,less than 25,0,2,propublica
+31012.0,african-american,male,25-45,1,3,propublica
+57470.0,hispanic,male,25-45,0,5,propublica
+55096.0,african-american,male,25-45,0,8,propublica
+58403.0,caucasian,female,less than 25,0,1,propublica
+52506.0,african-american,male,25-45,0,7,propublica
+61182.0,caucasian,male,less than 25,1,5,propublica
+43205.0,african-american,female,less than 25,0,4,propublica
+26934.0,other,female,25-45,1,1,propublica
+57882.0,african-american,female,25-45,0,8,propublica
+58669.0,hispanic,female,25-45,0,8,propublica
+45351.0,caucasian,female,less than 25,0,4,propublica
+59211.0,caucasian,male,46-65,0,8,propublica
+55770.0,african-american,male,less than 25,0,7,propublica
+58539.0,african-american,female,25-45,1,8,propublica
+61789.0,african-american,female,less than 25,0,8,propublica
+54262.0,caucasian,male,25-45,0,4,propublica
+52982.0,african-american,female,25-45,1,4,propublica
+52768.0,caucasian,male,greater than 65,0,8,propublica
+54331.0,caucasian,male,25-45,0,8,propublica
+32337.0,african-american,male,25-45,1,2,propublica
+35022.0,african-american,male,25-45,0,8,propublica
+56192.0,hispanic,male,25-45,1,8,propublica
+61097.0,african-american,male,less than 25,1,8,propublica
+40176.0,african-american,female,25-45,0,8,propublica
+13459.0,african-american,female,less than 25,1,2,propublica
+53565.0,caucasian,male,25-45,1,2,propublica
+60142.0,african-american,male,25-45,1,2,propublica
+52234.0,other,male,25-45,0,7,propublica
+54687.0,caucasian,female,25-45,1,3,propublica
+48595.0,african-american,female,less than 25,1,1,propublica
+28048.0,african-american,female,25-45,0,3,propublica
+60146.0,african-american,female,25-45,1,5,propublica
+2462.0,caucasian,male,46-65,0,8,propublica
+54781.0,african-american,male,less than 25,0,4,propublica
+53228.0,caucasian,male,25-45,1,7,propublica
+60027.0,african-american,male,25-45,0,8,propublica
+57809.0,caucasian,male,25-45,0,6,propublica
+54674.0,caucasian,female,46-65,0,8,propublica
+54964.0,caucasian,male,less than 25,0,7,propublica
+52497.0,caucasian,male,46-65,0,8,propublica
+60571.0,caucasian,female,25-45,1,2,propublica
+50965.0,african-american,male,25-45,1,2,propublica
+60632.0,african-american,male,46-65,0,8,propublica
+56447.0,hispanic,male,less than 25,0,5,propublica
+62158.0,african-american,male,25-45,1,8,propublica
+33083.0,caucasian,male,46-65,0,8,propublica
+59412.0,caucasian,male,46-65,0,7,propublica
+58327.0,african-american,male,46-65,1,4,propublica
+59034.0,african-american,female,46-65,1,8,propublica
+57940.0,caucasian,male,25-45,1,6,propublica
+59955.0,african-american,male,25-45,0,2,propublica
+52857.0,hispanic,male,25-45,1,8,propublica
+44229.0,african-american,male,25-45,0,5,propublica
+51506.0,caucasian,female,46-65,0,8,propublica
+53281.0,african-american,male,46-65,1,8,propublica
+57316.0,african-american,male,46-65,0,4,propublica
+55131.0,caucasian,female,25-45,0,8,propublica
+56685.0,hispanic,male,less than 25,0,3,propublica
+61994.0,african-american,male,46-65,0,8,propublica
+52741.0,african-american,male,25-45,0,4,propublica
+21268.0,caucasian,male,less than 25,0,3,propublica
+54365.0,other,male,less than 25,0,5,propublica
+21458.0,african-american,male,46-65,0,8,propublica
+59898.0,caucasian,male,25-45,0,6,propublica
+14331.0,caucasian,male,less than 25,1,4,propublica
+2753.0,caucasian,male,less than 25,0,6,propublica
+61444.0,caucasian,male,less than 25,0,6,propublica
+51133.0,caucasian,male,46-65,0,8,propublica
+22711.0,african-american,male,25-45,1,8,propublica
+51429.0,african-american,male,less than 25,1,8,propublica
+54639.0,caucasian,male,25-45,1,7,propublica
+53773.0,african-american,male,46-65,0,2,propublica
+59864.0,other,male,less than 25,0,6,propublica
+53881.0,caucasian,male,46-65,0,8,propublica
+57764.0,hispanic,male,46-65,0,8,propublica
+59171.0,caucasian,male,25-45,1,2,propublica
+57973.0,caucasian,female,less than 25,0,2,propublica
+51488.0,caucasian,male,less than 25,0,8,propublica
+59051.0,caucasian,female,less than 25,0,6,propublica
+53557.0,other,male,25-45,0,4,propublica
+55934.0,hispanic,male,25-45,0,8,propublica
+55642.0,african-american,male,46-65,0,8,propublica
+58796.0,african-american,male,25-45,1,5,propublica
+59301.0,other,male,25-45,0,8,propublica
+5705.0,african-american,male,less than 25,1,3,propublica
+52870.0,caucasian,male,25-45,0,8,propublica
+56325.0,african-american,male,25-45,0,2,propublica
+54381.0,hispanic,male,25-45,0,7,propublica
+59116.0,african-american,male,less than 25,1,8,propublica
+40675.0,african-american,male,less than 25,0,4,propublica
+58557.0,african-american,female,46-65,0,8,propublica
+60204.0,african-american,female,25-45,1,3,propublica
+21533.0,african-american,male,25-45,1,1,propublica
+52463.0,hispanic,female,25-45,0,6,propublica
+56916.0,hispanic,male,less than 25,0,2,propublica
+53705.0,african-american,male,less than 25,1,2,propublica
+58363.0,african-american,male,25-45,1,5,propublica
+57584.0,caucasian,male,46-65,0,8,propublica
+52646.0,african-american,male,less than 25,1,2,propublica
+61106.0,caucasian,male,less than 25,0,7,propublica
+61574.0,african-american,female,25-45,0,7,propublica
+56731.0,african-american,female,less than 25,0,4,propublica
+58929.0,african-american,male,less than 25,1,4,propublica
+56233.0,african-american,male,46-65,0,8,propublica
+58626.0,african-american,male,less than 25,1,6,propublica
+52279.0,caucasian,male,25-45,0,8,propublica
+61986.0,other,male,less than 25,0,6,propublica
+35385.0,caucasian,male,46-65,0,3,propublica
+53455.0,caucasian,male,less than 25,0,3,propublica
+39175.0,african-american,male,less than 25,1,7,propublica
+59199.0,caucasian,male,25-45,1,8,propublica
+60466.0,caucasian,male,46-65,0,8,propublica
+54656.0,hispanic,male,25-45,1,2,propublica
+55927.0,hispanic,male,25-45,1,2,propublica
+58873.0,caucasian,male,46-65,1,8,propublica
+52233.0,hispanic,male,less than 25,1,5,propublica
+51242.0,african-american,male,less than 25,0,8,propublica
+60893.0,african-american,male,less than 25,0,7,propublica
+57946.0,african-american,female,25-45,0,8,propublica
+43041.0,caucasian,female,25-45,1,3,propublica
+54763.0,hispanic,male,25-45,0,8,propublica
+52167.0,african-american,female,25-45,0,4,propublica
+52432.0,caucasian,male,25-45,0,7,propublica
+51720.0,caucasian,male,less than 25,1,2,propublica
+48272.0,african-american,male,less than 25,0,2,propublica
+59532.0,other,male,25-45,0,8,propublica
+51902.0,other,male,less than 25,0,6,propublica
+53151.0,african-american,female,less than 25,0,8,propublica
+60876.0,caucasian,male,25-45,0,6,propublica
+61403.0,african-american,female,less than 25,0,5,propublica
+54764.0,african-american,male,25-45,0,2,propublica
+56260.0,hispanic,male,25-45,1,8,propublica
+19187.0,african-american,male,less than 25,0,2,propublica
+61812.0,hispanic,male,less than 25,0,8,propublica
+56473.0,caucasian,male,25-45,0,5,propublica
+58763.0,caucasian,male,25-45,0,2,propublica
+58692.0,caucasian,male,46-65,0,8,propublica
+59537.0,caucasian,male,46-65,0,8,propublica
+61419.0,caucasian,male,25-45,1,2,propublica
+15663.0,hispanic,male,less than 25,1,4,propublica
+51039.0,caucasian,female,46-65,0,6,propublica
+34944.0,african-american,male,25-45,0,2,propublica
+32316.0,african-american,male,less than 25,0,3,propublica
+53042.0,other,male,25-45,0,8,propublica
+57807.0,african-american,male,25-45,0,6,propublica
+51191.0,african-american,male,less than 25,1,1,propublica
+57441.0,hispanic,male,25-45,0,8,propublica
+44458.0,african-american,male,less than 25,1,2,propublica
+60863.0,african-american,male,less than 25,1,6,propublica
+61234.0,caucasian,male,25-45,0,8,propublica
+56247.0,caucasian,male,less than 25,0,2,propublica
+5287.0,african-american,female,25-45,1,2,propublica
+52048.0,african-american,male,less than 25,0,3,propublica
+61484.0,caucasian,male,less than 25,0,8,propublica
+59827.0,caucasian,male,46-65,0,8,propublica
+54592.0,caucasian,male,less than 25,1,2,propublica
+38097.0,african-american,male,25-45,1,1,propublica
+46183.0,african-american,male,25-45,0,2,propublica
+8382.0,caucasian,male,25-45,1,4,propublica
+57386.0,african-american,male,25-45,1,6,propublica
+60659.0,caucasian,male,25-45,1,8,propublica
+36886.0,african-american,male,25-45,0,8,propublica
+60349.0,caucasian,female,46-65,1,8,propublica
+52950.0,caucasian,female,less than 25,1,6,propublica
+57418.0,african-american,male,46-65,0,8,propublica
+61823.0,caucasian,male,25-45,0,7,propublica
+10580.0,african-american,male,less than 25,1,5,propublica
+51127.0,caucasian,male,25-45,0,8,propublica
+61501.0,caucasian,male,25-45,0,8,propublica
+27573.0,african-american,male,less than 25,0,2,propublica
+36003.0,caucasian,male,less than 25,0,5,propublica
+54092.0,african-american,male,46-65,1,8,propublica
+53036.0,african-american,male,25-45,1,8,propublica
+57903.0,african-american,male,25-45,0,6,propublica
+9377.0,african-american,male,less than 25,1,3,propublica
+53655.0,african-american,male,less than 25,1,2,propublica
+61075.0,caucasian,male,25-45,0,8,propublica
+51359.0,african-american,male,less than 25,1,7,propublica
+52704.0,caucasian,male,25-45,0,7,propublica
+34031.0,african-american,male,25-45,0,8,propublica
+60036.0,caucasian,male,25-45,0,3,propublica
+26144.0,african-american,male,25-45,0,7,propublica
+45111.0,african-american,male,25-45,0,4,propublica
+58782.0,hispanic,male,46-65,0,8,propublica
+53727.0,african-american,male,25-45,1,3,propublica
+39483.0,caucasian,male,less than 25,0,8,propublica
+51217.0,african-american,male,less than 25,0,2,propublica
+55090.0,hispanic,male,less than 25,1,2,propublica
+57532.0,african-american,female,less than 25,0,8,propublica
+55617.0,african-american,male,less than 25,0,6,propublica
+59045.0,african-american,male,25-45,1,5,propublica
+58865.0,caucasian,male,46-65,0,8,propublica
+54402.0,african-american,male,46-65,0,8,propublica
+51719.0,african-american,male,46-65,0,8,propublica
+54711.0,african-american,male,25-45,0,2,propublica
+52494.0,hispanic,male,25-45,0,8,propublica
+60739.0,caucasian,male,46-65,1,8,propublica
+55115.0,african-american,male,25-45,1,6,propublica
+56152.0,african-american,female,25-45,0,7,propublica
+37356.0,african-american,male,less than 25,1,3,propublica
+54638.0,african-american,female,less than 25,0,6,propublica
+54642.0,other,male,25-45,0,8,propublica
+51679.0,other,male,less than 25,1,7,propublica
+60127.0,african-american,male,25-45,0,5,propublica
+56104.0,african-american,male,25-45,0,8,propublica
+54907.0,african-american,male,25-45,1,2,propublica
+22507.0,african-american,male,25-45,1,1,propublica
+52706.0,african-american,male,25-45,0,8,propublica
+41977.0,african-american,male,25-45,0,8,propublica
+52295.0,caucasian,male,less than 25,0,2,propublica
+31989.0,african-american,female,25-45,0,2,propublica
+60981.0,african-american,male,25-45,1,1,propublica
+52317.0,caucasian,male,25-45,0,3,propublica
+61185.0,caucasian,male,less than 25,0,6,propublica
+54489.0,african-american,male,less than 25,0,5,propublica
+59140.0,caucasian,female,less than 25,0,5,propublica
+60927.0,african-american,male,less than 25,0,5,propublica
+23691.0,african-american,female,46-65,0,2,propublica
+52609.0,hispanic,male,25-45,0,8,propublica
+61762.0,hispanic,male,46-65,1,8,propublica
+51865.0,caucasian,male,46-65,1,6,propublica
+60546.0,african-american,male,less than 25,0,8,propublica
+55514.0,african-american,male,less than 25,1,7,propublica
+55593.0,caucasian,male,46-65,1,8,propublica
+38904.0,caucasian,male,25-45,0,8,propublica
+58176.0,african-american,male,46-65,0,6,propublica
+60702.0,other,female,25-45,0,8,propublica
+55773.0,caucasian,male,greater than 65,0,8,propublica
+62218.0,hispanic,female,46-65,0,8,propublica
+56074.0,african-american,male,46-65,1,5,propublica
+47684.0,african-american,female,less than 25,1,4,propublica
+60350.0,african-american,male,46-65,0,8,propublica
+56281.0,caucasian,male,25-45,0,8,propublica
+57507.0,caucasian,male,less than 25,0,4,propublica
+59112.0,caucasian,male,25-45,0,8,propublica
+56341.0,african-american,male,less than 25,1,1,propublica
+51613.0,caucasian,male,25-45,0,6,propublica
+51167.0,caucasian,female,25-45,0,8,propublica
+60139.0,caucasian,male,25-45,0,6,propublica
+59913.0,african-american,female,less than 25,0,6,propublica
+53556.0,caucasian,male,46-65,0,8,propublica
+50892.0,caucasian,male,less than 25,1,2,propublica
+57260.0,african-american,male,25-45,1,6,propublica
+59329.0,caucasian,male,25-45,1,2,propublica
+62141.0,caucasian,male,less than 25,0,7,propublica
+58476.0,african-american,male,25-45,1,3,propublica
+61868.0,african-american,male,less than 25,0,2,propublica
+54521.0,african-american,male,46-65,0,8,propublica
+51456.0,african-american,male,46-65,0,5,propublica
+53352.0,caucasian,male,25-45,0,5,propublica
+54589.0,african-american,male,25-45,0,4,propublica
+52002.0,hispanic,male,25-45,1,8,propublica
+55065.0,caucasian,female,25-45,1,7,propublica
+13400.0,african-american,male,less than 25,1,6,propublica
+61678.0,caucasian,male,25-45,0,8,propublica
+55360.0,hispanic,female,less than 25,1,4,propublica
+57561.0,african-american,female,less than 25,0,6,propublica
+53890.0,african-american,male,less than 25,0,5,propublica
+52272.0,african-american,male,less than 25,1,5,propublica
+54018.0,african-american,male,25-45,0,7,propublica
+51148.0,african-american,male,25-45,0,8,propublica
+52369.0,caucasian,male,46-65,0,7,propublica
+53137.0,caucasian,male,46-65,0,8,propublica
+61038.0,african-american,male,25-45,0,3,propublica
+65542.0,hispanic,female,less than 25,0,6,propublica
+59102.0,african-american,male,25-45,0,8,propublica
+57796.0,caucasian,female,46-65,1,7,propublica
+54495.0,other,male,25-45,1,8,propublica
+55978.0,african-american,female,less than 25,0,7,propublica
+54105.0,african-american,male,less than 25,0,5,propublica
+52743.0,hispanic,male,less than 25,0,4,propublica
+53855.0,african-american,male,25-45,0,8,propublica
+62186.0,african-american,male,less than 25,0,2,propublica
+53505.0,caucasian,male,less than 25,0,3,propublica
+61486.0,caucasian,male,46-65,0,8,propublica
+56131.0,african-american,male,less than 25,1,3,propublica
+4403.0,caucasian,male,25-45,0,8,propublica
+52840.0,african-american,female,less than 25,1,3,propublica
+55576.0,african-american,male,25-45,0,2,propublica
+58891.0,caucasian,male,less than 25,0,8,propublica
+59809.0,caucasian,female,less than 25,1,2,propublica
+52134.0,caucasian,male,25-45,0,8,propublica
+52946.0,hispanic,male,less than 25,0,7,propublica
+44123.0,hispanic,male,46-65,0,8,propublica
+52685.0,african-american,male,less than 25,1,6,propublica
+54882.0,african-american,female,less than 25,0,5,propublica
+61050.0,african-american,male,25-45,0,8,propublica
+61785.0,hispanic,male,46-65,0,8,propublica
+59960.0,caucasian,female,46-65,0,8,propublica
+62210.0,african-american,male,46-65,1,4,propublica
+52151.0,caucasian,female,25-45,0,2,propublica
+51380.0,caucasian,male,25-45,0,6,propublica
+57185.0,african-american,male,less than 25,1,5,propublica
+57115.0,other,female,25-45,0,8,propublica
+61018.0,hispanic,male,less than 25,0,2,propublica
+61350.0,african-american,male,less than 25,0,8,propublica
+55101.0,african-american,female,46-65,0,8,propublica
+52668.0,african-american,male,25-45,1,4,propublica
+18210.0,african-american,male,46-65,0,3,propublica
+52750.0,hispanic,male,25-45,0,8,propublica
+60218.0,african-american,male,25-45,0,8,propublica
+62064.0,caucasian,male,less than 25,0,2,propublica
+6733.0,african-american,male,25-45,0,2,propublica
+51605.0,african-american,male,25-45,1,7,propublica
+57863.0,caucasian,male,less than 25,0,7,propublica
+22566.0,african-american,male,25-45,1,2,propublica
+59448.0,african-american,male,less than 25,0,8,propublica
+59082.0,african-american,male,less than 25,0,2,propublica
+44612.0,african-american,male,less than 25,1,6,propublica
+53435.0,african-american,male,25-45,0,2,propublica
+58169.0,african-american,male,25-45,1,2,propublica
+59111.0,african-american,male,less than 25,0,3,propublica
+54276.0,african-american,male,less than 25,0,7,propublica
+55962.0,hispanic,male,less than 25,1,7,propublica
+52271.0,african-american,female,25-45,0,8,propublica
+3506.0,african-american,male,less than 25,1,1,propublica
+44871.0,african-american,male,25-45,0,2,propublica
+58615.0,african-american,male,25-45,0,8,propublica
+55992.0,caucasian,female,25-45,0,8,propublica
+50929.0,caucasian,male,less than 25,1,4,propublica
+55547.0,caucasian,male,25-45,1,7,propublica
+32728.0,african-american,male,25-45,1,4,propublica
+9544.0,african-american,male,25-45,1,1,propublica
+30377.0,caucasian,male,less than 25,1,2,propublica
+54899.0,caucasian,male,less than 25,0,8,propublica
+56197.0,caucasian,male,25-45,1,4,propublica
+60660.0,caucasian,male,25-45,0,8,propublica
+52135.0,caucasian,male,46-65,0,8,propublica
+54923.0,caucasian,male,less than 25,1,1,propublica
+56960.0,hispanic,female,less than 25,0,6,propublica
+51196.0,african-american,male,25-45,0,3,propublica
+20971.0,other,male,25-45,1,8,propublica
+51214.0,caucasian,male,less than 25,0,6,propublica
+57027.0,african-american,male,25-45,0,2,propublica
+51962.0,african-american,male,less than 25,1,1,propublica
+43099.0,african-american,male,less than 25,1,4,propublica
+58402.0,african-american,male,less than 25,0,5,propublica
+56959.0,caucasian,male,25-45,0,6,propublica
+60912.0,caucasian,male,25-45,0,8,propublica
+57343.0,african-american,male,less than 25,1,6,propublica
+50968.0,african-american,male,less than 25,0,4,propublica
+56262.0,hispanic,male,less than 25,1,8,propublica
+60717.0,caucasian,male,25-45,1,8,propublica
+60351.0,african-american,male,25-45,0,1,propublica
+57669.0,hispanic,male,less than 25,1,1,propublica
+57506.0,african-american,female,46-65,0,8,propublica
+58123.0,caucasian,male,less than 25,0,4,propublica
+61438.0,african-american,male,less than 25,1,3,propublica
+57727.0,african-american,male,25-45,0,8,propublica
+34331.0,african-american,male,25-45,1,2,propublica
+57626.0,caucasian,male,less than 25,1,6,propublica
+60614.0,african-american,male,25-45,0,7,propublica
+56552.0,african-american,male,25-45,0,8,propublica
+41633.0,caucasian,male,less than 25,1,2,propublica
+29728.0,hispanic,male,less than 25,0,3,propublica
+51624.0,caucasian,male,46-65,0,8,propublica
+43241.0,african-american,male,25-45,1,8,propublica
+50955.0,caucasian,male,25-45,1,8,propublica
+60906.0,african-american,male,less than 25,1,6,propublica
+53777.0,african-american,female,25-45,0,8,propublica
+47021.0,african-american,male,less than 25,1,3,propublica
+51292.0,african-american,male,less than 25,0,3,propublica
+55478.0,african-american,female,25-45,0,8,propublica
+57624.0,african-american,male,25-45,0,7,propublica
+60329.0,other,male,46-65,1,8,propublica
+59886.0,african-american,male,25-45,1,2,propublica
+53180.0,caucasian,male,less than 25,1,3,propublica
+51897.0,african-american,male,less than 25,1,1,propublica
+53625.0,african-american,male,less than 25,0,7,propublica
+59512.0,other,male,25-45,0,8,propublica
+60510.0,caucasian,male,25-45,0,8,propublica
+37963.0,african-american,male,25-45,0,2,propublica
+22722.0,hispanic,male,25-45,1,4,propublica
+12411.0,african-american,male,25-45,0,2,propublica
+54470.0,african-american,male,25-45,0,8,propublica
+55343.0,hispanic,male,46-65,0,8,propublica
+57841.0,caucasian,male,less than 25,1,6,propublica
+19347.0,caucasian,male,less than 25,0,1,propublica
+53475.0,caucasian,male,25-45,1,8,propublica
+54900.0,other,male,25-45,1,5,propublica
+51980.0,hispanic,male,25-45,1,4,propublica
+60029.0,african-american,male,25-45,1,8,propublica
+65395.0,other,male,less than 25,1,5,propublica
+61476.0,caucasian,male,25-45,1,3,propublica
+51601.0,african-american,male,25-45,1,7,propublica
+59736.0,caucasian,female,less than 25,0,7,propublica
+52975.0,african-american,male,less than 25,1,2,propublica
+38528.0,caucasian,male,less than 25,1,2,propublica
+60722.0,caucasian,female,less than 25,0,7,propublica
+43819.0,african-american,male,less than 25,1,3,propublica
+51169.0,african-american,male,25-45,0,5,propublica
+57060.0,hispanic,male,46-65,0,8,propublica
+54343.0,caucasian,male,25-45,0,8,propublica
+59997.0,african-american,female,less than 25,0,5,propublica
+59425.0,african-american,female,46-65,0,8,propublica
+62087.0,african-american,male,less than 25,0,5,propublica
+34724.0,african-american,male,less than 25,1,2,propublica
+53738.0,caucasian,female,46-65,0,8,propublica
+59376.0,african-american,male,25-45,0,4,propublica
+61262.0,african-american,male,46-65,1,8,propublica
+59069.0,african-american,male,25-45,0,8,propublica
+55229.0,caucasian,female,less than 25,0,6,propublica
+55884.0,caucasian,male,less than 25,1,6,propublica
+54465.0,african-american,male,less than 25,1,1,propublica
+35213.0,caucasian,male,46-65,0,8,propublica
+60031.0,caucasian,male,46-65,0,8,propublica
+55488.0,hispanic,male,46-65,0,8,propublica
+49179.0,caucasian,male,46-65,0,8,propublica
+58724.0,hispanic,male,46-65,0,8,propublica
+55137.0,other,female,25-45,0,8,propublica
+61581.0,african-american,male,less than 25,0,8,propublica
+28532.0,african-american,male,25-45,1,5,propublica
+51849.0,african-american,male,46-65,0,8,propublica
+59934.0,african-american,female,less than 25,0,6,propublica
+8832.0,other,male,25-45,0,5,propublica
+52970.0,african-american,male,25-45,1,2,propublica
+52593.0,african-american,male,25-45,1,8,propublica
+58434.0,african-american,male,less than 25,1,4,propublica
+53009.0,caucasian,male,25-45,0,4,propublica
+52024.0,african-american,male,25-45,1,6,propublica
+54798.0,african-american,male,less than 25,1,5,propublica
+53425.0,caucasian,male,25-45,0,7,propublica
+51077.0,african-american,female,less than 25,1,2,propublica
+59739.0,caucasian,male,25-45,0,5,propublica
+51227.0,caucasian,female,less than 25,0,7,propublica
+9364.0,african-american,male,46-65,1,2,propublica
+39783.0,caucasian,male,less than 25,0,7,propublica
+4549.0,caucasian,male,46-65,1,6,propublica
+56993.0,hispanic,male,less than 25,0,8,propublica
+51707.0,hispanic,male,less than 25,1,4,propublica
+50917.0,african-american,male,25-45,0,3,propublica
+57105.0,caucasian,male,25-45,0,7,propublica
+53789.0,caucasian,female,25-45,0,5,propublica
+59606.0,caucasian,male,25-45,0,8,propublica
+57883.0,caucasian,male,46-65,0,8,propublica
+3580.0,caucasian,male,less than 25,1,1,propublica
+52301.0,hispanic,male,less than 25,0,7,propublica
+23464.0,african-american,male,less than 25,0,6,propublica
+54926.0,other,male,25-45,1,8,propublica
+25191.0,african-american,male,less than 25,1,2,propublica
+57081.0,african-american,male,25-45,1,2,propublica
+57036.0,african-american,female,25-45,0,8,propublica
+52097.0,african-american,male,25-45,0,8,propublica
+51232.0,african-american,male,less than 25,0,5,propublica
+54371.0,caucasian,male,25-45,0,8,propublica
+56615.0,other,male,less than 25,0,7,propublica
+57538.0,caucasian,male,25-45,1,8,propublica
+52844.0,caucasian,male,less than 25,0,5,propublica
+51215.0,caucasian,male,less than 25,1,7,propublica
+53638.0,caucasian,male,less than 25,0,7,propublica
+47971.0,caucasian,male,25-45,1,7,propublica
+55105.0,caucasian,male,less than 25,1,6,propublica
+54624.0,african-american,male,25-45,1,2,propublica
+53024.0,caucasian,male,less than 25,1,6,propublica
+52701.0,hispanic,male,less than 25,0,5,propublica
+61096.0,hispanic,female,25-45,0,8,propublica
+61838.0,african-american,male,25-45,0,8,propublica
+53860.0,african-american,male,less than 25,1,1,propublica
+56898.0,caucasian,male,25-45,0,5,propublica
+29822.0,african-american,male,less than 25,0,4,propublica
+58382.0,caucasian,male,25-45,0,8,propublica
+56269.0,african-american,male,46-65,0,8,propublica
+53735.0,caucasian,female,25-45,1,8,propublica
+61177.0,caucasian,female,46-65,0,8,propublica
+60090.0,caucasian,male,less than 25,0,2,propublica
+52385.0,caucasian,female,25-45,0,8,propublica
+46011.0,african-american,male,less than 25,0,2,propublica
+13550.0,african-american,male,25-45,1,2,propublica
+52168.0,african-american,male,less than 25,1,1,propublica
+57066.0,caucasian,female,25-45,0,8,propublica
+55738.0,african-american,male,46-65,1,2,propublica
+62232.0,caucasian,male,25-45,0,8,propublica
+58004.0,hispanic,male,25-45,0,6,propublica
+25778.0,african-american,male,less than 25,0,3,propublica
+58733.0,african-american,male,less than 25,1,3,propublica
+57837.0,caucasian,male,46-65,1,6,propublica
+51491.0,african-american,male,46-65,0,8,propublica
+58852.0,caucasian,male,25-45,1,5,propublica
+59667.0,caucasian,male,less than 25,1,5,propublica
+19575.0,african-american,male,25-45,0,4,propublica
+58441.0,caucasian,female,less than 25,0,5,propublica
+43996.0,caucasian,male,25-45,0,7,propublica
+67551.0,african-american,male,less than 25,1,2,propublica
+57804.0,other,male,greater than 65,0,8,propublica
+54299.0,hispanic,male,46-65,0,8,propublica
+54115.0,hispanic,male,less than 25,0,3,propublica
+55068.0,caucasian,female,46-65,0,5,propublica
+56686.0,african-american,female,25-45,1,8,propublica
+55268.0,caucasian,female,25-45,0,7,propublica
+51137.0,caucasian,male,25-45,0,8,propublica
+52074.0,hispanic,male,25-45,0,8,propublica
+56139.0,african-american,female,less than 25,0,5,propublica
+53698.0,hispanic,male,25-45,0,3,propublica
+46130.0,african-american,male,46-65,1,5,propublica
+6248.0,african-american,male,46-65,1,1,propublica
+52861.0,other,male,25-45,0,8,propublica
+62187.0,african-american,male,46-65,0,7,propublica
+57656.0,caucasian,male,less than 25,0,6,propublica
+60755.0,caucasian,male,25-45,0,8,propublica
+57104.0,caucasian,male,25-45,0,5,propublica
+56545.0,caucasian,male,25-45,0,8,propublica
+27194.0,other,male,less than 25,1,1,propublica
+58242.0,african-american,male,less than 25,0,2,propublica
+53498.0,african-american,male,25-45,0,4,propublica
+57280.0,caucasian,male,less than 25,1,4,propublica
+56824.0,african-american,male,less than 25,0,2,propublica
+56735.0,caucasian,male,46-65,1,4,propublica
+55830.0,other,male,less than 25,0,5,propublica
+58795.0,african-american,male,less than 25,1,1,propublica
+50014.0,caucasian,male,less than 25,0,6,propublica
+52671.0,caucasian,male,25-45,0,8,propublica
+60887.0,african-american,male,25-45,0,8,propublica
+57349.0,caucasian,female,25-45,0,8,propublica
+60393.0,other,male,less than 25,0,8,propublica
+57987.0,african-american,female,25-45,0,6,propublica
+54910.0,african-american,male,25-45,0,6,propublica
+59349.0,caucasian,male,25-45,0,8,propublica
+50127.0,african-american,male,46-65,1,7,propublica
+30274.0,african-american,male,25-45,0,6,propublica
+45766.0,african-american,male,25-45,1,2,propublica
+33391.0,african-american,male,less than 25,0,4,propublica
+54267.0,hispanic,male,less than 25,0,3,propublica
+30040.0,other,male,less than 25,0,2,propublica
+62204.0,african-american,male,less than 25,0,4,propublica
+47225.0,african-american,male,less than 25,0,3,propublica
+54896.0,caucasian,female,46-65,0,6,propublica
+53195.0,african-american,female,25-45,1,4,propublica
+51028.0,other,male,less than 25,1,6,propublica
+56636.0,african-american,male,25-45,1,2,propublica
+52383.0,caucasian,male,25-45,0,8,propublica
+56990.0,african-american,male,25-45,0,6,propublica
+56609.0,hispanic,female,25-45,1,8,propublica
+54352.0,hispanic,male,less than 25,0,7,propublica
+51799.0,caucasian,male,46-65,0,8,propublica
+61186.0,african-american,male,less than 25,1,4,propublica
+56806.0,other,female,46-65,1,8,propublica
+57211.0,african-american,male,25-45,1,4,propublica
+38682.0,caucasian,male,25-45,1,2,propublica
+58104.0,african-american,male,25-45,0,2,propublica
+59704.0,african-american,male,less than 25,1,4,propublica
+55650.0,caucasian,female,25-45,0,8,propublica
+51170.0,caucasian,female,less than 25,0,5,propublica
+57067.0,caucasian,male,25-45,0,7,propublica
+54080.0,african-american,male,25-45,1,2,propublica
+62063.0,caucasian,female,25-45,0,8,propublica
+53862.0,african-american,male,25-45,1,4,propublica
+56246.0,african-american,male,less than 25,0,4,propublica
+58643.0,african-american,female,25-45,0,8,propublica
+53282.0,african-american,male,25-45,1,8,propublica
+60222.0,hispanic,male,less than 25,0,8,propublica
+50887.0,african-american,female,25-45,0,4,propublica
+53452.0,african-american,male,25-45,0,8,propublica
+59924.0,caucasian,male,less than 25,0,8,propublica
+54623.0,african-american,male,25-45,1,2,propublica
+51029.0,african-american,male,less than 25,1,7,propublica
+55664.0,other,male,46-65,0,8,propublica
+54228.0,african-american,male,less than 25,1,3,propublica
+50974.0,african-american,male,less than 25,0,6,propublica
+56797.0,african-american,male,25-45,0,6,propublica
+8641.0,african-american,male,less than 25,0,2,propublica
+51161.0,african-american,male,25-45,1,3,propublica
+57680.0,other,male,less than 25,0,6,propublica
+51945.0,african-american,male,less than 25,0,6,propublica
+54221.0,african-american,male,25-45,0,8,propublica
+51977.0,african-american,female,less than 25,0,5,propublica
+58387.0,african-american,male,25-45,0,4,propublica
+52423.0,caucasian,male,less than 25,0,5,propublica
+56173.0,african-american,male,25-45,0,2,propublica
+59372.0,african-american,male,25-45,1,7,propublica
+8538.0,african-american,male,less than 25,0,4,propublica
+39488.0,african-american,male,less than 25,1,3,propublica
+54531.0,caucasian,male,less than 25,1,6,propublica
+60024.0,other,male,less than 25,0,6,propublica
+3579.0,african-american,female,less than 25,0,1,propublica
+47312.0,african-american,male,less than 25,1,1,propublica
+62018.0,african-american,male,less than 25,0,7,propublica
+58589.0,caucasian,male,46-65,0,8,propublica
+51222.0,african-american,male,25-45,1,4,propublica
+54101.0,african-american,male,less than 25,0,7,propublica
+53999.0,caucasian,female,25-45,0,6,propublica
+17967.0,african-american,male,less than 25,1,1,propublica
+52705.0,other,male,46-65,0,8,propublica
+53970.0,african-american,female,less than 25,1,3,propublica
+57769.0,african-american,male,less than 25,0,6,propublica
+60251.0,african-american,female,25-45,0,8,propublica
+59035.0,caucasian,male,25-45,0,7,propublica
+57026.0,african-american,male,less than 25,1,3,propublica
+30936.0,african-american,male,less than 25,1,4,propublica
+7481.0,caucasian,male,less than 25,1,2,propublica
+53697.0,caucasian,male,less than 25,1,6,propublica
+52172.0,african-american,male,25-45,1,4,propublica
+54119.0,caucasian,male,less than 25,0,5,propublica
+59989.0,other,male,25-45,0,8,propublica
+28633.0,african-american,male,25-45,1,2,propublica
+53464.0,hispanic,male,25-45,0,8,propublica
+60962.0,african-american,male,25-45,0,8,propublica
+54113.0,other,male,less than 25,1,4,propublica
+60843.0,caucasian,male,46-65,0,8,propublica
+54314.0,caucasian,male,46-65,0,8,propublica
+59937.0,african-american,male,25-45,1,8,propublica
+27232.0,african-american,male,less than 25,1,1,propublica
+54737.0,caucasian,male,25-45,0,8,propublica
+60561.0,caucasian,male,25-45,0,5,propublica
+62112.0,caucasian,male,greater than 65,0,8,propublica
+59285.0,other,male,25-45,0,8,propublica
+54524.0,african-american,female,25-45,0,3,propublica
+61183.0,caucasian,male,46-65,0,3,propublica
+57472.0,hispanic,male,less than 25,1,8,propublica
+28188.0,african-american,male,25-45,0,7,propublica
+50879.0,african-american,male,25-45,1,8,propublica
+57320.0,hispanic,male,46-65,0,8,propublica
+47457.0,other,male,46-65,0,8,propublica
+12087.0,hispanic,male,less than 25,1,1,propublica
+60405.0,african-american,male,25-45,1,2,propublica
+46563.0,african-american,male,less than 25,0,2,propublica
+59670.0,african-american,male,less than 25,0,8,propublica
+59978.0,african-american,male,less than 25,1,8,propublica
+53718.0,hispanic,male,25-45,0,8,propublica
+59201.0,caucasian,female,less than 25,0,6,propublica
+51373.0,african-american,male,25-45,1,5,propublica
+52839.0,caucasian,male,less than 25,1,5,propublica
+1561.0,african-american,male,25-45,0,2,propublica
+52847.0,caucasian,male,25-45,0,8,propublica
+57555.0,caucasian,male,46-65,0,3,propublica
+60240.0,african-american,male,25-45,1,8,propublica
+55568.0,african-american,male,46-65,1,8,propublica
+59173.0,caucasian,female,less than 25,0,6,propublica
+57564.0,caucasian,male,25-45,0,5,propublica
+23392.0,african-american,male,25-45,0,5,propublica
+56672.0,african-american,male,less than 25,1,1,propublica
+59643.0,caucasian,male,25-45,0,6,propublica
+51124.0,caucasian,male,25-45,0,2,propublica
+54558.0,african-american,female,25-45,1,5,propublica
+45763.0,african-american,male,25-45,1,1,propublica
+55217.0,hispanic,male,25-45,0,4,propublica
+58675.0,hispanic,male,less than 25,0,6,propublica
+58261.0,african-american,male,25-45,1,4,propublica
+54750.0,caucasian,male,25-45,0,8,propublica
+53814.0,caucasian,male,25-45,0,8,propublica
+56736.0,hispanic,female,25-45,0,8,propublica
+50986.0,african-american,male,46-65,1,2,propublica
+54132.0,african-american,male,less than 25,1,2,propublica
+54024.0,hispanic,male,less than 25,0,8,propublica
+61396.0,african-american,female,less than 25,1,2,propublica
+60034.0,other,female,25-45,0,8,propublica
+51686.0,african-american,male,less than 25,0,7,propublica
+55889.0,hispanic,male,25-45,0,8,propublica
+67179.0,african-american,male,25-45,1,8,propublica
+55089.0,hispanic,male,less than 25,0,8,propublica
+62410.0,african-american,male,46-65,1,6,propublica
+61368.0,african-american,male,46-65,0,8,propublica
+50850.0,african-american,female,less than 25,0,4,propublica
+58455.0,hispanic,male,25-45,0,8,propublica
+3832.0,african-american,male,46-65,0,4,propublica
+15379.0,african-american,male,25-45,1,2,propublica
+57607.0,african-american,male,46-65,0,8,propublica
+60187.0,hispanic,male,25-45,0,8,propublica
+46634.0,african-american,male,less than 25,1,2,propublica
+59106.0,caucasian,male,less than 25,1,4,propublica
+15606.0,african-american,male,25-45,0,2,propublica
+52261.0,other,male,less than 25,0,6,propublica
+61158.0,african-american,male,25-45,1,8,propublica
+61113.0,caucasian,male,less than 25,1,2,propublica
+42846.0,african-american,male,less than 25,1,2,propublica
+24690.0,african-american,male,25-45,1,6,propublica
+60033.0,caucasian,male,25-45,0,8,propublica
+48922.0,african-american,male,less than 25,1,2,propublica
+66275.0,african-american,male,less than 25,1,6,propublica
+53275.0,caucasian,female,46-65,0,8,propublica
+50854.0,caucasian,male,25-45,0,8,propublica
+27125.0,african-american,male,46-65,1,2,propublica
+60015.0,caucasian,male,less than 25,0,7,propublica
+54197.0,african-american,male,less than 25,1,1,propublica
+61504.0,african-american,male,less than 25,1,4,propublica
+51848.0,african-american,male,less than 25,0,6,propublica
+51409.0,african-american,male,less than 25,0,1,propublica
+57827.0,african-american,male,46-65,0,2,propublica
+29332.0,caucasian,male,25-45,0,2,propublica
+55328.0,african-american,male,25-45,0,8,propublica
+50375.0,african-american,male,46-65,0,6,propublica
+60012.0,hispanic,male,25-45,1,8,propublica
+61485.0,caucasian,male,25-45,1,8,propublica
+53492.0,caucasian,male,less than 25,0,8,propublica
+33404.0,caucasian,male,less than 25,0,5,propublica
+53717.0,hispanic,male,46-65,0,8,propublica
+54139.0,african-american,male,46-65,0,7,propublica
+27789.0,caucasian,male,25-45,0,8,propublica
+60949.0,african-american,female,25-45,1,8,propublica
+33731.0,african-american,male,25-45,1,2,propublica
+53303.0,caucasian,male,46-65,0,8,propublica
+51678.0,caucasian,male,less than 25,1,2,propublica
+55751.0,caucasian,male,less than 25,0,6,propublica
+56114.0,caucasian,female,25-45,1,7,propublica
+53832.0,african-american,male,25-45,0,3,propublica
+51035.0,african-american,male,25-45,1,8,propublica
+4961.0,african-american,male,25-45,0,3,propublica
+57993.0,african-american,male,less than 25,0,6,propublica
+52332.0,other,male,46-65,0,8,propublica
+57413.0,african-american,male,less than 25,0,2,propublica
+60052.0,african-american,male,46-65,0,8,propublica
+58925.0,other,male,25-45,0,8,propublica
+52526.0,african-american,male,25-45,0,8,propublica
+60695.0,other,male,25-45,0,8,propublica
+37543.0,hispanic,male,25-45,0,2,propublica
+47384.0,caucasian,female,25-45,1,8,propublica
+57929.0,hispanic,male,25-45,0,6,propublica
+57078.0,caucasian,male,25-45,0,8,propublica
+53133.0,african-american,male,46-65,0,8,propublica
+58869.0,african-american,male,less than 25,1,1,propublica
+52225.0,caucasian,male,46-65,0,8,propublica
+51890.0,caucasian,male,46-65,1,3,propublica
+58256.0,african-american,female,25-45,0,7,propublica
+5512.0,african-american,male,25-45,0,4,propublica
+60634.0,african-american,male,46-65,0,8,propublica
+60908.0,african-american,male,less than 25,1,2,propublica
+60951.0,caucasian,male,25-45,0,8,propublica
+60362.0,caucasian,male,less than 25,0,7,propublica
+52297.0,other,male,25-45,0,7,propublica
+2160.0,african-american,male,less than 25,1,2,propublica
+51206.0,african-american,female,25-45,1,2,propublica
+53294.0,african-american,male,25-45,0,7,propublica
+53632.0,caucasian,male,46-65,1,4,propublica
+54780.0,other,female,less than 25,0,8,propublica
+52309.0,caucasian,male,less than 25,1,6,propublica
+55575.0,hispanic,male,less than 25,0,8,propublica
+53914.0,african-american,male,less than 25,0,3,propublica
+59821.0,caucasian,female,25-45,0,8,propublica
+60892.0,other,male,25-45,0,5,propublica
+51850.0,african-american,male,less than 25,1,5,propublica
+61478.0,other,male,less than 25,1,2,propublica
+51264.0,african-american,male,25-45,1,5,propublica
+55078.0,african-american,male,25-45,1,7,propublica
+52058.0,caucasian,female,25-45,0,8,propublica
+60525.0,caucasian,male,less than 25,0,8,propublica
+54643.0,african-american,male,25-45,0,5,propublica
+34175.0,african-american,male,less than 25,0,2,propublica
+60658.0,african-american,female,less than 25,0,7,propublica
+57061.0,caucasian,male,25-45,0,8,propublica
+55817.0,african-american,female,less than 25,1,5,propublica
+25709.0,african-american,male,25-45,1,3,propublica
+56229.0,caucasian,male,less than 25,0,1,propublica
+50919.0,african-american,male,less than 25,1,5,propublica
+59066.0,caucasian,female,25-45,0,8,propublica
+59424.0,african-american,male,less than 25,1,1,propublica
+47035.0,african-american,male,less than 25,1,5,propublica
+54137.0,caucasian,male,25-45,0,8,propublica
+60877.0,caucasian,male,46-65,0,8,propublica
+49070.0,african-american,male,less than 25,1,7,propublica
+52431.0,african-american,male,less than 25,1,3,propublica
+53077.0,african-american,male,less than 25,0,4,propublica
+51941.0,caucasian,female,less than 25,0,3,propublica
+58846.0,african-american,female,25-45,0,6,propublica
+52237.0,african-american,male,less than 25,1,5,propublica
+53038.0,caucasian,male,greater than 65,0,8,propublica
+56371.0,caucasian,female,46-65,1,7,propublica
+51574.0,caucasian,male,less than 25,1,7,propublica
+51852.0,other,male,25-45,0,8,propublica
+58825.0,african-american,male,less than 25,1,6,propublica
+56818.0,caucasian,female,25-45,1,4,propublica
+53445.0,hispanic,male,less than 25,0,5,propublica
+60544.0,hispanic,female,46-65,0,8,propublica
+49532.0,african-american,male,less than 25,0,3,propublica
+58927.0,african-american,male,less than 25,1,6,propublica
+58391.0,african-american,male,25-45,0,8,propublica
+60710.0,caucasian,male,less than 25,0,4,propublica
+58997.0,african-american,male,less than 25,0,6,propublica
+56728.0,african-american,male,25-45,0,8,propublica
+54741.0,caucasian,female,46-65,0,8,propublica
+51400.0,african-american,male,less than 25,1,1,propublica
+57562.0,caucasian,male,25-45,0,6,propublica
+50866.0,caucasian,male,46-65,0,8,propublica
+5689.0,african-american,male,less than 25,1,6,propublica
+25699.0,african-american,male,less than 25,1,2,propublica
+49848.0,african-american,male,less than 25,1,2,propublica
+869.0,other,male,less than 25,0,8,propublica
+53021.0,african-american,male,25-45,0,2,propublica
+52209.0,african-american,male,less than 25,1,2,propublica
+2223.0,african-american,male,less than 25,0,6,propublica
+51654.0,caucasian,male,25-45,1,5,propublica
+61724.0,caucasian,male,less than 25,0,6,propublica
+54895.0,caucasian,female,25-45,1,4,propublica
+50848.0,caucasian,male,25-45,0,8,propublica
+54466.0,african-american,female,25-45,0,7,propublica
+60281.0,caucasian,female,25-45,0,4,propublica
+42622.0,caucasian,male,less than 25,0,1,propublica
+5052.0,african-american,male,25-45,1,3,propublica
+57512.0,african-american,male,less than 25,0,6,propublica
+60742.0,caucasian,male,25-45,0,6,propublica
+55815.0,african-american,male,less than 25,0,6,propublica
+57073.0,hispanic,male,less than 25,0,5,propublica
+53333.0,african-american,male,25-45,0,8,propublica
+57341.0,caucasian,female,25-45,0,8,propublica
+51920.0,hispanic,male,less than 25,0,7,propublica
+50978.0,african-american,male,less than 25,1,4,propublica
+54824.0,african-american,male,less than 25,0,8,propublica
+60411.0,african-american,male,less than 25,0,8,propublica
+53909.0,caucasian,male,25-45,0,6,propublica
+18516.0,african-american,male,less than 25,0,1,propublica
+65018.0,caucasian,male,less than 25,1,6,propublica
+62001.0,caucasian,male,25-45,0,8,propublica
+17876.0,african-american,male,25-45,1,1,propublica
+59033.0,caucasian,male,25-45,0,5,propublica
+60410.0,caucasian,female,46-65,0,8,propublica
+44720.0,african-american,male,25-45,0,2,propublica
+53182.0,hispanic,male,46-65,0,8,propublica
+58306.0,caucasian,male,25-45,0,4,propublica
+59985.0,caucasian,female,less than 25,1,5,propublica
+43195.0,caucasian,male,less than 25,0,1,propublica
+61940.0,african-american,male,less than 25,0,7,propublica
+55149.0,african-american,male,less than 25,0,8,propublica
+8739.0,caucasian,male,25-45,1,4,propublica
+51158.0,african-american,male,less than 25,0,2,propublica
+53023.0,caucasian,male,less than 25,1,6,propublica
+57979.0,caucasian,male,less than 25,0,8,propublica
+59510.0,caucasian,female,46-65,0,8,propublica
+39444.0,african-american,male,less than 25,1,2,propublica
+15365.0,african-american,male,25-45,0,3,propublica
+40942.0,african-american,male,25-45,0,5,propublica
+57484.0,african-american,male,25-45,0,7,propublica
+59312.0,caucasian,male,25-45,0,7,propublica
+53722.0,african-american,male,less than 25,0,2,propublica
+62169.0,caucasian,male,46-65,0,8,propublica
+61777.0,hispanic,male,25-45,0,8,propublica
+58762.0,hispanic,male,25-45,0,2,propublica
+17711.0,caucasian,male,25-45,1,5,propublica
+59375.0,caucasian,male,less than 25,0,7,propublica
+51757.0,african-american,male,less than 25,0,8,propublica
+62295.0,other,male,25-45,0,8,propublica
+51221.0,other,male,less than 25,0,8,propublica
+60299.0,caucasian,female,less than 25,0,8,propublica
+51811.0,african-american,male,less than 25,0,3,propublica
+5754.0,african-american,male,less than 25,0,2,propublica
+56106.0,african-american,male,25-45,0,2,propublica
+52674.0,caucasian,male,25-45,1,4,propublica
+57022.0,african-american,female,25-45,0,2,propublica
+54274.0,african-american,male,less than 25,1,2,propublica
+49241.0,hispanic,female,25-45,1,6,propublica
+61033.0,caucasian,male,less than 25,0,8,propublica
+55367.0,caucasian,male,46-65,0,8,propublica
+59320.0,african-american,male,less than 25,1,4,propublica
+61815.0,caucasian,male,less than 25,1,2,propublica
+58886.0,african-american,male,25-45,0,8,propublica
+50902.0,hispanic,female,25-45,0,8,propublica
+52941.0,caucasian,male,greater than 65,1,8,propublica
+38886.0,african-american,male,25-45,0,3,propublica
+60241.0,caucasian,male,25-45,0,8,propublica
+60356.0,african-american,female,25-45,0,8,propublica
+53493.0,hispanic,male,25-45,0,8,propublica
+56045.0,african-american,male,25-45,0,2,propublica
+54345.0,caucasian,female,less than 25,0,6,propublica
+60004.0,caucasian,female,25-45,0,8,propublica
+40508.0,caucasian,male,25-45,0,8,propublica
+52517.0,hispanic,male,25-45,0,8,propublica
+52597.0,african-american,male,less than 25,0,1,propublica
+62127.0,caucasian,male,25-45,1,8,propublica
+60173.0,hispanic,male,less than 25,1,3,propublica
+61523.0,african-american,female,46-65,0,4,propublica
+54646.0,hispanic,male,25-45,0,3,propublica
+57367.0,caucasian,female,less than 25,0,2,propublica
+60105.0,african-american,male,25-45,1,4,propublica
+53143.0,african-american,female,25-45,0,8,propublica
+50921.0,african-american,male,25-45,1,5,propublica
+56213.0,caucasian,male,46-65,0,8,propublica
+52902.0,african-american,male,25-45,1,8,propublica
+53131.0,african-american,male,less than 25,1,3,propublica
+52320.0,caucasian,female,less than 25,1,7,propublica
+59531.0,caucasian,male,25-45,0,8,propublica
+57455.0,african-american,female,less than 25,0,8,propublica
+59679.0,african-american,male,less than 25,0,8,propublica
+52841.0,caucasian,male,25-45,0,8,propublica
+52519.0,african-american,male,25-45,0,8,propublica
+61155.0,caucasian,male,25-45,0,3,propublica
+51469.0,african-american,male,46-65,0,5,propublica
+2067.0,african-american,female,25-45,1,2,propublica
+60696.0,caucasian,male,25-45,1,8,propublica
+59110.0,african-american,male,25-45,0,5,propublica
+62060.0,african-american,male,25-45,0,7,propublica
+48206.0,african-american,male,46-65,0,4,propublica
+48900.0,caucasian,male,46-65,1,6,propublica
+61784.0,african-american,male,25-45,1,8,propublica
+56577.0,caucasian,male,46-65,1,8,propublica
+55276.0,hispanic,female,25-45,0,7,propublica
+60761.0,caucasian,male,25-45,0,8,propublica
+60289.0,caucasian,female,46-65,1,8,propublica
+54102.0,african-american,male,less than 25,0,6,propublica
+53732.0,caucasian,male,25-45,0,8,propublica
+57748.0,african-american,male,46-65,1,5,propublica
+57174.0,caucasian,male,25-45,1,8,propublica
+59024.0,caucasian,female,greater than 65,0,8,propublica
+56194.0,african-american,male,25-45,1,8,propublica
+59246.0,african-american,male,less than 25,0,8,propublica
+39651.0,hispanic,male,46-65,1,3,propublica
+56540.0,african-american,male,25-45,0,8,propublica
+41486.0,caucasian,male,less than 25,1,6,propublica
+53636.0,other,male,25-45,0,8,propublica
+60154.0,african-american,female,25-45,1,5,propublica
+56580.0,caucasian,female,25-45,0,8,propublica
+57297.0,caucasian,male,46-65,0,7,propublica
+56576.0,caucasian,male,46-65,0,8,propublica
+52648.0,african-american,male,25-45,0,8,propublica
+55806.0,hispanic,male,25-45,0,7,propublica
+51368.0,hispanic,male,25-45,0,3,propublica
+56937.0,caucasian,male,25-45,1,8,propublica
+51216.0,african-american,male,25-45,0,2,propublica
+16722.0,african-american,male,less than 25,1,2,propublica
+43541.0,african-american,female,25-45,0,2,propublica
+54864.0,african-american,female,25-45,0,7,propublica
+52649.0,caucasian,male,25-45,1,3,propublica
+54194.0,african-american,male,less than 25,1,2,propublica
+57258.0,african-american,male,less than 25,1,1,propublica
+54443.0,caucasian,female,46-65,0,8,propublica
+51174.0,african-american,female,less than 25,0,8,propublica
+27663.0,african-american,male,25-45,0,5,propublica
+60865.0,african-american,female,25-45,0,7,propublica
+54351.0,african-american,male,less than 25,1,2,propublica
+52472.0,african-american,male,less than 25,0,7,propublica
+52197.0,caucasian,male,25-45,1,3,propublica
+51948.0,caucasian,male,46-65,0,8,propublica
+58764.0,african-american,male,25-45,1,2,propublica
+61732.0,african-american,male,less than 25,0,7,propublica
+53367.0,hispanic,male,25-45,1,4,propublica
+29843.0,african-american,male,25-45,0,3,propublica
+16568.0,african-american,male,less than 25,1,3,propublica
+57040.0,african-american,male,25-45,1,8,propublica
+60994.0,hispanic,male,46-65,0,8,propublica
+15671.0,african-american,male,25-45,0,3,propublica
+59698.0,other,male,25-45,0,8,propublica
+55048.0,other,female,25-45,0,8,propublica
+62183.0,hispanic,male,less than 25,0,8,propublica
+51894.0,other,male,less than 25,0,2,propublica
+17692.0,hispanic,male,25-45,0,3,propublica
+51919.0,caucasian,male,25-45,0,8,propublica
+7970.0,african-american,male,25-45,1,2,propublica
+50995.0,caucasian,male,25-45,0,8,propublica
+18577.0,caucasian,male,25-45,0,5,propublica
+52218.0,caucasian,male,less than 25,0,6,propublica
+54286.0,african-american,male,25-45,0,3,propublica
+52229.0,caucasian,male,25-45,0,5,propublica
+52171.0,african-american,female,46-65,0,8,propublica
+58244.0,other,male,25-45,1,8,propublica
+56219.0,caucasian,male,46-65,0,8,propublica
+62199.0,african-american,male,25-45,1,6,propublica
+51218.0,african-american,male,46-65,1,2,propublica
+35882.0,caucasian,male,25-45,1,2,propublica
+16757.0,caucasian,male,25-45,0,6,propublica
+60097.0,caucasian,male,less than 25,0,4,propublica
+60039.0,caucasian,male,less than 25,0,6,propublica
+53750.0,hispanic,female,less than 25,0,6,propublica
+60855.0,caucasian,male,less than 25,1,5,propublica
+56710.0,caucasian,male,25-45,0,6,propublica
+54479.0,african-american,male,less than 25,0,6,propublica
+59222.0,caucasian,male,46-65,0,8,propublica
+57583.0,african-american,male,less than 25,1,5,propublica
+59968.0,caucasian,male,less than 25,0,6,propublica
+61624.0,african-american,male,46-65,0,6,propublica
+57592.0,african-american,female,25-45,1,4,propublica
+40687.0,african-american,male,less than 25,1,2,propublica
+55142.0,caucasian,male,less than 25,0,7,propublica
+53307.0,african-american,male,25-45,0,8,propublica
+57296.0,african-american,male,25-45,0,8,propublica
+54901.0,african-american,male,46-65,0,4,propublica
+35899.0,african-american,male,less than 25,1,4,propublica
+59042.0,hispanic,male,25-45,0,8,propublica
+53447.0,african-american,male,less than 25,0,5,propublica
+51918.0,african-american,male,less than 25,0,5,propublica
+60065.0,caucasian,female,less than 25,0,7,propublica
+52905.0,hispanic,male,less than 25,1,5,propublica
+50984.0,caucasian,female,less than 25,1,4,propublica
+51626.0,caucasian,male,25-45,0,6,propublica
+59634.0,caucasian,male,less than 25,0,8,propublica
+60397.0,african-american,male,25-45,0,7,propublica
+54336.0,caucasian,male,less than 25,0,5,propublica
+5346.0,african-american,male,46-65,1,4,propublica
+57543.0,african-american,male,25-45,1,2,propublica
+60880.0,african-american,male,46-65,0,8,propublica
+56142.0,caucasian,male,46-65,0,8,propublica
+52637.0,caucasian,female,25-45,0,8,propublica
+56343.0,caucasian,female,less than 25,0,2,propublica
+59215.0,african-american,male,less than 25,1,5,propublica
+8888.0,african-american,male,less than 25,0,5,propublica
+60514.0,caucasian,male,46-65,0,8,propublica
+50508.0,hispanic,male,46-65,0,8,propublica
+62190.0,african-american,male,less than 25,0,7,propublica
+52476.0,african-american,male,less than 25,1,3,propublica
+54041.0,caucasian,male,46-65,1,3,propublica
+50989.0,hispanic,male,25-45,1,6,propublica
+42327.0,african-american,male,less than 25,0,2,propublica
+54528.0,african-american,female,25-45,0,8,propublica
+52289.0,caucasian,male,25-45,1,8,propublica
+61150.0,african-american,male,25-45,0,8,propublica
+55489.0,african-american,male,25-45,0,6,propublica
+59641.0,african-american,male,25-45,0,8,propublica
