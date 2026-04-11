@@ -146,20 +146,27 @@ def eda(df):
 
 
 def check_bias(df):
+
+    df = df.copy()
+
     demographic_var_list = ['race','age_cat', 'sex', 'maritalstatus']
     for variable in demographic_var_list:
         print(f"\nVariable: {variable}")
         for group in df[variable].unique():
+            
             subset = df[df[variable] == group]
+
+            if len(subset) == 0:
+                continue
             
             cm = confusion_matrix(subset['is_recid'], subset['prediction'], labels=[0,1])
-            cm_df = pd.DataFrame(cm, index=['Yes', 'No'], columns=['Yes', 'No'])
+            cm_df = pd.DataFrame(cm, index=['No', 'Yes'], columns=['No', 'Yes'])
 
             cm_all = confusion_matrix(subset['is_recid'], subset['prediction'], normalize='all', labels=[0,1])
-            cm_all_df = pd.DataFrame(cm_all, index=['Yes', 'No'], columns=['Yes', 'No'])
+            cm_all_df = pd.DataFrame(cm_all, index=['No', 'Yes'], columns=['No', 'Yes'])
 
             cm_true = confusion_matrix(subset['is_recid'], subset['prediction'], normalize = 'true', labels=[0,1])
-            cm_true_df = pd.DataFrame(cm_true, index=['Yes', 'No'], columns=['Yes', 'No'])
+            cm_true_df = pd.DataFrame(cm_true, index=['No', 'Yes'], columns=['No', 'Yes'])
 
             print(f"\nGrupo: {group}")
             display(cm_df)
