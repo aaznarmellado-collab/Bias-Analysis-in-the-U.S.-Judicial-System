@@ -1,0 +1,28 @@
+race,sex,age_cat,FPR,TPR
+african-american,female,25-45,0.2727272727272727,0.6
+african-american,female,46-65,0.0,0.0
+african-american,female,less than 25,0.35714285714285715,0.6
+african-american,male,25-45,0.25984251968503935,0.6666666666666666
+african-american,male,46-65,0.1891891891891892,0.4230769230769231
+african-american,male,less than 25,0.4380952380952381,0.7933884297520661
+caucasian,female,25-45,0.1111111111111111,0.5
+caucasian,female,46-65,0.0,0.0
+caucasian,female,greater than 65,0.0,
+caucasian,female,less than 25,0.6666666666666666,0.8333333333333334
+caucasian,male,25-45,0.28440366972477066,0.6
+caucasian,male,46-65,0.05357142857142857,0.2857142857142857
+caucasian,male,greater than 65,0.0,0.0
+caucasian,male,less than 25,0.7818181818181819,0.9473684210526315
+hispanic,female,25-45,0.0,0.5
+hispanic,female,46-65,0.0,
+hispanic,female,less than 25,0.3333333333333333,1.0
+hispanic,male,25-45,0.22580645161290322,0.45454545454545453
+hispanic,male,46-65,0.05555555555555555,0.3333333333333333
+hispanic,male,less than 25,0.7666666666666667,0.8333333333333334
+other,female,25-45,0.0,1.0
+other,female,46-65,,0.0
+other,female,less than 25,1.0,
+other,male,25-45,0.13043478260869565,0.75
+other,male,46-65,0.0,0.0
+other,male,greater than 65,0.0,
+other,male,less than 25,0.8235294117647058,0.875
