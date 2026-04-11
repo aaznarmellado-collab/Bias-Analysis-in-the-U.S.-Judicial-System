@@ -123,7 +123,7 @@ def eda(df):
 
     corr_matrix = df[num_var_list].corr(method= "spearman")
 
-    plt.figure(figsize=(10, 8))
+    plt.figure(figsize=(25, 18))
     sns.heatmap(
         corr_matrix,
         annot=True,
@@ -168,7 +168,7 @@ def check_bias(df):
             cm_true = confusion_matrix(subset['is_recid'], subset['prediction'], normalize = 'true', labels=[0,1])
             cm_true_df = pd.DataFrame(cm_true, index=['No', 'Yes'], columns=['No', 'Yes'])
 
-            print(f"\nGrupo: {group}")
+            print(f"\nGroup: {group}")
             display(cm_df)
             print("\nNormalize All")
             display(cm_all_df)
