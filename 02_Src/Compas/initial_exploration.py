@@ -33,17 +33,20 @@ def read_file(file_path):
     
 
 def initial_exploration(df):
-    print('Rows and columns amount:')
+    print('Rows and columns:')
     display(df.shape)
 
-    print('First five rows:\n')
+    print('First five rows:')
     display(df.head(5))
+    print("\n")
 
-    print('Last five rows:\n')
+    print('Last five rows:')
     display(df.tail(5))
+    print("\n")
 
-    print('Random row sample:\n')
+    print('Random 5 sample:')
     display(df.sample(5))
+    print("\n")
 
     print('Dataset columns:')
     display(df.columns)
@@ -55,7 +58,6 @@ def initial_exploration(df):
     display(df.dtypes.value_counts())
 
     print('Detailed info:\n')
-    display(df.info())
     display(df.describe())
 
     print('Unique values count:')
@@ -71,10 +73,10 @@ def initial_exploration(df):
     display(df_duplicated)
 
     print('Null values per column:')
-    display(df.isnull().sum().reset_index().rename(columns = {'index': 'Col', 0: 'pct'}))
+    display(df.isnull().sum().reset_index().rename(columns = {'index': 'Col', 0: 'Null values'}))
     
     print('Null % per column:')
-    display(df.isnull().mean().mul(100).round(2).sort_values(ascending = False).reset_index(drop=True))
+    display(df.isnull().mean().mul(100).round(2).sort_values(ascending = False).reset_index().rename(columns = {'index': 'Col', 0: 'Pct'}))
 
     print("## Null values: Visualization")
     msno.bar(df, figsize = (6, 3), fontsize= 9)
