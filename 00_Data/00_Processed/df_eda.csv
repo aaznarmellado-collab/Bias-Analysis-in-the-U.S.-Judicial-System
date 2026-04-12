@@ -2482,7 +2482,7 @@ male,hispanic,25-45,2,1,0,0,low,2013-10-14,0,0,misdemeanor,operating w/o valid l
 male,african-american,25-45,8,7,1,0,high,2013-09-09,1,13,felony,possession of cocaine,4,192,1,0,0,0,57081.0,pretrial,single,english,-1.49,33,0,13
 male,african-american,25-45,5,2,0,0,medium,2013-10-25,0,4,misdemeanor,poss of controlled substance,0,889,0,0,0,0,57621.0,probation,single,english,-2.95,33,0,4
 male,caucasian,25-45,4,1,0,0,low,2013-09-25,0,3,felony,possession of cocaine,1,919,0,0,0,2,57562.0,pretrial,single,english,-3.21,33,2,1
-male,african-american,25-45,9,4,0,0,high,2013-02-04,0,12,felony,poss cocaine/intent to del/sel,0,1152,0,0,4,17,51826.0,pretrial,single,english,-2.18,32,21,-9
+male,african-american,25-45,9,4,0,0,high,2013-02-04,0,21,felony,poss cocaine/intent to del/sel,0,1152,0,0,4,17,51826.0,pretrial,single,english,-2.18,32,21,0
 male,african-american,25-45,2,2,0,0,low,2013-12-28,0,3,misdemeanor,battery,10,825,0,0,0,0,60007.0,pretrial,married,english,-2.94,33,0,3
 male,african-american,25-45,6,2,0,0,medium,2014-02-11,0,7,felony,possession of cannabis,0,780,0,0,0,0,50658.0,pretrial,single,english,-2.89,33,0,7
 male,caucasian,25-45,9,5,0,0,high,2014-01-14,0,2,felony,possession of heroin,0,71,0,0,0,0,60417.0,pretrial,single,english,-1.96,33,0,2
@@ -2574,7 +2574,7 @@ male,caucasian,25-45,2,1,0,0,low,2013-08-07,0,4,felony,arrest case no charge,169
 male,african-american,25-45,5,6,0,0,medium,2013-05-09,0,4,misdemeanor,driving license suspended,1,478,0,0,0,0,54643.0,pretrial,single,english,-1.61,32,0,4
 male,african-american,25-45,8,7,1,1,high,2013-02-08,1,0,misdemeanor,battery,1,90,1,0,0,0,51978.0,pretrial,single,english,-1.43,32,0,0
 male,caucasian,25-45,1,1,0,0,low,2013-05-27,0,1,felony,possession of cannabis,0,1040,0,0,0,1,55104.0,pretrial,single,english,-3.31,32,1,0
-male,hispanic,25-45,3,2,0,0,low,2013-08-28,0,0,felony,possession of heroin,1,947,0,0,0,1,56826.0,pretrial,significant other,english,-2.91,32,1,-1
+male,hispanic,25-45,3,2,0,0,low,2013-08-28,0,1,felony,possession of heroin,1,947,0,0,0,1,56826.0,pretrial,significant other,english,-2.91,32,1,0
 female,african-american,25-45,3,2,1,0,low,2013-02-14,1,0,felony,possession of cocaine,1,9,1,0,0,0,52166.0,pretrial,single,english,-2.87,32,0,0
 male,african-american,25-45,8,7,1,0,high,2013-01-05,1,12,felony,possession of oxycodone,0,382,0,0,0,0,50946.0,pretrial,single,english,-1.39,31,0,12
 male,caucasian,25-45,2,3,0,0,low,2013-09-18,0,4,misdemeanor,battery,30,926,0,0,0,0,1834.0,pretrial,single,english,-2.48,32,0,4
@@ -2616,7 +2616,7 @@ female,caucasian,25-45,6,2,0,0,medium,2013-09-05,0,1,felony,arrest case no charg
 male,caucasian,25-45,6,4,0,0,medium,2013-04-26,0,1,felony,arrest case no charge,2,1071,0,0,0,0,54262.0,pretrial,single,english,-1.99,31,0,1
 male,african-american,25-45,3,4,0,0,low,2013-03-08,0,0,felony,possession of cannabis,0,1120,0,0,0,0,52810.0,pretrial,married,english,-2.06,31,0,0
 male,hispanic,25-45,6,2,1,0,medium,2014-02-14,1,5,felony,felony driving while lic suspd,0,292,0,0,0,0,22722.0,probation,single,english,-2.67,32,0,5
-male,caucasian,25-45,2,1,0,0,low,2013-04-14,0,0,felony,aggravated assault w/firearm,0,642,0,0,0,1,53908.0,pretrial,single,english,-3.03,31,1,-1
+male,caucasian,25-45,2,1,0,0,low,2013-04-14,0,1,felony,aggravated assault w/firearm,0,642,0,0,0,1,53908.0,pretrial,single,english,-3.03,31,1,0
 female,caucasian,25-45,2,1,0,0,low,2013-08-20,0,0,misdemeanor,battery,0,955,0,0,0,0,56580.0,pretrial,single,english,-3.07,32,0,0
 male,caucasian,25-45,1,1,1,0,low,2013-03-30,1,0,felony,fleeing or eluding a leo,0,647,1,0,0,0,53436.0,pretrial,single,english,-3.29,31,0,0
 male,caucasian,25-45,5,5,0,0,medium,2013-01-11,0,4,felony,pos cannabis w/intent sel/del,1,923,0,0,0,0,51117.0,pretrial,divorced,english,-1.84,31,0,4
@@ -2639,7 +2639,7 @@ male,african-american,25-45,2,2,0,0,low,2014-02-12,0,4,misdemeanor,battery,0,779
 male,african-american,25-45,8,4,0,0,high,2013-12-13,0,19,misdemeanor,arrest case no charge,0,840,0,0,6,1,27054.0,pretrial,single,english,-2.1,32,7,12
 male,african-american,25-45,1,2,0,0,low,2013-03-31,0,0,felony,driving while license revoked,0,1097,0,0,0,0,53460.0,pretrial,single,english,-2.59,31,0,0
 male,african-american,25-45,6,6,0,0,medium,2013-01-25,0,4,misdemeanor,possess cannabis/20 grams or less,0,1162,0,0,0,0,51568.0,pretrial,single,english,-1.61,31,0,4
-female,caucasian,25-45,2,1,1,0,low,2013-02-26,1,0,felony,possession of cocaine,0,58,1,0,0,1,52554.0,pretrial,single,english,-3.21,31,1,-1
+female,caucasian,25-45,2,1,1,0,low,2013-02-26,1,1,felony,possession of cocaine,0,58,1,0,0,1,52554.0,pretrial,single,english,-3.21,31,1,0
 male,other,25-45,1,1,0,0,low,2013-12-27,0,2,misdemeanor,arrest case no charge,0,826,0,0,0,0,59989.0,pretrial,single,english,-3.13,32,0,2
 male,caucasian,25-45,1,1,0,0,low,2013-10-23,0,3,felony,driving while license revoked,0,891,0,0,0,0,58325.0,pretrial,single,english,-3.23,32,0,3
 male,african-american,25-45,9,2,1,0,high,2014-03-01,1,16,felony,possession of cannabis,0,19,0,0,0,0,61605.0,pretrial,single,english,-2.78,32,0,16
@@ -3092,7 +3092,7 @@ male,african-american,25-45,4,2,1,0,low,2013-02-01,1,4,misdemeanor,susp drivers 
 male,caucasian,25-45,9,9,1,0,high,2014-02-03,1,15,felony,arrest case no charge,91,166,1,0,1,0,50633.0,pretrial,divorced,english,-0.78,30,1,14
 male,african-american,25-45,3,3,0,0,low,2014-03-23,0,2,felony,arrest case no charge,0,740,0,0,0,0,23151.0,pretrial,separated,english,-2.31,30,0,2
 male,african-american,25-45,4,2,1,0,low,2013-11-16,1,4,felony,burglary unoccupied dwelling,0,636,1,0,0,0,59025.0,pretrial,married,english,-2.56,29,0,4
-female,caucasian,25-45,1,1,0,0,low,2013-02-24,0,0,misdemeanor,battery,0,1132,0,0,0,1,52483.0,pretrial,single,english,-3.11,29,1,-1
+female,caucasian,25-45,1,1,0,0,low,2013-02-24,0,1,misdemeanor,battery,0,1132,0,0,0,1,52483.0,pretrial,single,english,-3.11,29,1,0
 male,african-american,25-45,9,8,1,0,high,2013-04-07,1,21,felony,felony petit theft,63,166,1,0,0,0,14531.0,pretrial,single,english,-1.11,29,0,21
 male,african-american,25-45,10,6,1,1,high,2013-05-07,1,12,misdemeanor,battery,1,43,1,0,1,3,54549.0,pretrial,married,english,-1.5,29,4,8
 male,african-american,25-45,7,3,1,0,medium,2013-01-02,1,3,felony,possession of cocaine,7,413,0,0,0,0,43080.0,pretrial,single,english,-2.51,28,0,3
@@ -4215,7 +4215,7 @@ male,caucasian,less than 25,9,8,1,0,high,2013-11-27,1,0,felony,driving while lic
 male,african-american,less than 25,5,3,0,0,medium,2014-03-19,0,1,misdemeanor,possess cannabis/20 grams or less,1,744,0,0,0,0,62087.0,pretrial,single,english,-2.46,25,0,1
 male,caucasian,less than 25,6,5,1,0,medium,2013-01-16,1,6,felony,arrest case no charge,0,117,0,0,0,0,14080.0,pretrial,single,english,-1.82,24,0,6
 male,other,less than 25,4,4,0,0,low,2013-12-29,0,1,felony,felony battery (dom strang),5,824,0,0,0,0,60024.0,pretrial,single,english,-2.18,25,0,1
-male,african-american,less than 25,5,8,0,0,medium,2013-05-05,0,1,misdemeanor,dui property damage/injury,15,1062,0,0,0,2,54508.0,pretrial,single,english,-1.08,24,2,-1
+male,african-american,less than 25,5,8,0,0,medium,2013-05-05,0,2,misdemeanor,dui property damage/injury,15,1062,0,0,0,2,54508.0,pretrial,single,english,-1.08,24,2,0
 male,caucasian,less than 25,2,3,0,0,low,2013-04-16,0,0,felony,burglary dwelling armed,43,1081,0,0,0,0,53963.0,pretrial,single,english,-2.36,24,0,0
 female,african-american,less than 25,6,4,1,0,medium,2013-04-04,0,8,felony,arrest case no charge,0,203,0,0,0,0,53648.0,pretrial,single,english,-2.15,24,0,8
 male,african-american,less than 25,7,6,1,0,medium,2013-10-15,1,6,felony,fabricating physical evidence,2,30,0,0,0,0,48516.0,pretrial,single,english,-1.5,24,0,6
@@ -4283,7 +4283,7 @@ male,caucasian,less than 25,4,3,0,0,low,2013-10-30,0,0,felony,grand theft in the
 male,hispanic,less than 25,1,2,0,0,low,2014-03-03,0,1,misdemeanor,expired dl more than 6 months,0,760,0,0,0,0,61639.0,pretrial,single,english,-2.78,25,0,1
 male,caucasian,less than 25,10,5,1,0,high,2013-02-05,1,0,felony,uttering forged bills,27,244,1,0,0,0,51853.0,pretrial,single,english,-1.9,23,0,0
 male,caucasian,less than 25,3,4,0,0,low,2013-05-29,0,1,misdemeanor,battery,30,1038,0,0,0,0,55142.0,pretrial,single,english,-2.15,24,0,1
-male,african-american,less than 25,2,3,0,0,low,2013-03-10,0,0,felony,cruelty toward child,0,1118,0,0,0,1,52850.0,pretrial,significant other,english,-2.52,24,1,-1
+male,african-american,less than 25,2,3,0,0,low,2013-03-10,0,1,felony,cruelty toward child,0,1118,0,0,0,1,52850.0,pretrial,significant other,english,-2.52,24,1,0
 male,caucasian,less than 25,5,4,0,0,medium,2013-03-09,0,2,felony,possession of cocaine,0,1119,0,0,0,0,52844.0,pretrial,single,english,-2.06,24,0,2
 male,caucasian,less than 25,1,2,0,0,low,2013-11-12,0,1,felony,dealing in stolen property,1,871,0,0,0,0,58891.0,pretrial,single,english,-2.74,24,0,1
 male,caucasian,less than 25,6,3,1,0,medium,2013-11-17,1,2,felony,possession of alprazolam,0,414,1,0,0,0,10497.0,pretrial,single,english,-2.32,24,0,2
@@ -4335,7 +4335,7 @@ female,caucasian,less than 25,6,6,0,0,medium,2013-01-17,0,0,felony,possession of
 female,caucasian,less than 25,2,2,0,0,low,2013-07-08,0,0,misdemeanor,driving under the influence,0,998,0,0,0,0,55712.0,pretrial,single,english,-2.72,24,0,0
 male,african-american,less than 25,10,6,1,0,high,2013-02-23,1,9,felony,tampering with physical evidence,1,248,1,1,2,0,52474.0,pretrial,single,english,-1.53,23,3,6
 male,hispanic,less than 25,4,4,0,0,low,2013-08-20,0,7,misdemeanor,battery,2,955,0,0,0,1,2609.0,pretrial,single,english,-2.18,24,1,6
-male,hispanic,less than 25,2,2,0,0,low,2013-05-28,0,0,felony,possession of cannabis,0,1039,0,0,0,1,55117.0,pretrial,single,english,-2.64,24,1,-1
+male,hispanic,less than 25,2,2,0,0,low,2013-05-28,0,1,felony,possession of cannabis,0,1039,0,0,0,1,55117.0,pretrial,single,english,-2.64,24,1,0
 male,caucasian,less than 25,4,3,0,0,low,2013-03-22,0,1,felony,arrest case no charge,5,1106,0,0,0,0,53227.0,pretrial,single,english,-2.26,23,0,1
 female,caucasian,less than 25,6,4,0,0,medium,2013-02-19,0,1,felony,possession of cocaine,0,1137,0,0,0,0,52308.0,pretrial,single,english,-2.1,23,0,1
 female,african-american,less than 25,3,3,0,0,low,2014-01-17,0,4,felony,arrest case no charge,1,805,0,0,1,0,60492.0,pretrial,single,english,-2.44,24,1,3
@@ -4526,7 +4526,7 @@ male,other,less than 25,2,3,0,0,low,2013-08-27,0,3,felony,aggravated assault w/d
 male,african-american,less than 25,4,4,0,0,low,2013-08-27,0,0,felony,uttering forged bills,0,948,0,0,0,0,56795.0,pretrial,single,english,-2.17,23,0,0
 male,african-american,less than 25,9,6,1,0,high,2013-09-08,1,8,felony,"poss3,4 methylenedioxymethcath",0,230,1,0,0,0,42846.0,pretrial,single,english,-1.66,23,0,8
 male,caucasian,less than 25,5,6,0,0,medium,2013-02-09,0,2,felony,d.u.i. serious bodily injury,0,1147,0,0,0,0,52029.0,pretrial,single,english,-1.62,23,0,2
-male,african-american,less than 25,5,2,0,0,medium,2014-02-20,0,0,felony,traffick amphetamine 28g><200g,0,771,0,0,0,2,61378.0,pretrial,single,english,-2.58,24,2,-2
+male,african-american,less than 25,5,2,0,0,medium,2014-02-20,0,2,felony,traffick amphetamine 28g><200g,0,771,0,0,0,2,61378.0,pretrial,single,english,-2.58,24,2,0
 male,african-american,less than 25,10,8,1,0,high,2013-02-23,1,7,felony,grand theft in the 3rd degree,1,8,1,0,0,0,7805.0,pretrial,single,english,-1.08,23,0,7
 male,african-american,less than 25,8,8,1,0,high,2013-04-26,1,2,felony,possession of cocaine,0,36,1,0,0,0,54274.0,pretrial,single,english,-1.12,23,0,2
 female,african-american,less than 25,3,2,0,0,low,2013-10-01,0,1,felony,arrest case no charge,0,35,0,0,0,0,57762.0,pretrial,single,english,-2.61,23,0,1
@@ -4714,7 +4714,7 @@ male,african-american,less than 25,3,4,0,0,low,2013-09-06,0,0,felony,grand theft
 male,african-american,less than 25,9,7,1,0,high,2013-05-29,0,2,felony,possession of cocaine,0,498,0,1,0,0,55143.0,pretrial,single,english,-1.35,22,1,1
 male,hispanic,less than 25,3,3,0,0,low,2013-03-13,0,1,felony,purchase of cocaine,0,1115,0,0,0,0,52946.0,pretrial,married,english,-2.24,22,0,1
 male,african-american,less than 25,8,9,0,0,high,2013-02-04,0,7,felony,att burgl unoccupied dwel,0,507,0,0,0,1,7574.0,pretrial,single,english,-0.79,22,1,6
-female,african-american,less than 25,2,2,0,0,low,2013-05-11,0,0,misdemeanor,battery,0,1056,0,0,0,1,54701.0,pretrial,married,english,-2.6,22,1,-1
+female,african-american,less than 25,2,2,0,0,low,2013-05-11,0,1,misdemeanor,battery,0,1056,0,0,0,1,54701.0,pretrial,married,english,-2.6,22,1,0
 male,hispanic,less than 25,3,6,0,0,low,2013-10-08,0,0,felony,burglary structure unoccup,0,906,0,0,0,0,57945.0,pretrial,single,english,-1.59,23,0,0
 male,other,less than 25,4,6,1,1,low,2013-08-13,1,1,misdemeanor,battery,57,152,1,0,0,0,56381.0,pretrial,single,english,-1.69,22,0,1
 female,other,less than 25,2,3,0,0,low,2014-01-29,0,0,felony,aggravated assault w/dead weap,0,793,0,0,0,0,60795.0,pretrial,single,english,-2.49,23,0,0
@@ -4752,7 +4752,7 @@ male,african-american,less than 25,8,6,1,1,high,2013-09-12,1,5,misdemeanor,batte
 female,caucasian,less than 25,4,4,1,0,low,2013-03-13,1,0,felony,possession of hydromorphone,0,238,1,0,0,0,52950.0,pretrial,single,english,-2.13,22,0,0
 male,african-american,less than 25,10,10,1,0,high,2013-03-12,0,7,felony,grand theft in the 3rd degree,0,258,0,0,0,0,15644.0,pretrial,single,english,-0.35,22,0,7
 male,hispanic,less than 25,3,5,1,1,low,2013-03-17,1,2,misdemeanor,battery,0,267,1,0,0,0,27121.0,pretrial,single,english,-1.76,22,0,2
-male,african-american,less than 25,2,3,0,0,low,2013-05-13,0,0,misdemeanor,dui property damage/injury,0,183,0,0,0,2,54759.0,pretrial,single,english,-2.24,22,2,-2
+male,african-american,less than 25,2,3,0,0,low,2013-05-13,0,2,misdemeanor,dui property damage/injury,0,183,0,0,0,2,54759.0,pretrial,single,english,-2.24,22,2,0
 female,african-american,less than 25,7,7,1,0,medium,2013-02-17,1,5,misdemeanor,viol pretrial release dom viol,46,86,1,0,0,0,50045.0,pretrial,single,english,-1.41,22,0,5
 male,african-american,less than 25,10,10,1,1,high,2013-04-09,1,8,misdemeanor,battery,1,14,0,0,0,0,39729.0,pretrial,single,english,-0.4,22,0,8
 male,caucasian,less than 25,5,3,0,0,medium,2013-12-25,0,1,felony,aggravated assault w/firearm,0,828,0,0,0,0,59967.0,pretrial,single,english,-2.25,23,0,1
@@ -4905,8 +4905,8 @@ male,african-american,less than 25,4,5,0,0,low,2013-04-20,0,0,misdemeanor,batter
 male,caucasian,less than 25,2,3,0,0,low,2014-02-06,0,0,felony,deliver cannabis,0,201,0,0,0,0,61033.0,pretrial,single,english,-2.36,22,0,0
 male,hispanic,less than 25,8,4,0,0,high,2013-04-25,0,8,felony,possession of cannabis,0,1072,0,0,0,0,54255.0,pretrial,single,english,-2.04,21,0,8
 male,african-american,less than 25,3,5,1,0,low,2013-01-09,1,1,felony,arrest case no charge,0,473,1,0,0,0,51029.0,pretrial,significant other,english,-1.96,21,0,1
-male,african-american,less than 25,3,3,0,0,low,2014-03-22,0,0,felony,driving while license revoked,0,741,0,0,0,1,62190.0,pretrial,single,english,-2.42,22,1,-1
-male,african-american,less than 25,3,5,0,0,low,2013-01-12,0,0,felony,possession of cannabis,0,1175,0,0,0,1,51130.0,pretrial,single,english,-1.76,21,1,-1
+male,african-american,less than 25,3,3,0,0,low,2014-03-22,0,1,felony,driving while license revoked,0,741,0,0,0,1,62190.0,pretrial,single,english,-2.42,22,1,0
+male,african-american,less than 25,3,5,0,0,low,2013-01-12,0,1,felony,possession of cannabis,0,1175,0,0,0,1,51130.0,pretrial,single,english,-1.76,21,1,0
 male,hispanic,less than 25,10,7,0,0,high,2013-04-27,0,0,felony,"poss 3,4 mdma (ecstasy)",1,1070,0,0,0,0,54312.0,pretrial,single,english,-1.27,21,0,0
 female,african-american,less than 25,7,4,0,0,medium,2013-04-20,0,0,felony,arrest case no charge,2,831,0,0,0,0,54114.0,pretrial,single,english,-2.06,21,0,0
 male,african-american,less than 25,10,9,1,0,high,2013-05-08,1,2,misdemeanor,prostitution/lewd act assignation,0,392,1,1,0,0,44428.0,pretrial,single,english,-0.88,21,1,1
@@ -4958,7 +4958,7 @@ female,caucasian,less than 25,8,7,1,0,high,2013-07-25,1,7,misdemeanor,arrest cas
 male,african-american,less than 25,4,4,0,0,low,2013-07-15,0,1,felony,arrest case no charge,0,216,0,0,0,0,55815.0,pretrial,single,english,-2.02,21,0,1
 male,african-american,less than 25,10,9,1,1,high,2013-04-18,1,15,felony,deliver cocaine,1,132,1,0,5,1,17505.0,pretrial,single,english,-0.68,21,6,9
 female,other,less than 25,4,4,0,0,low,2014-03-13,0,0,felony,grand theft in the 3rd degree,0,750,0,0,0,0,61942.0,pretrial,single,english,-2.2,22,0,0
-female,caucasian,less than 25,5,5,0,0,medium,2013-09-22,0,0,felony,burglary unoccupied dwelling,1,922,0,0,0,1,57473.0,pretrial,single,english,-1.93,22,1,-1
+female,caucasian,less than 25,5,5,0,0,medium,2013-09-22,0,1,felony,burglary unoccupied dwelling,1,922,0,0,0,1,57473.0,pretrial,single,english,-1.93,22,1,0
 male,caucasian,less than 25,4,5,0,0,low,2013-12-17,0,0,felony,possession of methamphetamine,2,836,0,0,0,0,59738.0,pretrial,single,english,-1.89,22,0,0
 female,caucasian,less than 25,5,5,0,0,medium,2013-05-21,0,0,misdemeanor,battery,1,1046,0,0,0,0,54927.0,pretrial,single,english,-1.96,21,0,0
 male,african-american,less than 25,9,6,1,0,high,2013-03-28,1,0,misdemeanor,battery,14,463,1,0,0,0,53404.0,pretrial,single,english,-1.51,21,0,0
@@ -4991,7 +4991,7 @@ male,caucasian,less than 25,7,4,0,0,medium,2013-01-12,0,0,misdemeanor,crim attem
 male,other,less than 25,3,4,1,0,low,2013-12-12,1,3,felony,arrest case no charge,0,93,1,0,0,0,42166.0,pretrial,single,english,-2.1,22,0,3
 male,caucasian,less than 25,5,4,0,0,medium,2013-03-04,0,0,felony,possession of alprazolam,0,768,0,0,0,0,52679.0,pretrial,married,english,-2.03,21,0,0
 male,african-american,less than 25,6,5,1,0,medium,2013-01-14,1,2,misdemeanor,possess cannabis/20 grams or less,0,9,1,0,0,0,51189.0,pretrial,single,english,-1.9,21,0,2
-male,african-american,less than 25,6,7,1,0,medium,2013-12-12,1,1,felony,arrest case no charge,0,251,1,1,0,1,59626.0,pretrial,single,english,-1.3,22,2,-1
+male,african-american,less than 25,6,7,1,0,medium,2013-12-12,1,2,felony,arrest case no charge,0,251,1,1,0,1,59626.0,pretrial,single,english,-1.3,22,2,0
 male,african-american,less than 25,3,4,1,0,low,2013-05-01,1,2,felony,false ownership info/pawn item,2,239,1,0,0,1,54430.0,pretrial,single,english,-2.0,21,1,1
 male,hispanic,less than 25,10,8,1,1,high,2013-03-27,1,11,felony,solicit deliver cocaine,0,156,1,0,0,0,12087.0,probation,single,english,-1.23,21,0,11
 male,caucasian,less than 25,3,3,0,0,low,2014-01-13,0,1,felony,possession of cocaine,0,58,0,0,0,0,60362.0,pretrial,single,english,-2.37,22,0,1
@@ -5028,13 +5028,13 @@ male,caucasian,less than 25,2,3,0,0,low,2013-01-23,0,0,felony,aggravated battery
 female,african-american,less than 25,7,5,1,0,medium,2013-03-11,0,0,misdemeanor,criminal mischief>$200<$1000,0,904,1,0,0,0,52865.0,pretrial,single,english,-1.78,21,0,0
 male,hispanic,less than 25,10,5,0,0,high,2013-08-08,0,1,felony,burglary structure unoccup,0,99,0,0,0,0,56277.0,pretrial,single,english,-1.77,21,0,1
 male,african-american,less than 25,6,5,1,0,medium,2014-03-25,1,2,felony,possession of hydromorphone,0,175,1,0,0,0,62262.0,pretrial,single,english,-1.9,22,0,2
-male,african-american,less than 25,9,9,1,0,high,2013-12-11,1,0,felony,deliver cocaine,6,35,1,0,0,2,59579.0,pretrial,single,english,-0.96,22,2,-2
+male,african-american,less than 25,9,9,1,0,high,2013-12-11,1,2,felony,deliver cocaine,6,35,1,0,0,2,59579.0,pretrial,single,english,-0.96,22,2,0
 female,caucasian,less than 25,5,4,0,0,medium,2013-11-21,0,0,misdemeanor,battery,0,862,0,0,0,0,59140.0,pretrial,single,english,-2.02,22,0,0
 female,african-american,less than 25,7,5,1,1,medium,2013-06-18,1,2,misdemeanor,battery,0,569,1,0,0,0,43482.0,pretrial,single,english,-1.92,21,0,2
 female,african-american,less than 25,3,4,1,0,low,2013-01-30,0,1,felony,aggravated assault w/dead weap,0,279,0,0,0,0,51698.0,pretrial,single,english,-2.2,21,0,1
 female,african-american,less than 25,4,4,0,0,low,2013-12-14,0,0,felony,aggravated assault w/dead weap,0,839,0,0,0,0,59671.0,pretrial,single,english,-2.09,22,0,0
 male,caucasian,less than 25,8,5,1,0,high,2013-11-13,1,3,felony,"poss3,4 methylenedioxymethcath",0,245,0,0,1,1,58942.0,pretrial,single,english,-1.76,22,2,1
-male,african-american,less than 25,3,3,1,0,low,2013-11-18,1,0,felony,poss contr subst w/o prescript,0,636,0,0,0,3,59072.0,pretrial,single,english,-2.26,22,3,-3
+male,african-american,less than 25,3,3,1,0,low,2013-11-18,1,3,felony,poss contr subst w/o prescript,0,636,0,0,0,3,59072.0,pretrial,single,english,-2.26,22,3,0
 male,african-american,less than 25,3,4,1,0,low,2013-08-17,1,1,felony,battery on law enforc officer,1,2,1,0,0,0,56520.0,pretrial,single,english,-2.0,21,0,1
 male,hispanic,less than 25,2,4,0,0,low,2013-06-26,0,1,felony,uttering a forged instrument,0,1010,0,0,0,0,55575.0,pretrial,single,english,-2.2,21,0,1
 male,african-american,less than 25,9,5,1,0,high,2013-04-30,1,9,misdemeanor,operating w/o valid license,2,35,0,0,1,0,12528.0,pretrial,single,english,-1.77,21,1,8
@@ -5063,7 +5063,7 @@ female,african-american,less than 25,6,5,0,0,medium,2013-10-20,0,0,misdemeanor,b
 female,african-american,less than 25,9,5,0,0,high,2013-02-07,0,1,felony,arrest case no charge,3,309,0,0,0,0,51935.0,pretrial,single,english,-1.88,21,0,1
 female,caucasian,less than 25,6,4,0,0,medium,2013-05-20,0,0,misdemeanor,battery,23,1047,0,0,0,0,54911.0,pretrial,single,english,-1.98,21,0,0
 female,caucasian,less than 25,10,8,1,0,high,2013-04-10,1,9,misdemeanor,possess drug paraphernalia,8,11,1,0,0,0,44969.0,pretrial,single,english,-1.13,21,0,9
-male,african-american,less than 25,6,7,0,0,medium,2013-01-03,0,2,misdemeanor,cause anoth phone ring repeat,0,561,0,0,1,2,50895.0,probation,single,english,-1.42,21,3,-1
+male,african-american,less than 25,6,7,0,0,medium,2013-01-03,0,3,misdemeanor,cause anoth phone ring repeat,0,561,0,0,1,2,50895.0,probation,single,english,-1.42,21,3,0
 male,african-american,less than 25,7,7,0,0,medium,2013-01-21,0,3,misdemeanor,arrest case no charge,6,1166,0,0,0,0,36468.0,pretrial,single,english,-1.4,21,0,3
 male,other,less than 25,4,6,1,1,low,2013-05-19,1,1,felony,aggravated assault w/dead weap,4,661,1,0,0,0,13771.0,pretrial,single,english,-1.5,21,0,1
 male,hispanic,less than 25,6,5,1,0,medium,2013-03-25,1,0,felony,felony battery,1,133,1,0,0,0,53326.0,pretrial,significant other,english,-1.84,21,0,0
@@ -5099,7 +5099,7 @@ male,african-american,less than 25,7,7,1,1,medium,2013-01-15,1,2,misdemeanor,sus
 male,other,less than 25,3,4,0,0,low,2013-01-14,0,0,misdemeanor,possess cannabis/20 grams or less,0,1173,0,0,0,0,51194.0,pretrial,single,english,-2.08,21,0,0
 male,african-american,less than 25,9,8,1,0,high,2013-10-11,1,6,felony,resist officer w/violence,46,183,1,0,0,1,31727.0,pretrial,single,english,-1.07,21,1,5
 male,caucasian,less than 25,6,4,1,0,medium,2013-09-23,1,5,felony,arrest case no charge,0,16,1,0,0,0,58022.0,broward county,single,english,-1.98,21,0,5
-male,other,less than 25,10,9,1,0,high,2013-05-04,1,2,felony,possession of cocaine,241,357,1,0,1,9,54494.0,pretrial,single,english,-0.79,21,10,-8
+male,other,less than 25,10,9,1,0,high,2013-05-04,1,10,felony,possession of cocaine,241,357,1,0,1,9,54494.0,pretrial,single,english,-0.79,21,10,0
 male,caucasian,less than 25,4,5,1,0,low,2013-02-06,1,8,felony,felony battery (dom strang),0,466,1,0,0,0,51898.0,pretrial,single,english,-1.78,21,0,8
 male,caucasian,less than 25,5,4,0,0,medium,2013-08-01,0,3,felony,possession of cocaine,36,382,0,0,0,0,56084.0,pretrial,single,english,-2.16,21,0,3
 male,other,less than 25,2,4,0,0,low,2014-01-14,0,0,felony,burglary unoccupied dwelling,1,808,0,0,0,0,60393.0,pretrial,married,english,-2.21,22,0,0
@@ -5128,7 +5128,7 @@ male,caucasian,less than 25,8,5,1,0,high,2014-03-09,1,3,misdemeanor,battery,0,31
 male,hispanic,less than 25,6,6,1,0,medium,2014-02-23,1,3,felony,burglary conveyance unoccup,97,483,1,0,0,0,15663.0,pretrial,single,english,-1.74,22,0,3
 male,african-american,less than 25,8,9,1,0,high,2014-03-21,1,5,felony,burglary conveyance unoccup,0,361,1,5,0,0,62161.0,pretrial,single,english,-0.88,22,5,0
 female,caucasian,less than 25,5,4,0,0,medium,2013-01-22,0,1,felony,grand theft in the 3rd degree,0,1165,0,0,0,0,51447.0,pretrial,divorced,english,-2.02,20,0,1
-male,african-american,less than 25,2,4,0,0,low,2014-02-15,0,0,felony,burglary unoccupied dwelling,0,776,0,0,0,1,61264.0,pretrial,single,english,-2.13,22,1,-1
+male,african-american,less than 25,2,4,0,0,low,2014-02-15,0,1,felony,burglary unoccupied dwelling,0,776,0,0,0,1,61264.0,pretrial,single,english,-2.13,22,1,0
 male,african-american,less than 25,4,5,0,0,low,2013-04-25,0,0,felony,robbery sudd snatch no weapon,1,424,0,0,0,0,54233.0,pretrial,single,english,-1.8,21,0,0
 male,caucasian,less than 25,5,6,1,1,medium,2013-12-11,1,5,felony,arrest case no charge,0,632,1,0,0,1,24047.0,pretrial,single,english,-1.69,21,1,4
 male,hispanic,less than 25,8,7,0,0,high,2013-02-04,0,0,misdemeanor,possess cannabis/20 grams or less,0,1152,0,0,0,0,51822.0,pretrial,single,english,-1.45,20,0,0
@@ -5163,7 +5163,7 @@ male,african-american,less than 25,5,7,0,0,medium,2013-10-14,0,0,felony,burglary
 male,other,less than 25,3,3,0,0,low,2013-12-07,0,1,felony,tampering with physical evidence,0,56,0,0,0,0,59480.0,pretrial,single,english,-2.24,21,0,1
 male,african-american,less than 25,9,9,1,1,high,2013-03-26,1,2,felony,burglary structure unoccup,18,69,1,0,1,0,53335.0,pretrial,single,english,-0.77,21,1,1
 male,caucasian,less than 25,6,5,0,0,medium,2013-05-04,0,2,felony,possession of cannabis,32,1063,0,0,0,2,54501.0,pretrial,single,english,-1.96,21,2,0
-male,african-american,less than 25,9,9,1,0,high,2013-04-20,1,1,misdemeanor,arrest case no charge,5,104,0,0,0,2,32226.0,pretrial,single,english,-0.86,21,2,-1
+male,african-american,less than 25,9,9,1,0,high,2013-04-20,1,2,misdemeanor,arrest case no charge,5,104,0,0,0,2,32226.0,pretrial,single,english,-0.86,21,2,0
 male,african-american,less than 25,3,4,1,0,low,2013-08-08,1,0,felony,burgl dwel/struct/convey armed,9,28,1,0,0,0,56268.0,pretrial,single,english,-2.0,21,0,0
 female,african-american,less than 25,8,10,0,0,high,2013-01-25,0,3,felony,grand theft in the 3rd degree,0,56,0,0,0,0,51554.0,pretrial,single,english,-0.48,20,0,3
 female,african-american,less than 25,6,4,1,0,medium,2014-01-13,1,2,felony,grand theft in the 3rd degree,57,480,1,0,0,0,60352.0,pretrial,single,english,-2.07,21,0,2
@@ -5180,12 +5180,12 @@ female,hispanic,less than 25,6,3,1,1,medium,2013-12-20,1,2,felony,possession of 
 male,african-american,less than 25,8,6,1,0,high,2013-05-12,1,2,misdemeanor,tresspass struct/conveyance,50,125,0,0,0,0,54731.0,pretrial,single,english,-1.67,21,0,2
 male,african-american,less than 25,3,4,0,0,low,2014-03-13,0,0,felony,grand theft in the 3rd degree,0,750,0,0,0,0,61940.0,pretrial,single,english,-2.04,21,0,0
 female,african-american,less than 25,4,4,0,0,low,2013-05-30,0,1,felony,grand theft in the 3rd degree,0,407,0,0,0,0,54638.0,pretrial,single,english,-2.0,21,0,1
-male,african-american,less than 25,2,4,1,1,low,2013-01-22,1,1,misdemeanor,susp drivers lic 1st offense,0,387,1,0,0,2,51429.0,pretrial,single,english,-2.1,20,2,-1
+male,african-american,less than 25,2,4,1,1,low,2013-01-22,1,2,misdemeanor,susp drivers lic 1st offense,0,387,1,0,0,2,51429.0,pretrial,single,english,-2.1,20,2,0
 female,african-american,less than 25,3,4,0,0,low,2014-02-26,0,0,felony,felony batt(great bodily harm),0,765,0,0,0,0,61518.0,pretrial,single,english,-2.2,21,0,0
 male,african-american,less than 25,9,9,1,0,high,2013-02-20,1,4,felony,grand theft (motor vehicle),50,196,1,0,0,0,45823.0,pretrial,single,english,-0.63,20,0,4
-female,caucasian,less than 25,4,4,0,0,low,2013-05-21,0,1,misdemeanor,dui level 0.15 or minor in veh,0,1046,0,0,0,4,54345.0,pretrial,single,english,-2.0,21,4,-3
+female,caucasian,less than 25,4,4,0,0,low,2013-05-21,0,4,misdemeanor,dui level 0.15 or minor in veh,0,1046,0,0,0,4,54345.0,pretrial,single,english,-2.0,21,4,0
 male,asian,less than 25,6,4,1,1,medium,2013-12-23,1,4,felony,arrest case no charge,0,296,0,0,0,0,59945.0,pretrial,single,english,-2.22,21,0,4
-male,caucasian,less than 25,3,4,0,0,low,2013-04-04,0,1,felony,possession of alprazolam,0,1093,0,0,0,2,53638.0,pretrial,single,english,-2.1,20,2,-1
+male,caucasian,less than 25,3,4,0,0,low,2013-04-04,0,2,felony,possession of alprazolam,0,1093,0,0,0,2,53638.0,pretrial,single,english,-2.1,20,2,0
 male,asian,less than 25,3,4,0,0,low,2013-03-25,0,0,felony,unauth poss id card or dl,0,1103,0,0,0,0,53304.0,pretrial,single,english,-1.98,20,0,0
 female,african-american,less than 25,4,4,0,0,low,2013-08-21,0,1,misdemeanor,battery,0,954,0,0,0,0,56635.0,pretrial,single,english,-2.04,21,0,1
 male,african-american,less than 25,8,8,1,1,high,2013-12-12,1,3,felony,grand theft (motor vehicle),0,114,1,0,0,2,37973.0,pretrial,single,english,-1.0,21,2,1
@@ -5199,7 +5199,7 @@ male,caucasian,less than 25,10,9,1,1,high,2013-05-28,1,5,misdemeanor,arrest case
 female,caucasian,less than 25,6,5,0,0,medium,2013-08-11,0,0,felony,possession of methamphetamine,11,964,0,0,0,0,56335.0,pretrial,single,english,-1.92,21,0,0
 male,african-american,less than 25,9,8,0,0,high,2013-05-22,0,0,misdemeanor,battery,0,1045,0,0,0,0,54956.0,pretrial,single,english,-1.2,21,0,0
 male,caucasian,less than 25,5,5,1,0,medium,2014-02-27,1,0,felony,aggravated assault w/dead weap,1,373,1,0,0,0,61553.0,pretrial,single,english,-1.94,21,0,0
-male,caucasian,less than 25,4,3,0,0,low,2013-09-03,0,0,misdemeanor,battery,0,941,0,0,0,3,56925.0,pretrial,single,english,-2.32,21,3,-3
+male,caucasian,less than 25,4,3,0,0,low,2013-09-03,0,3,misdemeanor,battery,0,941,0,0,0,3,56925.0,pretrial,single,english,-2.32,21,3,0
 male,caucasian,less than 25,2,4,0,0,low,2013-10-02,0,0,felony,pos cannabis w/intent sel/del,0,912,0,0,0,0,57776.0,pretrial,single,english,-2.2,21,0,0
 male,african-american,less than 25,10,10,0,0,high,2013-02-11,0,4,felony,burglary unoccupied dwelling,30,747,0,1,1,2,18516.0,pretrial,single,english,-0.43,20,4,0
 male,african-american,less than 25,6,5,1,0,medium,2013-08-25,1,2,felony,pos cannabis w/intent sel/del,5,13,1,0,0,0,56729.0,pretrial,single,english,-1.9,21,0,2
@@ -5238,7 +5238,7 @@ male,caucasian,less than 25,4,4,1,0,low,2013-04-04,1,3,felony,arrest case no cha
 male,african-american,less than 25,3,3,0,0,low,2013-04-20,0,0,felony,"deliver 3,4 methylenediox",1,1077,0,0,0,0,54116.0,pretrial,single,english,-2.26,20,0,0
 male,african-american,less than 25,10,6,1,0,high,2014-01-04,1,8,felony,grand theft in the 3rd degree,2,72,0,0,0,0,22510.0,pretrial,single,english,-1.59,21,0,8
 male,african-american,less than 25,6,5,0,0,medium,2014-01-31,0,1,felony,grand theft in the 3rd degree,1,791,0,0,0,1,60864.0,pretrial,single,english,-1.88,21,1,0
-male,african-american,less than 25,4,4,1,0,low,2013-08-30,1,2,felony,carrying concealed firearm,0,401,1,0,0,3,56903.0,pretrial,single,english,-2.18,21,3,-1
+male,african-american,less than 25,4,4,1,0,low,2013-08-30,1,3,felony,carrying concealed firearm,0,401,1,0,0,3,56903.0,pretrial,single,english,-2.18,21,3,0
 male,caucasian,less than 25,2,4,0,0,low,2014-01-14,0,0,felony,burglary unoccupied dwelling,4,808,0,0,0,0,60390.0,pretrial,single,english,-2.16,21,0,0
 male,african-american,less than 25,4,6,0,0,low,2013-05-03,0,0,misdemeanor,battery,1,1064,0,0,0,0,54479.0,pretrial,single,english,-1.59,20,0,0
 male,hispanic,less than 25,3,4,0,0,low,2013-04-29,0,1,misdemeanor,exposes culpable negligence,0,1068,0,0,0,0,54352.0,pretrial,single,english,-2.18,20,0,1
@@ -5247,7 +5247,7 @@ female,african-american,less than 25,4,4,1,1,low,2013-01-31,0,0,misdemeanor,batt
 male,african-american,less than 25,5,5,1,0,medium,2014-02-13,1,3,felony,burglary unoccupied dwelling,3,136,1,0,0,0,61214.0,pretrial,single,english,-1.96,21,0,3
 female,hispanic,less than 25,6,5,1,0,medium,2013-06-11,1,0,felony,possession of cocaine,0,45,1,0,0,0,55360.0,pretrial,single,english,-1.9,20,0,0
 male,african-american,less than 25,7,5,0,0,medium,2013-05-06,0,3,felony,burglary unoccupied dwelling,0,134,0,0,0,0,34873.0,pretrial,single,english,-1.86,20,0,3
-male,african-american,less than 25,2,4,1,1,low,2013-01-18,0,1,felony,possession burglary tools,1,223,0,0,1,1,51319.0,pretrial,single,english,-2.18,20,2,-1
+male,african-american,less than 25,2,4,1,1,low,2013-01-18,0,2,felony,possession burglary tools,1,223,0,0,1,1,51319.0,pretrial,single,english,-2.18,20,2,0
 female,african-american,less than 25,7,4,0,0,medium,2014-01-23,0,0,felony,possession of hydrocodone,0,799,0,0,0,0,60636.0,pretrial,single,english,-2.02,21,0,0
 male,caucasian,less than 25,5,5,0,0,medium,2013-07-26,0,1,felony,"poss3,4 methylenedioxymethcath",0,142,0,0,0,0,55976.0,pretrial,single,english,-1.94,21,0,1
 male,african-american,less than 25,5,5,0,0,medium,2013-03-06,0,1,felony,possession burglary tools,0,1122,0,0,0,1,52742.0,pretrial,single,english,-1.94,20,1,0
@@ -5280,7 +5280,7 @@ male,caucasian,less than 25,3,4,1,0,low,2013-02-22,1,1,felony,possession of coca
 female,hispanic,less than 25,4,6,0,0,low,2013-09-23,0,2,misdemeanor,battery,0,921,0,0,1,0,57480.0,pretrial,married,english,-1.53,21,1,1
 male,african-american,less than 25,3,4,0,0,low,2013-01-10,0,0,felony,pos cannabis w/intent sel/del,1,1177,0,0,0,0,51057.0,pretrial,single,english,-2.04,20,0,0
 male,african-american,less than 25,6,4,1,0,medium,2013-10-03,1,3,misdemeanor,battery,4,128,1,0,0,0,57824.0,pretrial,single,english,-2.06,21,0,3
-female,caucasian,less than 25,2,3,0,0,low,2014-02-13,0,1,misdemeanor,possess cannabis/20 grams or less,0,778,0,0,0,2,61222.0,pretrial,single,english,-2.32,21,2,-1
+female,caucasian,less than 25,2,3,0,0,low,2014-02-13,0,2,misdemeanor,possess cannabis/20 grams or less,0,778,0,0,0,2,61222.0,pretrial,single,english,-2.32,21,2,0
 male,african-american,less than 25,4,6,0,0,low,2013-02-07,0,1,misdemeanor,leave acc/attend veh/more $50,3,1149,0,0,0,0,51945.0,pretrial,single,english,-1.62,20,0,1
 male,hispanic,less than 25,7,5,0,0,medium,2013-08-23,0,0,misdemeanor,leaving acc/unattended veh,0,952,0,0,0,0,56685.0,pretrial,single,english,-1.97,21,0,0
 male,african-american,less than 25,4,5,1,0,low,2014-02-14,1,1,felony,grand theft in the 3rd degree,3,152,1,0,0,0,61248.0,pretrial,single,english,-1.86,21,0,1
@@ -5288,10 +5288,10 @@ male,african-american,less than 25,9,5,0,0,high,2013-05-09,0,2,felony,robbery / 
 male,african-american,less than 25,7,5,0,0,medium,2013-02-10,0,0,felony,tampering with physical evidence,1,1146,0,0,0,0,52048.0,pretrial,single,english,-1.79,20,0,0
 male,african-american,less than 25,7,5,1,0,medium,2013-09-30,1,3,felony,felony battery (dom strang),43,594,1,0,0,0,56957.0,pretrial,single,english,-1.8,21,0,3
 male,african-american,less than 25,4,5,0,0,low,2013-11-04,0,1,felony,possession of cannabis,1,879,0,0,0,0,58709.0,pretrial,single,english,-1.96,21,0,1
-male,caucasian,less than 25,9,9,1,1,high,2013-01-03,1,0,felony,false imprisonment,19,508,1,0,0,1,50892.0,pretrial,single,english,-0.89,20,1,-1
+male,caucasian,less than 25,9,9,1,1,high,2013-01-03,1,1,felony,false imprisonment,19,508,1,0,0,1,50892.0,pretrial,single,english,-0.89,20,1,0
 male,african-american,less than 25,2,4,1,0,low,2014-01-06,1,0,misdemeanor,battery,0,176,1,0,0,0,60163.0,pretrial,single,english,-2.16,21,0,0
 male,caucasian,less than 25,4,4,0,0,low,2014-02-24,0,0,misdemeanor,driving under the influence,0,767,0,0,0,0,61444.0,pretrial,single,english,-2.16,21,0,0
-male,african-american,less than 25,2,4,1,0,low,2014-02-04,1,1,misdemeanor,driving license suspended,0,465,1,0,1,2,60948.0,pretrial,single,english,-2.08,21,3,-2
+male,african-american,less than 25,2,4,1,0,low,2014-02-04,1,3,misdemeanor,driving license suspended,0,465,1,0,1,2,60948.0,pretrial,single,english,-2.08,21,3,0
 male,caucasian,less than 25,3,5,0,0,low,2013-01-16,0,0,misdemeanor,viol injunct domestic violence,2,1171,0,0,0,0,51265.0,pretrial,single,english,-1.84,20,0,0
 male,caucasian,less than 25,4,4,1,0,low,2013-05-06,1,4,felony,poss similitude of drivers lic,0,537,1,0,0,1,54531.0,pretrial,single,english,-2.02,20,1,3
 male,african-american,less than 25,6,5,1,0,medium,2014-02-06,1,2,felony,aggravated battery / pregnant,0,6,1,0,1,0,61022.0,pretrial,single,english,-1.96,21,1,1
@@ -5309,7 +5309,7 @@ male,caucasian,less than 25,3,4,0,0,low,2013-12-04,0,1,felony,grand theft in the
 female,other,less than 25,6,6,0,0,medium,2013-03-18,0,0,misdemeanor,battery,0,1110,0,0,0,0,53041.0,pretrial,single,english,-1.7,20,0,0
 male,hispanic,less than 25,3,5,0,0,low,2013-12-31,0,0,felony,burglary conveyance unoccup,45,463,0,0,0,0,60056.0,pretrial,single,english,-1.96,21,0,0
 male,african-american,less than 25,5,5,0,0,medium,2014-01-17,0,0,misdemeanor,battery,32,805,0,0,0,0,60494.0,pretrial,single,english,-1.8,21,0,0
-male,african-american,less than 25,2,3,0,0,low,2014-02-19,0,0,felony,felony battery (dom strang),0,772,0,0,0,1,61350.0,pretrial,single,english,-2.24,21,1,-1
+male,african-american,less than 25,2,3,0,0,low,2014-02-19,0,1,felony,felony battery (dom strang),0,772,0,0,0,1,61350.0,pretrial,single,english,-2.24,21,1,0
 male,african-american,less than 25,7,6,1,0,medium,2013-02-14,1,2,felony,tampering with physical evidence,1,85,1,0,0,1,52162.0,pretrial,single,english,-1.53,20,1,1
 female,african-american,less than 25,3,3,0,0,low,2014-01-28,0,0,misdemeanor,battery,0,794,0,0,0,0,60768.0,pretrial,significant other,english,-2.24,21,0,0
 male,african-american,less than 25,3,5,0,0,low,2013-10-13,0,0,misdemeanor,battery,12,901,0,0,0,0,58072.0,pretrial,single,english,-1.88,21,0,0
@@ -5340,7 +5340,7 @@ female,african-american,less than 25,7,6,0,0,medium,2013-10-29,0,0,felony,felony
 male,caucasian,less than 25,7,7,1,0,medium,2013-05-13,1,2,felony,arrest case no charge,0,129,1,0,0,0,37774.0,pretrial,single,english,-1.33,20,0,2
 male,african-american,less than 25,4,5,1,0,low,2013-02-14,0,0,misdemeanor,lewdness violation,1,750,1,0,0,0,52173.0,pretrial,separated,english,-1.97,20,0,0
 male,african-american,less than 25,9,10,1,0,high,2013-05-23,1,2,felony,pos cannabis w/intent sel/del,1,294,1,1,0,0,29781.0,pretrial,single,english,-0.55,20,1,1
-male,caucasian,less than 25,7,9,0,0,medium,2014-01-02,0,3,misdemeanor,battery,0,820,0,0,0,7,28478.0,pretrial,single,english,-0.88,21,7,-4
+male,caucasian,less than 25,7,9,0,0,medium,2014-01-02,0,7,misdemeanor,battery,0,820,0,0,0,7,28478.0,pretrial,single,english,-0.88,21,7,0
 male,caucasian,less than 25,3,5,1,0,low,2013-01-15,1,0,misdemeanor,resist/obstruct w/o violence,0,132,1,0,0,0,51215.0,pretrial,single,english,-1.76,20,0,0
 female,other,less than 25,4,5,0,0,low,2014-02-22,0,0,misdemeanor,battery,0,769,0,0,0,0,61430.0,pretrial,significant other,english,-1.96,21,0,0
 male,other,less than 25,10,9,1,1,high,2013-02-11,1,5,misdemeanor,resist/obstruct w/o violence,31,340,1,0,0,0,33064.0,pretrial,single,english,-0.63,20,0,5
@@ -5388,10 +5388,10 @@ male,african-american,less than 25,8,6,0,0,high,2013-01-13,0,1,felony,possession
 male,african-american,less than 25,6,5,0,0,medium,2013-05-15,0,2,felony,arrest case no charge,238,1052,0,0,0,0,46409.0,pretrial,single,english,-1.95,20,0,2
 male,african-american,less than 25,4,5,0,0,low,2013-04-03,0,0,felony,felony battery (dom strang),0,1094,0,0,0,0,53621.0,pretrial,unknown,english,-1.97,20,0,0
 male,caucasian,less than 25,3,4,0,0,low,2014-03-13,0,0,felony,burglary conveyance unoccup,0,750,0,0,0,0,61935.0,pretrial,single,english,-2.0,21,0,0
-male,african-american,less than 25,3,4,1,0,low,2013-08-05,1,1,felony,grand theft in the 3rd degree,0,571,1,0,0,3,56168.0,pretrial,single,english,-2.06,20,3,-2
+male,african-american,less than 25,3,4,1,0,low,2013-08-05,1,3,felony,grand theft in the 3rd degree,0,571,1,0,0,3,56168.0,pretrial,single,english,-2.06,20,3,0
 female,african-american,less than 25,6,6,0,0,medium,2013-03-13,0,0,misdemeanor,battery,0,1115,0,0,0,0,52933.0,pretrial,single,english,-1.68,20,0,0
 male,other,less than 25,8,5,1,0,high,2014-02-25,1,0,misdemeanor,battery,4,23,1,0,0,0,61478.0,pretrial,single,english,-1.78,21,0,0
-male,african-american,less than 25,7,5,0,0,medium,2013-11-13,0,1,misdemeanor,battery,0,870,0,0,0,2,58928.0,pretrial,single,english,-1.96,20,2,-1
+male,african-american,less than 25,7,5,0,0,medium,2013-11-13,0,2,misdemeanor,battery,0,870,0,0,0,2,58928.0,pretrial,single,english,-1.96,20,2,0
 male,african-american,less than 25,5,7,0,0,medium,2013-04-24,0,1,felony,agg fleeing and eluding,0,302,0,0,0,0,54214.0,pretrial,single,english,-1.42,20,0,1
 male,african-american,less than 25,7,9,1,1,medium,2013-03-07,1,3,misdemeanor,fail register vehicle,8,128,0,0,2,1,34859.0,pretrial,single,english,-0.81,20,3,0
 male,african-american,less than 25,3,4,1,0,low,2014-02-26,1,1,felony,possession of codeine,0,112,1,0,0,0,61519.0,pretrial,single,english,-2.0,21,0,1
@@ -5426,11 +5426,11 @@ male,hispanic,less than 25,8,5,0,0,high,2013-04-06,0,6,misdemeanor,possess canna
 male,caucasian,less than 25,2,4,0,0,low,2014-03-29,0,1,misdemeanor,battery,0,734,0,0,1,0,62360.0,pretrial,single,english,-2.2,21,1,0
 male,african-american,less than 25,8,5,1,0,high,2013-12-06,1,4,misdemeanor,possess cannabis/20 grams or less,0,246,1,0,0,1,59453.0,pretrial,single,english,-1.8,20,1,3
 male,hispanic,less than 25,4,5,0,0,low,2014-02-10,0,0,misdemeanor,driving under the influence,0,781,0,0,0,0,61131.0,probation,single,english,-1.86,20,0,0
-male,african-american,less than 25,6,5,1,0,medium,2013-07-18,1,2,felony,attempted robbery  no weapon,0,267,0,0,1,2,55839.0,pretrial,single,english,-1.75,20,3,-1
+male,african-american,less than 25,6,5,1,0,medium,2013-07-18,1,3,felony,attempted robbery  no weapon,0,267,0,0,1,2,55839.0,pretrial,single,english,-1.75,20,3,0
 female,african-american,less than 25,4,5,0,0,low,2014-02-15,0,0,misdemeanor,battery,1,776,0,0,0,0,61265.0,pretrial,single,english,-1.94,20,0,0
 male,african-american,less than 25,10,8,0,0,high,2013-09-18,0,1,misdemeanor,gambling/gamb paraphernalia,0,689,0,0,1,0,32763.0,pretrial,single,english,-1.17,20,1,0
 female,african-american,less than 25,7,7,1,0,medium,2013-04-15,1,2,felony,aggrav battery w/deadly weapon,0,299,1,0,0,0,49485.0,pretrial,single,english,-1.46,20,0,2
-male,caucasian,less than 25,5,6,1,0,medium,2013-05-01,1,1,felony,burglary conveyance unoccup,0,97,1,0,0,2,54415.0,pretrial,single,english,-1.56,20,2,-1
+male,caucasian,less than 25,5,6,1,0,medium,2013-05-01,1,2,felony,burglary conveyance unoccup,0,97,1,0,0,2,54415.0,pretrial,single,english,-1.56,20,2,0
 female,hispanic,less than 25,4,5,0,0,low,2013-08-07,0,0,misdemeanor,possess drug paraphernalia,0,968,0,0,0,0,56264.0,pretrial,single,english,-1.88,20,0,0
 male,hispanic,less than 25,5,5,0,0,medium,2013-01-18,0,2,felony,sel/pur/mfr/del control substa,0,1169,0,0,0,0,42220.0,pretrial,single,english,-1.87,19,0,2
 male,caucasian,less than 25,5,6,0,0,medium,2014-03-11,0,0,misdemeanor,battery,0,752,0,0,0,0,61871.0,pretrial,single,english,-1.71,20,0,0
@@ -5459,7 +5459,7 @@ female,african-american,less than 25,4,4,0,0,low,2013-12-23,0,1,felony,arrest ca
 male,african-american,less than 25,3,4,1,1,low,2013-01-18,1,2,misdemeanor,arrest case no charge,0,275,1,0,0,0,51359.0,pretrial,single,english,-2.01,19,0,2
 male,african-american,less than 25,6,5,1,0,medium,2013-11-13,1,0,felony,burglary conveyance unoccup,1,161,1,0,0,0,58929.0,pretrial,single,english,-1.8,20,0,0
 male,african-american,less than 25,7,6,0,0,medium,2013-05-10,0,0,misdemeanor,battery,0,1057,0,0,0,0,54675.0,pretrial,single,english,-1.72,20,0,0
-male,african-american,less than 25,7,8,1,0,medium,2013-02-23,1,0,felony,pos cannabis w/intent sel/del,1,276,1,0,0,1,52476.0,pretrial,significant other,english,-1.22,19,1,-1
+male,african-american,less than 25,7,8,1,0,medium,2013-02-23,1,1,felony,pos cannabis w/intent sel/del,1,276,1,0,0,1,52476.0,pretrial,significant other,english,-1.22,19,1,0
 female,other,less than 25,4,5,0,0,low,2013-02-01,0,0,felony,aggrav battery w/deadly weapon,1,1155,0,0,0,0,51751.0,pretrial,single,english,-1.91,19,0,0
 male,african-american,less than 25,4,5,1,1,low,2013-04-20,1,0,felony,burglary dwelling occupied,0,308,1,0,0,0,54107.0,pretrial,single,english,-1.75,19,0,0
 male,african-american,less than 25,3,5,1,0,low,2013-01-11,1,0,felony,possession burglary tools,0,69,1,0,0,0,51090.0,pretrial,single,english,-1.87,19,0,0
@@ -5476,7 +5476,7 @@ female,caucasian,less than 25,3,4,0,0,low,2013-10-31,0,1,misdemeanor,driving und
 female,african-american,less than 25,3,4,0,0,low,2013-08-24,0,0,misdemeanor,battery,0,951,0,0,0,0,56718.0,pretrial,single,english,-2.04,20,0,0
 male,caucasian,less than 25,6,5,0,0,medium,2013-03-05,0,0,felony,pos cannabis w/intent sel/del,0,219,0,0,0,0,52703.0,pretrial,single,english,-1.83,19,0,0
 male,african-american,less than 25,3,5,1,0,low,2013-02-12,1,0,felony,grand theft in the 3rd degree,0,50,0,0,0,0,52094.0,pretrial,single,english,-1.89,19,0,0
-female,african-american,less than 25,4,4,1,0,low,2014-01-30,1,0,felony,grand theft in the 3rd degree,0,354,1,0,0,1,60833.0,pretrial,single,english,-2.02,20,1,-1
+female,african-american,less than 25,4,4,1,0,low,2014-01-30,1,1,felony,grand theft in the 3rd degree,0,354,1,0,0,1,60833.0,pretrial,single,english,-2.02,20,1,0
 male,african-american,less than 25,7,8,1,0,medium,2013-09-21,1,0,felony,"poss3,4 methylenedioxymethcath",2,41,1,0,0,0,57454.0,pretrial,single,english,-1.05,20,0,0
 male,caucasian,less than 25,7,5,1,0,medium,2014-01-15,1,3,felony,possession of cocaine,2,53,0,0,0,0,38456.0,pretrial,significant other,english,-1.92,20,0,3
 female,african-american,less than 25,4,5,0,0,low,2013-06-27,0,0,felony,grand theft in the 3rd degree,0,1009,0,0,0,0,55600.0,pretrial,single,english,-1.84,20,0,0
@@ -5513,7 +5513,7 @@ male,caucasian,less than 25,7,6,0,0,medium,2013-09-05,0,1,misdemeanor,battery,23
 male,other,less than 25,9,8,0,0,high,2013-01-22,0,1,felony,grand theft in the 3rd degree,0,1165,0,0,0,0,42530.0,pretrial,single,english,-1.11,19,0,1
 male,african-american,less than 25,6,8,0,0,medium,2014-01-10,0,0,misdemeanor,open carrying of weapon,2,812,0,0,0,0,60305.0,pretrial,single,english,-1.0,20,0,0
 male,african-american,less than 25,6,4,1,0,medium,2014-02-11,1,1,felony,battery on law enforc officer,1,110,1,0,0,0,42243.0,pretrial,single,english,-2.06,20,0,1
-male,caucasian,less than 25,2,4,1,0,low,2014-02-13,1,0,misdemeanor,petit theft,0,42,1,0,0,1,61215.0,pretrial,single,english,-2.1,20,1,-1
+male,caucasian,less than 25,2,4,1,0,low,2014-02-13,1,1,misdemeanor,petit theft,0,42,1,0,0,1,61215.0,pretrial,single,english,-2.1,20,1,0
 male,caucasian,less than 25,3,5,0,0,low,2013-10-10,0,0,misdemeanor,disorderly conduct,0,97,0,0,0,0,58012.0,pretrial,single,english,-1.76,20,0,0
 male,hispanic,less than 25,4,5,1,0,low,2013-05-10,1,0,felony,grand theft (motor vehicle),1,11,1,0,0,0,54668.0,pretrial,single,english,-1.75,19,0,0
 male,other,less than 25,2,4,1,0,low,2013-08-16,1,0,felony,false imprisonment,0,192,1,0,0,0,56484.0,pretrial,single,english,-2.04,20,0,0
@@ -5523,7 +5523,7 @@ male,caucasian,less than 25,6,4,0,0,medium,2013-08-15,0,1,felony,solicitation on
 male,african-american,less than 25,9,7,0,0,high,2013-04-25,0,0,misdemeanor,prowling/loitering,1,1072,0,0,0,0,54226.0,pretrial,single,english,-1.39,19,0,0
 male,african-american,less than 25,6,5,1,0,medium,2013-10-07,1,3,felony,felony batt(great bodily harm),2,17,0,0,0,0,57898.0,pretrial,single,english,-1.83,20,0,3
 male,african-american,less than 25,6,8,0,0,medium,2013-03-06,0,1,felony,fleeing or eluding a leo,1,47,0,0,0,0,52739.0,pretrial,single,english,-1.21,19,0,1
-male,african-american,less than 25,9,7,1,0,high,2013-01-01,1,0,misdemeanor,unlaw use false name/identity,21,363,0,0,0,1,50853.0,pretrial,single,english,-1.44,19,1,-1
+male,african-american,less than 25,9,7,1,0,high,2013-01-01,1,1,misdemeanor,unlaw use false name/identity,21,363,0,0,0,1,50853.0,pretrial,single,english,-1.44,19,1,0
 male,caucasian,less than 25,5,6,1,0,medium,2013-12-31,1,0,felony,grand theft in the 3rd degree,0,56,1,0,0,0,60062.0,pretrial,single,english,-1.67,20,0,0
 male,african-american,less than 25,4,6,0,0,low,2013-02-01,0,0,felony,grand theft in the 3rd degree,0,997,0,0,0,0,51755.0,pretrial,single,english,-1.67,19,0,0
 male,african-american,less than 25,3,4,0,0,low,2014-02-05,0,0,felony,felony battery (dom strang),8,786,0,0,0,0,60988.0,pretrial,single,english,-1.98,20,0,0
@@ -5533,7 +5533,7 @@ male,caucasian,less than 25,6,5,0,0,medium,2013-02-11,0,0,misdemeanor,operating 
 male,african-american,less than 25,4,5,0,0,low,2013-10-30,0,0,felony,possess w/i/utter forged bills,0,884,0,0,0,0,58556.0,pretrial,single,english,-1.76,20,0,0
 female,african-american,less than 25,3,4,0,0,low,2014-01-06,0,0,misdemeanor,battery,0,816,0,0,0,0,60185.0,pretrial,single,english,-2.08,20,0,0
 female,hispanic,less than 25,6,6,0,0,medium,2013-04-24,0,0,felony,grand theft in the 3rd degree,0,1073,0,0,0,0,54209.0,pretrial,single,english,-1.55,19,0,0
-male,african-american,less than 25,3,6,1,0,low,2013-01-15,0,0,felony,carjacking w/o deadly weapon,0,734,0,0,0,1,51223.0,pretrial,single,english,-1.62,19,1,-1
+male,african-american,less than 25,3,6,1,0,low,2013-01-15,0,1,felony,carjacking w/o deadly weapon,0,734,0,0,0,1,51223.0,pretrial,single,english,-1.62,19,1,0
 male,african-american,less than 25,6,7,1,0,medium,2013-11-17,1,3,felony,burglary dwelling occupied,15,351,1,0,0,1,59036.0,pretrial,single,english,-1.39,20,1,2
 female,african-american,less than 25,6,7,0,0,medium,2013-10-09,0,1,misdemeanor,battery,0,905,0,0,0,0,43205.0,pretrial,single,english,-1.37,20,0,1
 male,african-american,less than 25,6,7,0,0,medium,2013-08-09,0,1,felony,burglary dwelling occupied,0,966,0,0,1,0,36165.0,pretrial,single,english,-1.32,19,1,0
@@ -5551,13 +5551,13 @@ female,african-american,less than 25,4,4,1,0,low,2014-02-05,1,0,felony,grand the
 male,african-american,less than 25,3,6,1,0,low,2013-01-17,1,1,felony,grand theft in the 3rd degree,14,678,1,0,0,0,51280.0,pretrial,single,english,-1.7,19,0,1
 male,caucasian,less than 25,7,5,0,0,medium,2013-05-16,0,1,felony,arrest case no charge,236,1051,0,0,0,1,54832.0,pretrial,single,english,-1.75,19,1,0
 male,african-american,less than 25,2,4,0,0,low,2013-08-28,0,0,felony,uttering a forged instrument,0,947,0,0,0,0,56823.0,pretrial,single,english,-1.99,19,0,0
-male,caucasian,less than 25,4,5,0,0,low,2013-03-29,0,0,felony,grand theft in the 3rd degree,0,1099,0,0,0,1,53427.0,pretrial,single,english,-1.85,19,1,-1
-male,african-american,less than 25,6,5,0,0,medium,2014-03-23,0,2,felony,driving while license revoked,0,740,0,0,1,3,62204.0,pretrial,single,english,-1.8,20,4,-2
+male,caucasian,less than 25,4,5,0,0,low,2013-03-29,0,1,felony,grand theft in the 3rd degree,0,1099,0,0,0,1,53427.0,pretrial,single,english,-1.85,19,1,0
+male,african-american,less than 25,6,5,0,0,medium,2014-03-23,0,4,felony,driving while license revoked,0,740,0,0,1,3,62204.0,pretrial,single,english,-1.8,20,4,0
 male,african-american,less than 25,3,3,1,0,low,2013-08-25,1,1,misdemeanor,battery,17,256,0,0,0,0,37303.0,pretrial,single,english,-1.57,19,0,1
 male,other,less than 25,9,7,0,0,high,2013-02-06,0,0,felony,grand theft (motor vehicle),15,1150,0,0,0,0,51894.0,pretrial,single,english,-1.48,19,0,0
 male,caucasian,less than 25,3,5,1,0,low,2013-10-20,1,0,misdemeanor,battery,0,598,1,0,0,0,58243.0,pretrial,single,english,-1.84,20,0,0
 male,african-american,less than 25,7,5,1,0,medium,2014-03-21,1,1,felony,del cannabis for consideration,0,116,1,0,0,0,62181.0,pretrial,single,english,-1.96,20,0,1
-male,caucasian,less than 25,7,6,1,1,medium,2013-02-01,1,0,felony,grand theft (motor vehicle),2,92,0,0,0,2,51752.0,pretrial,single,english,-1.58,19,2,-2
+male,caucasian,less than 25,7,6,1,1,medium,2013-02-01,1,2,felony,grand theft (motor vehicle),2,92,0,0,0,2,51752.0,pretrial,single,english,-1.58,19,2,0
 male,caucasian,less than 25,3,5,0,0,low,2013-09-18,0,0,felony,aggravated battery on 65/older,0,926,0,0,0,0,57363.0,pretrial,single,english,-1.95,19,0,0
 male,asian,less than 25,2,4,0,0,low,2013-09-13,0,1,misdemeanor,dui level 0.15 or minor in veh,0,931,0,0,0,0,57253.0,pretrial,single,english,-2.0,19,0,1
 male,african-american,less than 25,4,6,0,0,low,2013-02-22,0,0,felony,pos cannabis w/intent sel/del,0,1134,0,0,0,0,52421.0,pretrial,single,english,-1.7,19,0,0
@@ -5566,7 +5566,7 @@ male,african-american,less than 25,10,10,0,0,high,2013-05-10,0,0,misdemeanor,res
 male,african-american,less than 25,10,10,1,0,high,2013-08-25,1,1,felony,"poss3,4 methylenedioxymethcath",0,277,1,0,0,1,43642.0,pretrial,single,english,-0.31,19,1,0
 male,caucasian,less than 25,3,5,0,0,low,2014-02-09,0,0,felony,leaving the scene of accident,1,782,0,0,0,0,61106.0,pretrial,single,english,-1.92,20,0,0
 male,african-american,less than 25,7,6,1,0,medium,2013-09-24,0,2,felony,felony battery (dom strang),14,598,0,0,0,0,57553.0,pretrial,single,english,-1.73,19,0,2
-male,caucasian,less than 25,5,6,0,0,medium,2013-06-24,0,0,felony,possession of alprazolam,0,169,0,0,0,2,55525.0,pretrial,single,english,-1.59,19,2,-2
+male,caucasian,less than 25,5,6,0,0,medium,2013-06-24,0,2,felony,possession of alprazolam,0,169,0,0,0,2,55525.0,pretrial,single,english,-1.59,19,2,0
 female,african-american,less than 25,9,6,0,0,high,2013-01-14,0,2,felony,robbery sudd snatch no weapon,0,1173,0,0,0,0,51195.0,pretrial,single,english,-1.5,19,0,2
 female,african-american,less than 25,6,7,0,0,medium,2013-03-12,0,0,felony,robbery / no weapon,1,1116,0,0,0,0,52908.0,pretrial,single,english,-1.42,19,0,0
 male,hispanic,less than 25,3,5,0,0,low,2014-03-10,0,0,misdemeanor,possess drug paraphernalia,0,422,0,0,0,0,61824.0,pretrial,single,english,-1.93,20,0,0
@@ -5580,7 +5580,7 @@ female,caucasian,less than 25,5,5,0,0,medium,2013-10-25,0,0,misdemeanor,battery,
 male,african-american,less than 25,3,6,1,0,low,2013-03-09,1,2,felony,possession of cocaine,0,82,1,0,0,1,39175.0,pretrial,single,english,-1.57,19,1,1
 male,hispanic,less than 25,7,5,1,0,medium,2013-03-02,1,1,misdemeanor,battery,2,141,0,0,0,0,52652.0,pretrial,single,english,-1.78,19,0,1
 male,hispanic,less than 25,4,6,0,0,low,2013-05-25,0,1,felony,burglary structure unoccup,0,1042,0,0,0,0,55069.0,pretrial,single,english,-1.59,19,0,1
-male,hispanic,less than 25,3,5,0,0,low,2013-04-30,0,0,misdemeanor,battery,0,1067,0,0,0,1,54370.0,pretrial,single,english,-1.87,19,1,-1
+male,hispanic,less than 25,3,5,0,0,low,2013-04-30,0,1,misdemeanor,battery,0,1067,0,0,0,1,54370.0,pretrial,single,english,-1.87,19,1,0
 male,caucasian,less than 25,4,6,1,1,low,2013-12-10,1,2,felony,battery on law enforc officer,0,70,1,0,0,0,59571.0,pretrial,single,english,-1.7,20,0,2
 male,caucasian,less than 25,9,7,1,0,high,2013-08-27,1,6,felony,crimin mischief damage $1000+,0,17,0,0,0,0,40374.0,pretrial,single,english,-1.44,19,0,6
 male,caucasian,less than 25,5,6,1,1,medium,2013-08-29,1,2,misdemeanor,battery,13,179,1,0,0,0,56854.0,pretrial,single,english,-1.67,19,0,2
@@ -5623,14 +5623,14 @@ male,african-american,less than 25,8,7,0,0,high,2013-08-14,0,1,felony,possession
 male,african-american,less than 25,6,7,0,0,medium,2013-08-07,0,2,felony,grand theft in the 3rd degree,0,968,0,0,0,0,56246.0,pretrial,single,english,-1.31,19,0,2
 male,african-american,less than 25,3,5,0,0,low,2013-03-07,0,0,felony,pos cannabis w/intent sel/del,0,1121,0,0,0,0,52767.0,pretrial,single,english,-1.78,19,0,0
 male,african-american,less than 25,7,7,0,0,medium,2013-01-09,0,0,felony,dealing in stolen property,0,320,0,0,0,0,51025.0,pretrial,single,english,-1.4,19,0,0
-male,african-american,less than 25,3,5,1,0,low,2014-03-13,1,0,felony,burglary conveyance unoccup,12,301,1,0,0,2,61937.0,pretrial,single,english,-1.76,20,2,-2
+male,african-american,less than 25,3,5,1,0,low,2014-03-13,1,2,felony,burglary conveyance unoccup,12,301,1,0,0,2,61937.0,pretrial,single,english,-1.76,20,2,0
 male,african-american,less than 25,4,5,1,0,low,2013-05-10,1,1,misdemeanor,possess cannabis/20 grams or less,0,332,1,0,0,1,54670.0,pretrial,single,english,-1.74,19,1,0
 male,african-american,less than 25,8,9,1,0,high,2013-04-21,1,0,felony,poss cocaine/intent to del/sel,0,232,1,0,0,0,54132.0,pretrial,single,english,-0.8,19,0,0
 male,african-american,less than 25,7,6,1,0,medium,2013-12-07,1,1,felony,possession of cocaine,0,20,1,0,0,0,59482.0,pretrial,single,english,-1.64,19,0,1
 male,hispanic,less than 25,6,7,0,0,medium,2013-03-28,0,0,felony,crimin mischief damage $1000+,0,755,0,0,0,0,53390.0,pretrial,single,english,-1.36,19,0,0
 female,caucasian,less than 25,7,6,0,0,medium,2013-09-11,0,1,felony,"poss3,4 methylenedioxymethcath",0,386,0,0,0,0,57149.0,pretrial,single,english,-1.59,19,0,1
 male,african-american,less than 25,9,9,1,1,high,2014-03-18,1,3,misdemeanor,prowling/loitering,0,33,1,0,0,0,46399.0,pretrial,single,english,-1.0,20,0,3
-male,caucasian,less than 25,5,5,1,0,medium,2013-09-17,1,1,felony,possession of alprazolam,0,218,1,0,0,3,57342.0,pretrial,single,english,-1.95,19,3,-2
+male,caucasian,less than 25,5,5,1,0,medium,2013-09-17,1,3,felony,possession of alprazolam,0,218,1,0,0,3,57342.0,pretrial,single,english,-1.95,19,3,0
 male,caucasian,less than 25,3,6,0,0,low,2013-03-06,0,0,felony,robbery sudd snatch no weapon,0,1122,0,0,0,0,52736.0,pretrial,single,english,-1.66,19,0,0
 female,african-american,less than 25,8,8,1,0,high,2013-03-28,1,2,misdemeanor,battery,34,48,1,0,1,0,53400.0,pretrial,single,english,-1.15,19,1,1
 male,african-american,less than 25,5,7,0,0,medium,2013-11-27,0,0,felony,grand theft (motor vehicle),34,552,0,0,0,0,59278.0,pretrial,single,english,-1.4,19,0,0
@@ -5644,11 +5644,11 @@ female,african-american,less than 25,7,6,0,0,medium,2013-01-15,0,0,felony,grand 
 male,african-american,less than 25,9,8,0,0,high,2013-04-04,0,3,felony,arrest case no charge,323,1093,0,0,0,1,53659.0,pretrial,single,english,-1.01,19,1,2
 male,african-american,less than 25,4,5,1,0,low,2013-11-01,1,1,felony,possession of alprazolam,0,246,1,0,0,0,58626.0,pretrial,single,english,-1.75,19,0,1
 female,hispanic,less than 25,4,5,0,0,low,2013-03-25,0,1,felony,possession of amphetamine,0,1103,0,0,0,0,53327.0,pretrial,single,english,-1.9,19,0,1
-male,african-american,less than 25,3,5,0,0,low,2013-08-22,0,0,felony,uttering a forged instrument,0,953,0,0,0,1,56657.0,pretrial,single,english,-1.79,19,1,-1
+male,african-american,less than 25,3,5,0,0,low,2013-08-22,0,1,felony,uttering a forged instrument,0,953,0,0,0,1,56657.0,pretrial,single,english,-1.79,19,1,0
 male,african-american,less than 25,4,5,1,0,low,2013-02-16,1,1,felony,tampering with physical evidence,0,248,1,0,0,0,52245.0,pretrial,single,english,-1.82,19,0,1
 male,african-american,less than 25,9,7,1,0,high,2013-04-06,1,1,felony,pos cannabis w/intent sel/del,5,75,0,0,0,0,53705.0,pretrial,married,english,-1.44,19,0,1
 female,african-american,less than 25,8,9,1,0,high,2013-05-28,1,0,misdemeanor,possess cannabis/20 grams or less,0,379,1,0,0,0,55113.0,pretrial,single,english,-0.7,19,0,0
-male,caucasian,less than 25,4,6,1,0,low,2013-04-26,1,1,felony,arrest case no charge,0,344,1,0,1,1,54263.0,pretrial,single,english,-1.58,19,2,-1
+male,caucasian,less than 25,4,6,1,0,low,2013-04-26,1,2,felony,arrest case no charge,0,344,1,0,1,1,54263.0,pretrial,single,english,-1.58,19,2,0
 female,african-american,less than 25,4,5,0,0,low,2013-10-07,0,0,misdemeanor,battery,0,907,0,0,0,0,57894.0,pretrial,single,english,-1.91,19,0,0
 male,african-american,less than 25,9,9,1,1,high,2013-03-23,1,1,felony,arrest case no charge,38,123,0,0,0,0,44206.0,pretrial,single,english,-0.9,19,0,1
 male,african-american,less than 25,4,6,1,0,low,2014-02-03,1,1,felony,burglary structure unoccup,0,418,1,0,0,0,60906.0,pretrial,single,english,-1.64,20,0,1
@@ -5662,8 +5662,8 @@ female,caucasian,less than 25,8,7,0,0,high,2013-08-12,0,1,misdemeanor,viol pretr
 male,african-american,less than 25,7,8,1,0,medium,2013-08-01,1,2,felony,pos cannabis w/intent sel/del,0,366,1,0,0,0,41390.0,pretrial,single,english,-1.11,19,0,2
 male,african-american,less than 25,4,6,1,0,low,2013-03-22,1,3,felony,grand theft in the 3rd degree,0,8,1,0,1,0,53219.0,pretrial,single,english,-1.7,19,1,2
 male,african-american,less than 25,8,10,1,0,high,2013-11-19,1,1,felony,battery on law enforc officer,0,99,0,0,1,0,59101.0,pretrial,single,english,-0.59,19,1,0
-male,caucasian,less than 25,7,10,0,0,medium,2013-03-31,0,0,misdemeanor,possess tobacco product under 18,0,1097,0,0,0,3,53455.0,pretrial,single,english,-0.61,19,3,-3
-male,african-american,less than 25,8,9,1,0,high,2013-04-19,1,0,felony,criminal mischief,4,50,1,0,0,1,54067.0,pretrial,single,english,-0.64,19,1,-1
+male,caucasian,less than 25,7,10,0,0,medium,2013-03-31,0,3,misdemeanor,possess tobacco product under 18,0,1097,0,0,0,3,53455.0,pretrial,single,english,-0.61,19,3,0
+male,african-american,less than 25,8,9,1,0,high,2013-04-19,1,1,felony,criminal mischief,4,50,1,0,0,1,54067.0,pretrial,single,english,-0.64,19,1,0
 male,caucasian,less than 25,4,6,1,0,low,2013-08-23,1,2,misdemeanor,resist/obstruct w/o violence,0,670,1,0,0,0,56707.0,pretrial,single,english,-1.5,19,0,2
 male,caucasian,less than 25,3,5,0,0,low,2013-05-24,0,0,felony,"poss3,4 methylenedioxymethcath",4,108,0,0,0,0,55055.0,pretrial,single,english,-1.82,19,0,0
 male,african-american,less than 25,5,6,1,0,medium,2013-02-01,1,0,felony,burglary unoccupied dwelling,1,140,1,0,0,0,51759.0,pretrial,single,english,-1.56,18,0,0
@@ -5675,7 +5675,7 @@ male,african-american,less than 25,9,9,1,1,high,2013-02-05,1,4,felony,grand thef
 male,african-american,less than 25,6,6,1,1,medium,2014-03-26,1,1,misdemeanor,battery,0,345,1,0,0,0,62272.0,pretrial,single,english,-1.69,20,0,1
 male,african-american,less than 25,9,8,1,1,high,2014-02-14,1,2,misdemeanor,viol injunct domestic violence,54,126,0,0,0,0,48355.0,pretrial,single,english,-1.14,20,0,2
 female,hispanic,less than 25,2,4,0,0,low,2014-02-11,0,0,misdemeanor,battery,0,780,0,0,0,0,61153.0,pretrial,single,english,-2.2,20,0,0
-male,caucasian,less than 25,6,6,1,0,medium,2013-03-20,1,0,misdemeanor,possess cannabis/20 grams or less,0,232,1,0,0,1,53150.0,pretrial,single,english,-1.5,19,1,-1
+male,caucasian,less than 25,6,6,1,0,medium,2013-03-20,1,1,misdemeanor,possess cannabis/20 grams or less,0,232,1,0,0,1,53150.0,pretrial,single,english,-1.5,19,1,0
 male,african-american,less than 25,9,9,0,0,high,2013-01-15,0,0,felony,felony battery (dom strang),0,1172,0,0,0,0,51217.0,pretrial,single,english,-0.89,18,0,0
 male,african-american,less than 25,3,5,1,1,low,2013-04-20,1,0,misdemeanor,susp drivers lic 1st offense,0,15,1,0,0,0,54111.0,pretrial,single,english,-1.82,19,0,0
 male,african-american,less than 25,5,7,1,0,medium,2013-01-21,0,0,misdemeanor,battery,1,763,1,0,0,0,51404.0,pretrial,single,english,-1.4,18,0,0
@@ -5685,7 +5685,7 @@ male,african-american,less than 25,9,10,1,0,high,2013-01-21,1,2,felony,grand the
 male,african-american,less than 25,4,6,1,1,low,2013-08-21,1,2,felony,crim use of personal id info,1,288,1,0,0,0,56619.0,pretrial,single,english,-1.62,19,0,2
 male,caucasian,less than 25,6,5,1,0,medium,2013-09-09,1,2,misdemeanor,possess cannabis/20 grams or less,0,158,0,0,0,0,57086.0,pretrial,single,english,-1.83,19,0,2
 male,caucasian,less than 25,7,6,1,0,medium,2013-01-10,1,3,felony,burglary conveyance unoccup,141,320,0,0,0,0,46767.0,pretrial,single,english,-1.6,18,0,3
-male,african-american,less than 25,5,7,0,0,medium,2013-03-30,0,1,felony,pos cannabis w/intent sel/del,2,1098,0,0,1,2,53447.0,pretrial,single,english,-1.36,19,3,-2
+male,african-american,less than 25,5,7,0,0,medium,2013-03-30,0,3,felony,pos cannabis w/intent sel/del,2,1098,0,0,1,2,53447.0,pretrial,single,english,-1.36,19,3,0
 male,caucasian,less than 25,9,7,1,1,high,2013-03-01,1,2,felony,poss f/arm delinq,1,108,1,0,1,0,41633.0,pretrial,single,english,-1.46,19,1,1
 male,caucasian,less than 25,5,5,0,0,medium,2013-09-24,0,2,felony,arrest case no charge,3,920,0,0,0,0,57535.0,pretrial,single,english,-1.77,19,0,2
 male,hispanic,less than 25,3,6,0,0,low,2013-04-10,0,2,felony,arrest case no charge,0,102,0,0,0,0,46276.0,pretrial,married,english,-1.64,19,0,2
@@ -5695,7 +5695,7 @@ male,african-american,less than 25,6,6,1,0,medium,2013-04-06,1,1,felony,burglary
 male,african-american,less than 25,7,9,1,1,medium,2013-03-26,1,3,felony,grand theft in the 3rd degree,0,300,1,0,0,0,53348.0,pretrial,single,english,-0.64,19,0,3
 male,african-american,less than 25,8,6,0,0,high,2013-02-17,0,0,misdemeanor,battery,53,1139,0,0,0,0,52253.0,pretrial,single,english,-1.61,18,0,0
 male,african-american,less than 25,7,6,1,0,medium,2013-03-21,1,1,felony,burglary unoccupied dwelling,0,63,0,0,0,0,53174.0,pretrial,single,english,-1.52,19,0,1
-male,other,less than 25,3,6,0,0,low,2013-08-21,0,0,felony,grand theft in the 3rd degree,0,954,0,0,0,1,56615.0,pretrial,single,english,-1.62,19,1,-1
+male,other,less than 25,3,6,0,0,low,2013-08-21,0,1,felony,grand theft in the 3rd degree,0,954,0,0,0,1,56615.0,pretrial,single,english,-1.62,19,1,0
 male,african-american,less than 25,7,7,1,0,medium,2013-03-28,1,1,misdemeanor,resist/obstruct w/o violence,0,64,1,0,0,0,53392.0,pretrial,single,english,-1.48,19,0,1
 male,caucasian,less than 25,5,6,1,1,medium,2013-02-19,0,0,felony,possession of cocaine,1,885,1,0,0,0,52311.0,pretrial,single,english,-1.7,18,0,0
 male,african-american,less than 25,7,8,1,0,medium,2013-08-03,1,2,felony,arrest case no charge,1,699,1,0,1,0,56131.0,pretrial,single,english,-1.14,19,1,1
@@ -5709,14 +5709,14 @@ male,african-american,less than 25,7,6,0,0,medium,2013-11-20,0,1,felony,possessi
 male,caucasian,less than 25,5,5,1,0,medium,2013-06-26,1,1,felony,false ownership info/pawn item,0,129,1,0,0,0,55587.0,pretrial,single,english,-1.76,19,0,1
 male,african-american,less than 25,3,5,1,0,low,2013-12-21,1,0,felony,aggravated assault w/dead weap,0,445,0,0,0,0,59890.0,pretrial,single,english,-1.79,19,0,0
 male,african-american,less than 25,3,5,1,0,low,2013-04-25,1,0,felony,burglary dwelling armed,149,166,0,0,0,0,54231.0,pretrial,single,english,-1.82,19,0,0
-male,african-american,less than 25,10,9,1,0,high,2013-03-14,1,2,felony,sell conterfeit cont substance,0,70,0,0,1,2,49437.0,pretrial,single,english,-0.65,18,3,-1
+male,african-american,less than 25,10,9,1,0,high,2013-03-14,1,3,felony,sell conterfeit cont substance,0,70,0,0,1,2,49437.0,pretrial,single,english,-0.65,18,3,0
 female,african-american,less than 25,9,6,0,0,high,2013-10-29,0,3,misdemeanor,petit theft $100- $300,0,885,0,0,1,0,58505.0,pretrial,single,english,-1.61,19,1,2
 male,african-american,less than 25,4,6,1,0,low,2013-11-19,1,0,felony,dealing in stolen property,0,252,1,0,0,0,59091.0,pretrial,single,english,-1.71,19,0,0
 male,african-american,less than 25,7,7,0,0,medium,2013-09-11,0,0,felony,purchase cannabis,1,440,0,0,0,0,57145.0,pretrial,single,english,-1.42,19,0,0
 male,caucasian,less than 25,6,7,0,0,medium,2013-01-15,0,1,felony,poss contr subst w/o prescript,0,82,0,0,0,1,48235.0,pretrial,single,english,-1.32,18,1,0
 male,african-american,less than 25,3,5,0,0,low,2013-03-30,0,0,felony,pos cannabis w/intent sel/del,0,1098,0,0,0,0,53434.0,pretrial,single,english,-1.8,18,0,0
 male,caucasian,less than 25,8,7,1,0,high,2013-01-31,1,1,misdemeanor,voyeurism,6,531,1,0,0,1,51720.0,pretrial,single,english,-1.45,18,1,0
-male,hispanic,less than 25,7,6,0,0,medium,2013-04-20,0,0,felony,"poss3,4 methylenedioxymethcath",2,66,0,0,0,1,54115.0,pretrial,single,english,-1.56,19,1,-1
+male,hispanic,less than 25,7,6,0,0,medium,2013-04-20,0,1,felony,"poss3,4 methylenedioxymethcath",2,66,0,0,0,1,54115.0,pretrial,single,english,-1.56,19,1,0
 male,caucasian,less than 25,4,5,1,0,low,2013-03-16,1,0,misdemeanor,battery,9,46,1,0,0,0,53024.0,pretrial,single,english,-1.76,18,0,0
 female,caucasian,less than 25,7,6,1,0,medium,2013-02-07,1,0,felony,del cannabis for consideration,0,241,0,0,0,0,51951.0,pretrial,single,english,-1.56,18,0,0
 male,hispanic,less than 25,5,5,1,1,medium,2013-02-16,1,1,misdemeanor,possess cannabis/20 grams or less,0,609,1,0,0,0,52233.0,pretrial,single,english,-1.84,18,0,1
@@ -5737,7 +5737,7 @@ male,caucasian,less than 25,6,5,0,0,medium,2014-02-03,0,2,felony,arrest case no 
 male,caucasian,less than 25,4,5,0,0,low,2014-02-25,0,1,felony,arrest case no charge,0,377,0,0,0,0,61507.0,pretrial,single,english,-1.81,19,0,1
 male,african-american,less than 25,10,10,1,1,high,2013-09-13,1,2,felony,tampering with physical evidence,1,14,1,0,0,0,57258.0,pretrial,single,english,-0.52,19,0,2
 male,african-american,less than 25,5,7,0,0,medium,2013-05-02,0,0,felony,burglary dwelling armed,49,298,0,0,0,0,54436.0,pretrial,single,english,-1.4,18,0,0
-male,hispanic,less than 25,8,6,0,0,high,2014-03-11,0,1,felony,possession of cocaine,0,233,0,0,0,3,61875.0,pretrial,single,english,-1.68,19,3,-2
+male,hispanic,less than 25,8,6,0,0,high,2014-03-11,0,3,felony,possession of cocaine,0,233,0,0,0,3,61875.0,pretrial,single,english,-1.68,19,3,0
 male,caucasian,less than 25,10,6,1,0,high,2013-02-20,1,3,felony,poss contr subst w/o prescript,0,8,0,0,2,1,52329.0,pretrial,single,english,-1.56,18,3,0
 male,african-american,less than 25,9,8,1,1,high,2013-01-17,1,1,felony,bribery athletic contests,0,105,1,0,0,0,51273.0,pretrial,single,english,-1.08,18,0,1
 male,african-american,less than 25,8,8,1,0,high,2013-01-30,0,1,felony,poss/sell/del cocaine 1000ft sch,12,447,0,0,0,0,49853.0,pretrial,single,english,-1.0,18,0,1
@@ -5764,19 +5764,19 @@ male,african-american,less than 25,7,6,0,0,medium,2014-02-02,0,0,felony,carrying
 male,caucasian,less than 25,6,6,0,0,medium,2013-11-07,0,2,felony,arrest case no charge,1,577,0,0,0,0,58794.0,pretrial,single,english,-1.52,19,0,2
 male,other,less than 25,4,6,1,0,low,2013-12-23,1,0,felony,possession of cocaine,0,479,1,0,0,0,59930.0,pretrial,single,english,-1.66,19,0,0
 male,african-american,less than 25,8,8,1,0,high,2013-10-07,1,3,misdemeanor,battery,18,274,1,0,1,1,57942.0,pretrial,single,english,-1.22,19,2,1
-female,african-american,less than 25,7,8,1,1,medium,2013-01-23,0,3,felony,grand theft in the 3rd degree,0,539,0,1,2,2,51481.0,pretrial,single,english,-1.06,18,5,-2
+female,african-american,less than 25,7,8,1,1,medium,2013-01-23,0,5,felony,grand theft in the 3rd degree,0,539,0,1,2,2,51481.0,pretrial,single,english,-1.06,18,5,0
 female,african-american,less than 25,5,6,1,0,medium,2013-02-04,1,0,felony,burglary dwelling assault/batt,0,449,1,0,0,0,51836.0,pretrial,single,english,-1.56,18,0,0
 male,hispanic,less than 25,5,5,0,0,medium,2013-09-08,0,0,felony,possession of cocaine,1,936,0,0,0,0,57073.0,pretrial,single,english,-1.74,19,0,0
 male,african-american,less than 25,8,9,0,0,high,2013-04-30,0,1,felony,grand theft dwell property,0,1067,0,0,0,0,46563.0,pretrial,single,english,-0.96,18,0,1
 male,caucasian,less than 25,6,7,1,0,medium,2013-05-10,1,0,misdemeanor,grand theft (motor vehicle),2,654,1,0,0,0,54671.0,pretrial,single,english,-1.32,18,0,0
-male,african-american,less than 25,9,6,1,0,high,2013-04-23,1,1,felony,att burgl conv occp,2,35,1,0,1,1,54166.0,pretrial,single,english,-1.56,18,2,-1
-male,caucasian,less than 25,5,7,0,0,medium,2013-04-09,0,0,misdemeanor,possess cannabis/20 grams or less,0,1088,0,0,0,1,53779.0,pretrial,single,english,-1.4,18,1,-1
+male,african-american,less than 25,9,6,1,0,high,2013-04-23,1,2,felony,att burgl conv occp,2,35,1,0,1,1,54166.0,pretrial,single,english,-1.56,18,2,0
+male,caucasian,less than 25,5,7,0,0,medium,2013-04-09,0,1,misdemeanor,possess cannabis/20 grams or less,0,1088,0,0,0,1,53779.0,pretrial,single,english,-1.4,18,1,0
 female,african-american,less than 25,8,8,1,0,high,2013-12-22,1,4,misdemeanor,arrest case no charge,0,489,0,0,3,1,59900.0,pretrial,single,english,-1.1,19,4,0
 male,african-american,less than 25,7,7,1,1,medium,2013-05-13,1,0,felony,poss f/arm delinq,0,50,1,0,0,0,54747.0,pretrial,married,english,-1.36,18,0,0
 female,african-american,less than 25,4,5,0,0,low,2013-12-27,0,0,misdemeanor,battery,0,826,0,0,0,0,59990.0,pretrial,single,english,-1.82,19,0,0
 female,african-american,less than 25,5,6,0,0,medium,2013-12-27,0,0,misdemeanor,battery,0,826,0,0,0,0,59997.0,pretrial,single,english,-1.7,19,0,0
 male,african-american,less than 25,5,6,0,0,medium,2014-02-03,0,0,felony,grand theft in the 3rd degree,0,788,0,0,0,0,60927.0,pretrial,single,english,-1.73,19,0,0
-male,caucasian,less than 25,8,9,0,0,high,2013-09-05,0,1,felony,burglary conveyance unoccup,12,631,0,0,1,2,56989.0,pretrial,single,english,-0.79,19,3,-2
+male,caucasian,less than 25,8,9,0,0,high,2013-09-05,0,3,felony,burglary conveyance unoccup,12,631,0,0,1,2,56989.0,pretrial,single,english,-0.79,19,3,0
 male,african-american,less than 25,8,7,1,0,high,2013-04-13,1,0,felony,grand theft in the 3rd degree,0,281,1,0,0,0,53892.0,pretrial,single,english,-1.44,18,0,0
 male,caucasian,less than 25,4,6,0,0,low,2013-09-09,0,1,felony,arrest case no charge,0,935,0,0,0,0,57088.0,pretrial,single,english,-1.5,19,0,1
 male,african-american,less than 25,7,7,0,0,medium,2013-03-22,0,1,felony,burglary unoccupied dwelling,1,201,0,0,0,0,53217.0,pretrial,single,english,-1.44,18,0,1
@@ -5784,7 +5784,7 @@ male,african-american,less than 25,5,6,0,0,medium,2014-02-03,0,0,felony,burglary
 male,hispanic,less than 25,5,6,0,0,medium,2013-07-15,0,0,felony,grand theft in the 3rd degree,0,991,0,0,0,0,55820.0,pretrial,single,english,-1.68,18,0,0
 male,caucasian,less than 25,7,8,0,0,medium,2013-08-12,0,3,misdemeanor,arrest case no charge,0,963,0,0,0,0,56356.0,pretrial,single,english,-1.12,19,0,3
 male,other,less than 25,4,6,0,0,low,2013-02-17,0,1,felony,grand theft in the 3rd degree,0,982,0,0,0,0,52261.0,pretrial,single,english,-1.56,18,0,1
-male,caucasian,less than 25,3,6,1,0,low,2013-01-23,0,1,misdemeanor,unl/disturb education/instui,0,1136,0,0,1,1,51468.0,pretrial,single,english,-1.53,18,2,-1
+male,caucasian,less than 25,3,6,1,0,low,2013-01-23,0,2,misdemeanor,unl/disturb education/instui,0,1136,0,0,1,1,51468.0,pretrial,single,english,-1.53,18,2,0
 male,african-american,less than 25,5,7,1,0,medium,2013-08-09,0,1,felony,attempted robbery  no weapon,0,955,1,0,0,0,56311.0,pretrial,single,english,-1.4,19,0,1
 male,caucasian,less than 25,7,7,1,0,medium,2014-01-17,1,0,felony,possession of cannabis,0,355,1,0,0,0,60491.0,pretrial,single,english,-1.38,19,0,0
 male,african-american,less than 25,9,9,1,0,high,2013-08-28,1,2,felony,possession of cocaine,17,264,1,0,0,0,56822.0,pretrial,single,english,-0.7,19,0,2
@@ -5792,7 +5792,7 @@ male,african-american,less than 25,7,7,0,0,medium,2013-02-24,0,1,felony,robbery 
 male,african-american,less than 25,4,6,1,0,low,2014-01-01,1,1,felony,possession of cocaine,1,57,1,0,0,0,60085.0,pretrial,single,english,-1.62,19,0,1
 female,african-american,less than 25,10,9,1,0,high,2013-04-13,1,0,felony,grand theft in the 3rd degree,32,160,0,0,0,0,53894.0,pretrial,single,english,-0.85,18,0,0
 female,african-american,less than 25,8,8,0,0,high,2013-08-24,0,2,felony,arrest case no charge,79,524,0,0,0,0,49449.0,pretrial,single,english,-1.16,19,0,2
-male,asian,less than 25,6,6,1,1,medium,2013-05-24,1,0,felony,att tamper w/physical evidence,0,540,1,0,0,1,55039.0,pretrial,single,english,-1.68,18,1,-1
+male,asian,less than 25,6,6,1,1,medium,2013-05-24,1,1,felony,att tamper w/physical evidence,0,540,1,0,0,1,55039.0,pretrial,single,english,-1.68,18,1,0
 male,caucasian,less than 25,4,7,0,0,low,2013-02-06,0,0,felony,burglary structure unoccup,0,1150,0,0,0,0,51891.0,pretrial,single,english,-1.41,18,0,0
 female,african-american,less than 25,5,7,0,0,medium,2013-01-28,0,0,misdemeanor,prostitution/lewd act assignation,0,277,0,0,0,0,51636.0,pretrial,single,english,-1.41,18,0,0
 male,african-american,less than 25,4,6,0,0,low,2013-08-06,0,0,misdemeanor,battery,1,969,0,0,0,0,56218.0,pretrial,single,english,-1.52,18,0,0
@@ -5811,7 +5811,7 @@ female,african-american,less than 25,3,5,0,0,low,2014-01-15,0,2,misdemeanor,peti
 male,other,less than 25,4,5,0,0,low,2013-04-20,0,0,felony,purchase cannabis,28,1077,0,0,0,0,54104.0,pretrial,single,english,-1.8,18,0,0
 female,african-american,less than 25,10,9,0,0,high,2013-01-31,0,0,felony,burglary dwelling assault/batt,78,1156,0,0,0,0,51739.0,pretrial,single,english,-0.77,18,0,0
 male,caucasian,less than 25,2,5,0,0,low,2013-01-14,0,0,misdemeanor,battery,0,1173,0,0,0,0,51175.0,pretrial,single,english,-1.77,18,0,0
-male,african-american,less than 25,8,7,1,0,high,2014-01-23,1,0,felony,grand theft in the 3rd degree,7,304,1,0,0,1,60635.0,pretrial,single,english,-1.32,19,1,-1
+male,african-american,less than 25,8,7,1,0,high,2014-01-23,1,1,felony,grand theft in the 3rd degree,7,304,1,0,0,1,60635.0,pretrial,single,english,-1.32,19,1,0
 male,hispanic,less than 25,10,10,1,0,high,2013-09-28,1,4,felony,arrest case no charge,0,259,1,1,0,0,57669.0,pretrial,single,english,-0.57,19,1,3
 male,african-american,less than 25,3,5,1,0,low,2014-02-17,1,0,misdemeanor,disorderly conduct,0,43,1,0,0,0,61279.0,pretrial,single,english,-1.74,19,0,0
 male,other,less than 25,6,6,1,0,medium,2013-04-20,1,1,felony,grand theft in the 3rd degree,4,253,1,0,0,0,54113.0,pretrial,single,english,-1.5,18,0,1
@@ -5840,7 +5840,7 @@ male,african-american,less than 25,8,6,0,0,high,2013-08-27,0,4,felony,burglary u
 male,caucasian,less than 25,4,7,1,1,low,2013-12-13,1,1,misdemeanor,battery,0,172,1,0,0,0,59640.0,pretrial,single,english,-1.38,19,0,1
 male,african-american,less than 25,3,5,0,0,low,2013-12-28,0,0,misdemeanor,battery,0,825,0,0,0,0,60011.0,pretrial,single,english,-1.74,19,0,0
 male,african-american,less than 25,8,9,0,0,high,2013-04-10,0,0,felony,attempted robbery  no weapon,1,756,0,0,0,0,53800.0,pretrial,married,english,-0.93,18,0,0
-female,caucasian,less than 25,6,8,0,0,medium,2013-02-21,0,0,felony,possession of cocaine,0,1135,0,0,0,2,52407.0,pretrial,significant other,english,-1.25,18,2,-2
+female,caucasian,less than 25,6,8,0,0,medium,2013-02-21,0,2,felony,possession of cocaine,0,1135,0,0,0,2,52407.0,pretrial,significant other,english,-1.25,18,2,0
 male,african-american,less than 25,3,5,0,0,low,2013-09-12,0,1,felony,arrest case no charge,0,932,0,0,0,0,57202.0,pretrial,single,english,-1.8,18,0,1
 male,african-american,less than 25,4,6,0,0,low,2014-02-15,0,0,misdemeanor,battery,44,776,0,0,0,0,61266.0,pretrial,single,english,-1.58,19,0,0
 male,african-american,less than 25,9,9,1,1,high,2013-07-16,1,1,felony,carrying concealed firearm,0,34,1,0,0,0,55828.0,pretrial,single,english,-0.89,18,0,1
@@ -5854,26 +5854,26 @@ female,other,less than 25,4,5,0,0,low,2013-08-30,0,0,misdemeanor,battery,0,945,0
 male,african-american,less than 25,8,8,0,0,high,2013-01-08,0,0,felony,arrest case no charge,1,546,0,0,0,0,50997.0,pretrial,single,english,-1.18,18,0,0
 male,caucasian,less than 25,6,8,0,0,medium,2013-12-16,0,1,misdemeanor,criminal mischief damage <$200,0,837,0,0,0,1,59272.0,pretrial,single,english,-1.1,19,1,0
 male,african-american,less than 25,8,7,1,1,high,2013-12-19,1,0,felony,aggravated battery,33,125,0,0,0,0,59819.0,pretrial,single,english,-1.32,19,0,0
-male,african-american,less than 25,9,9,1,0,high,2013-03-15,1,0,felony,grand theft in the 3rd degree,0,579,1,0,0,1,52999.0,pretrial,single,english,-0.81,18,1,-1
+male,african-american,less than 25,9,9,1,0,high,2013-03-15,1,1,felony,grand theft in the 3rd degree,0,579,1,0,0,1,52999.0,pretrial,single,english,-0.81,18,1,0
 female,other,less than 25,4,6,1,0,low,2013-03-21,1,2,felony,neglect child / no bodily harm,0,244,0,0,0,0,53199.0,pretrial,single,english,-1.69,18,0,2
-male,african-american,less than 25,8,9,1,0,high,2013-02-24,1,0,felony,possession burglary tools,1,170,1,0,0,1,65326.0,probation,single,english,-1.76,18,1,-1
+male,african-american,less than 25,8,9,1,0,high,2013-02-24,1,1,felony,possession burglary tools,1,170,1,0,0,1,65326.0,probation,single,english,-1.76,18,1,0
 male,african-american,less than 25,7,8,1,0,medium,2013-10-17,1,1,felony,burglary dwelling armed,0,328,1,0,0,0,58183.0,pretrial,single,english,-1.02,18,0,1
 male,caucasian,less than 25,8,7,1,1,high,2013-03-22,1,0,felony,arrest case no charge,6,285,1,0,0,0,53225.0,pretrial,single,english,-1.32,18,0,0
-male,african-american,less than 25,10,9,1,0,high,2013-11-28,1,2,felony,possession of cocaine,139,158,1,2,0,1,50037.0,pretrial,single,english,-0.73,19,3,-1
+male,african-american,less than 25,10,9,1,0,high,2013-11-28,1,3,felony,possession of cocaine,139,158,1,2,0,1,50037.0,pretrial,single,english,-0.73,19,3,0
 male,african-american,less than 25,10,9,1,1,high,2013-02-19,1,0,felony,grand theft in the 3rd degree,0,51,1,0,0,0,52304.0,pretrial,single,english,-0.64,18,0,0
 female,african-american,less than 25,9,6,0,0,high,2013-10-20,0,2,felony,crimin mischief damage $1000+,0,894,0,0,1,0,58236.0,pretrial,single,english,-1.53,18,1,1
 male,african-american,less than 25,7,7,0,0,medium,2013-01-15,0,0,felony,burglary unoccupied dwelling,0,1172,0,0,0,0,51212.0,pretrial,single,english,-1.31,18,0,0
 male,caucasian,less than 25,6,9,0,0,medium,2013-05-15,0,1,felony,possession burglary tools,0,296,0,0,0,0,54339.0,pretrial,single,english,-0.96,18,0,1
 male,african-american,less than 25,7,6,1,0,medium,2014-01-27,1,3,felony,arrest case no charge,9,35,1,0,0,0,60712.0,pretrial,single,english,-1.56,19,0,3
 male,african-american,less than 25,9,9,0,0,high,2013-08-18,0,0,misdemeanor,battery,0,957,0,0,0,0,56527.0,pretrial,single,english,-0.79,18,0,0
-male,caucasian,less than 25,10,8,1,0,high,2013-02-16,0,2,misdemeanor,battery,27,475,0,1,0,3,52242.0,pretrial,significant other,english,-1.14,18,4,-2
+male,caucasian,less than 25,10,8,1,0,high,2013-02-16,0,4,misdemeanor,battery,27,475,0,1,0,3,52242.0,pretrial,significant other,english,-1.14,18,4,0
 male,african-american,less than 25,7,7,1,0,medium,2013-02-20,1,0,felony,grand theft in the 3rd degree,0,71,1,0,0,0,52341.0,pretrial,single,english,-1.43,18,0,0
 female,caucasian,less than 25,5,6,1,0,medium,2013-12-27,1,0,misdemeanor,battery,1,17,1,0,0,0,59985.0,pretrial,single,english,-1.54,19,0,0
-male,caucasian,less than 25,3,5,0,0,low,2013-12-31,0,0,misdemeanor,burglary structure unoccup,0,822,0,0,0,1,60063.0,pretrial,single,english,-1.78,19,1,-1
-male,african-american,less than 25,4,6,1,0,low,2013-12-11,1,1,felony,arrest case no charge,0,166,1,1,0,1,60796.0,probation,single,english,-1.6,19,2,-1
+male,caucasian,less than 25,3,5,0,0,low,2013-12-31,0,1,misdemeanor,burglary structure unoccup,0,822,0,0,0,1,60063.0,pretrial,single,english,-1.78,19,1,0
+male,african-american,less than 25,4,6,1,0,low,2013-12-11,1,2,felony,arrest case no charge,0,166,1,1,0,1,60796.0,probation,single,english,-1.6,19,2,0
 male,african-american,less than 25,3,6,1,0,low,2013-11-16,1,0,felony,burglary conveyance unoccup,1,681,1,0,0,0,59027.0,pretrial,single,english,-1.62,19,0,0
-female,hispanic,less than 25,4,6,1,0,low,2013-05-06,1,0,misdemeanor,battery,0,28,1,0,0,1,54522.0,pretrial,single,english,-1.61,18,1,-1
-male,african-american,less than 25,10,9,1,1,high,2013-03-15,1,0,felony,pos cannabis w/intent sel/del,6,318,1,0,0,3,52995.0,pretrial,single,english,-0.72,18,3,-3
+female,hispanic,less than 25,4,6,1,0,low,2013-05-06,1,1,misdemeanor,battery,0,28,1,0,0,1,54522.0,pretrial,single,english,-1.61,18,1,0
+male,african-american,less than 25,10,9,1,1,high,2013-03-15,1,3,felony,pos cannabis w/intent sel/del,6,318,1,0,0,3,52995.0,pretrial,single,english,-0.72,18,3,0
 female,caucasian,less than 25,7,5,0,0,medium,2013-11-04,0,0,felony,burglary unoccupied dwelling,1,879,0,0,0,0,58678.0,pretrial,single,english,-1.76,18,0,0
 male,african-american,less than 25,9,8,1,1,high,2013-10-15,1,1,felony,att burgl unoccupied dwel,0,374,1,0,1,0,58121.0,pretrial,single,english,-1.14,18,1,0
 female,african-american,less than 25,5,6,0,0,medium,2014-03-17,0,0,misdemeanor,battery,0,746,0,0,0,0,62017.0,pretrial,single,english,-1.5,19,0,0
@@ -5896,10 +5896,10 @@ female,african-american,less than 25,9,9,0,0,high,2013-04-27,0,1,felony,grand th
 male,hispanic,less than 25,7,6,0,0,medium,2013-10-27,0,0,felony,"deliver 3,4 methylenediox",0,129,0,0,0,0,58425.0,pretrial,single,english,-1.5,18,0,0
 male,african-american,less than 25,9,10,0,0,high,2013-05-14,0,0,felony,aggravated battery,4,24,0,0,0,0,54768.0,pretrial,single,english,-0.42,18,0,0
 male,caucasian,less than 25,7,7,0,0,medium,2013-03-24,0,0,misdemeanor,battery,0,1104,0,0,0,0,53288.0,pretrial,single,english,-1.49,18,0,0
-male,african-american,less than 25,9,9,0,0,high,2013-03-22,0,0,felony,burglary unoccupied dwelling,1,1106,0,0,0,1,53221.0,pretrial,single,english,-0.68,18,1,-1
+male,african-american,less than 25,9,9,0,0,high,2013-03-22,0,1,felony,burglary unoccupied dwelling,1,1106,0,0,0,1,53221.0,pretrial,single,english,-0.68,18,1,0
 male,african-american,less than 25,4,7,1,0,low,2013-03-30,1,1,misdemeanor,burglary unoccupied dwelling,0,79,1,0,1,0,53440.0,pretrial,single,english,-1.37,18,1,0
 male,african-american,less than 25,7,6,1,0,medium,2013-11-10,1,3,felony,arrest case no charge,3,76,0,0,0,0,58870.0,pretrial,single,english,-1.54,18,0,3
-male,african-american,less than 25,10,10,1,0,high,2013-12-26,1,1,felony,arrest case no charge,1,15,0,1,0,2,59971.0,pretrial,single,english,-0.61,19,3,-2
+male,african-american,less than 25,10,10,1,0,high,2013-12-26,1,3,felony,arrest case no charge,1,15,0,1,0,2,59971.0,pretrial,single,english,-0.61,19,3,0
 male,caucasian,less than 25,5,7,0,0,medium,2013-03-01,0,0,felony,pos cannabis w/intent sel/del,0,1127,0,0,0,0,52622.0,pretrial,single,english,-1.42,18,0,0
 male,african-american,less than 25,10,10,1,0,high,2013-02-20,1,1,felony,grand theft in the 3rd degree,1,148,1,0,0,0,52371.0,pretrial,single,english,-0.37,18,0,1
 female,african-american,less than 25,6,6,1,1,medium,2013-01-23,1,1,felony,robbery sudd snatch no weapon,0,81,1,1,0,0,51497.0,pretrial,single,english,-1.67,18,1,0
@@ -5911,20 +5911,20 @@ male,hispanic,less than 25,3,6,1,0,low,2013-03-16,1,0,felony,poss unlaw issue dr
 male,african-american,less than 25,2,5,1,0,low,2014-03-07,1,0,misdemeanor,battery,0,53,1,0,0,0,61793.0,pretrial,single,english,-1.9,19,0,0
 male,caucasian,less than 25,4,5,0,0,low,2014-03-05,0,1,felony,battery on law enforc officer,0,758,0,0,0,0,61723.0,pretrial,single,english,-1.8,19,0,1
 male,hispanic,less than 25,3,6,0,0,low,2013-02-19,0,0,felony,arrest case no charge,0,272,0,0,0,0,52301.0,pretrial,single,english,-1.53,18,0,0
-male,native american,less than 25,6,7,1,0,medium,2013-09-05,1,0,misdemeanor,battery,0,455,1,0,0,1,56991.0,pretrial,single,english,-1.44,18,1,-1
+male,native american,less than 25,6,7,1,0,medium,2013-09-05,1,1,misdemeanor,battery,0,455,1,0,0,1,56991.0,pretrial,single,english,-1.44,18,1,0
 male,caucasian,less than 25,7,6,1,1,medium,2013-12-17,1,4,misdemeanor,battery,32,204,1,0,1,0,59740.0,pretrial,single,english,-1.68,18,1,3
 male,african-american,less than 25,5,8,0,0,medium,2013-03-31,0,0,misdemeanor,battery,2,1097,0,0,0,0,53458.0,pretrial,single,english,-1.25,18,0,0
 female,caucasian,less than 25,8,9,1,0,high,2013-09-18,0,1,felony,arrest case no charge,0,132,0,0,0,0,57367.0,pretrial,single,english,-0.99,18,0,1
-male,african-american,less than 25,3,7,1,0,low,2013-07-08,1,0,felony,battery on law enforc officer,0,570,1,0,0,1,55727.0,pretrial,single,english,-1.4,18,1,-1
+male,african-american,less than 25,3,7,1,0,low,2013-07-08,1,1,felony,battery on law enforc officer,0,570,1,0,0,1,55727.0,pretrial,single,english,-1.4,18,1,0
 male,other,less than 25,3,7,1,1,low,2013-03-31,1,0,felony,grand theft of a fire extinquisher,0,20,1,0,0,0,53449.0,pretrial,single,english,-1.49,18,0,0
 male,caucasian,less than 25,4,6,0,0,low,2014-01-09,0,0,misdemeanor,burglary unoccupied dwelling,0,813,0,0,0,0,60270.0,pretrial,single,english,-1.58,19,0,0
 male,caucasian,less than 25,3,6,0,0,low,2013-01-26,0,0,felony,arrest case no charge,0,1161,0,0,0,0,51594.0,pretrial,single,english,-1.61,18,0,0
 male,african-american,less than 25,6,8,0,0,medium,2013-10-22,0,2,felony,arrest case no charge,0,892,0,1,1,0,58305.0,pretrial,single,english,-1.09,18,2,0
 male,african-american,less than 25,9,8,1,0,high,2013-11-15,1,1,felony,arrest case no charge,241,279,0,0,0,1,58992.0,pretrial,single,english,-1.02,18,1,0
 male,african-american,less than 25,5,7,0,0,medium,2014-03-03,0,1,misdemeanor,battery,0,760,0,0,0,0,61636.0,pretrial,single,english,-1.42,19,0,1
-male,african-american,less than 25,10,9,1,0,high,2013-09-10,1,0,misdemeanor,battery,34,59,1,0,0,1,57117.0,pretrial,single,english,-0.98,18,1,-1
+male,african-american,less than 25,10,9,1,0,high,2013-09-10,1,1,misdemeanor,battery,34,59,1,0,0,1,57117.0,pretrial,single,english,-0.98,18,1,0
 female,caucasian,less than 25,5,7,0,0,medium,2013-04-30,0,0,misdemeanor,possess cannabis/20 grams or less,0,1067,0,0,0,0,54361.0,pretrial,single,english,-1.49,18,0,0
-male,hispanic,less than 25,9,10,1,0,high,2013-05-26,1,0,felony,aggravated assault w/dead weap,0,312,1,0,0,2,55090.0,pretrial,single,english,-0.57,18,2,-2
+male,hispanic,less than 25,9,10,1,0,high,2013-05-26,1,2,felony,aggravated assault w/dead weap,0,312,1,0,0,2,55090.0,pretrial,single,english,-0.57,18,2,0
 male,hispanic,less than 25,10,8,0,0,high,2013-04-24,0,0,felony,grand theft (motor vehicle),7,84,0,0,0,0,54215.0,pretrial,single,english,-1.18,18,0,0
 male,african-american,less than 25,7,8,1,0,medium,2013-02-26,1,4,felony,arrest case no charge,0,622,1,4,0,0,52529.0,pretrial,single,english,-1.04,18,4,0
 male,african-american,less than 25,10,9,0,0,high,2014-01-14,0,2,felony,arrest case no charge,0,808,0,1,0,0,60419.0,broward county,single,english,-0.76,18,1,1
@@ -5933,32 +5933,32 @@ male,other,less than 25,6,8,0,0,medium,2013-03-01,0,0,felony,att burgl unoccupie
 male,african-american,less than 25,2,5,0,0,low,2013-12-14,0,1,felony,grand theft in the 3rd degree,0,333,0,0,0,0,59670.0,pretrial,single,english,-1.96,18,0,1
 female,african-american,less than 25,6,7,1,0,medium,2013-04-24,0,2,felony,deliver cannabis,0,859,1,0,1,0,54208.0,pretrial,single,english,-1.26,18,1,1
 male,african-american,less than 25,9,8,1,0,high,2013-01-31,0,1,felony,robbery / no weapon,0,804,1,0,1,0,51706.0,pretrial,single,english,-1.2,18,1,0
-male,caucasian,less than 25,9,9,1,1,high,2013-11-06,1,2,misdemeanor,assault,8,37,1,0,0,4,51678.0,pretrial,single,english,-0.65,18,4,-2
+male,caucasian,less than 25,9,9,1,1,high,2013-11-06,1,4,misdemeanor,assault,8,37,1,0,0,4,51678.0,pretrial,single,english,-0.65,18,4,0
 male,african-american,less than 25,4,6,0,0,low,2014-03-25,0,0,felony,grand theft in the 3rd degree,0,738,0,0,0,0,62244.0,pretrial,single,english,-1.54,19,0,0
 male,other,less than 25,6,6,0,0,medium,2013-01-31,0,0,felony,robbery / no weapon,4,97,0,0,0,0,51714.0,pretrial,single,english,-1.5,18,0,0
 male,african-american,less than 25,3,6,1,0,low,2013-06-17,0,1,felony,grand theft in the 3rd degree,0,947,1,0,1,0,55425.0,pretrial,single,english,-1.53,18,1,0
 male,caucasian,less than 25,4,7,0,0,low,2013-12-19,0,1,felony,burglary conveyance assault/bat,0,834,0,0,0,0,59824.0,pretrial,single,english,-1.3,18,0,1
 male,african-american,less than 25,5,8,1,0,medium,2013-02-16,0,0,felony,burglary unoccupied dwelling,46,991,1,0,0,0,52230.0,pretrial,single,english,-1.21,18,0,0
 male,hispanic,less than 25,5,9,0,0,medium,2013-12-13,0,1,felony,arrest case no charge,0,840,0,0,0,0,59639.0,pretrial,single,english,-0.91,18,0,1
-male,african-american,less than 25,3,5,0,0,low,2014-02-27,0,0,felony,use scanning device to defraud,0,764,0,0,0,1,61544.0,pretrial,single,english,-1.78,19,1,-1
+male,african-american,less than 25,3,5,0,0,low,2014-02-27,0,1,felony,use scanning device to defraud,0,764,0,0,0,1,61544.0,pretrial,single,english,-1.78,19,1,0
 male,hispanic,less than 25,5,5,1,1,medium,2013-12-31,1,2,felony,poss similitude of drivers lic,0,70,0,0,0,1,66976.0,probation,single,english,-1.24,18,1,1
 male,african-american,less than 25,4,8,0,0,low,2014-03-10,0,0,felony,possession firearm school prop,2,753,0,0,0,0,61862.0,pretrial,single,english,-1.22,19,0,0
 male,african-american,less than 25,9,7,0,0,high,2014-03-20,0,2,felony,possession of cannabis,0,743,0,0,1,0,59231.0,probation,single,english,-1.36,19,1,1
-male,caucasian,less than 25,7,8,1,0,medium,2013-03-21,1,1,felony,deliver cannabis,37,62,0,1,0,1,53180.0,pretrial,single,english,-1.16,18,2,-1
+male,caucasian,less than 25,7,8,1,0,medium,2013-03-21,1,2,felony,deliver cannabis,37,62,0,1,0,1,53180.0,pretrial,single,english,-1.16,18,2,0
 female,african-american,less than 25,8,7,1,0,high,2013-04-25,1,0,felony,robbery sudd snatch no weapon,0,271,0,0,0,0,54230.0,pretrial,single,english,-1.28,18,0,0
 male,other,less than 25,6,7,0,0,medium,2013-05-14,0,0,misdemeanor,prowling/loitering,0,1053,0,0,0,0,54770.0,pretrial,single,english,-1.32,18,0,0
 male,caucasian,less than 25,8,9,1,1,high,2014-01-10,1,0,misdemeanor,battery,8,65,1,0,0,0,60309.0,pretrial,married,english,-0.96,18,0,0
-male,african-american,less than 25,10,7,1,0,high,2013-09-13,1,2,felony,grand theft in the 3rd degree,0,58,0,0,2,2,57242.0,pretrial,single,english,-1.35,18,4,-2
+male,african-american,less than 25,10,7,1,0,high,2013-09-13,1,4,felony,grand theft in the 3rd degree,0,58,0,0,2,2,57242.0,pretrial,single,english,-1.35,18,4,0
 female,caucasian,less than 25,6,6,0,0,medium,2014-01-30,0,1,felony,grand theft in the 3rd degree,1,417,0,0,0,0,60829.0,pretrial,single,english,-1.56,18,0,1
-male,hispanic,less than 25,9,8,0,0,high,2013-09-06,0,1,felony,arrest case no charge,0,938,0,0,0,2,56916.0,pretrial,single,english,-1.12,18,2,-1
+male,hispanic,less than 25,9,8,0,0,high,2013-09-06,0,2,felony,arrest case no charge,0,938,0,0,0,2,56916.0,pretrial,single,english,-1.12,18,2,0
 male,african-american,less than 25,6,6,1,0,medium,2014-02-01,1,2,felony,possession of cocaine,7,56,1,0,0,1,60883.0,pretrial,single,english,-1.56,18,1,1
 male,african-american,less than 25,7,8,1,0,medium,2014-01-15,1,2,felony,grand theft in the 3rd degree,28,156,0,0,0,0,60425.0,pretrial,single,english,-1.2,18,0,2
-female,caucasian,less than 25,7,7,1,1,medium,2013-05-16,1,3,misdemeanor,battery,0,213,1,0,3,1,54836.0,pretrial,single,english,-1.3,18,4,-1
+female,caucasian,less than 25,7,7,1,1,medium,2013-05-16,1,4,misdemeanor,battery,0,213,1,0,3,1,54836.0,pretrial,single,english,-1.3,18,4,0
 male,african-american,less than 25,4,7,1,0,low,2013-11-05,1,0,felony,grand theft in the 3rd degree,3,10,1,0,0,0,58728.0,pretrial,single,english,-1.48,18,0,0
 male,other,less than 25,7,8,0,0,medium,2013-03-08,0,1,felony,arrest case no charge,0,1120,0,1,0,0,52824.0,pretrial,single,english,-1.16,18,1,0
-male,caucasian,less than 25,9,9,1,1,high,2013-10-21,1,2,felony,possession of lsd,0,473,1,0,2,7,58285.0,pretrial,single,english,-0.7,18,9,-7
+male,caucasian,less than 25,9,9,1,1,high,2013-10-21,1,9,felony,possession of lsd,0,473,1,0,2,7,58285.0,pretrial,single,english,-0.7,18,9,0
 male,african-american,less than 25,8,7,0,0,high,2013-11-23,0,1,felony,possession of cocaine,108,860,0,0,0,0,59187.0,pretrial,single,english,-1.32,18,0,1
-female,caucasian,less than 25,5,5,1,0,medium,2014-03-10,1,0,misdemeanor,driving under the influence,0,24,1,0,1,0,61821.0,pretrial,single,english,-1.74,19,1,-1
+female,caucasian,less than 25,5,5,1,0,medium,2014-03-10,1,1,misdemeanor,driving under the influence,0,24,1,0,1,0,61821.0,pretrial,single,english,-1.74,19,1,0
 male,african-american,less than 25,9,8,1,1,high,2013-05-16,1,2,misdemeanor,dealing in stolen property,0,111,1,0,2,0,56995.0,pretrial,single,english,-1.37,18,2,0
 male,african-american,less than 25,10,10,1,0,high,2013-03-07,1,1,felony,arrest case no charge,1,237,1,1,0,0,52776.0,pretrial,single,english,-0.19,18,1,0
 male,african-american,less than 25,6,6,0,0,medium,2013-12-05,0,0,misdemeanor,culpable negligence,0,848,0,0,0,0,59440.0,pretrial,single,english,-1.5,18,0,0
@@ -5976,7 +5976,7 @@ male,african-american,less than 25,7,6,1,1,medium,2013-11-20,1,1,misdemeanor,bat
 male,hispanic,less than 25,8,6,1,1,high,2013-09-22,1,1,felony,felony battery (dom strang),54,226,1,1,0,0,57467.0,pretrial,significant other,english,-1.52,18,1,0
 male,african-american,less than 25,5,7,0,0,medium,2013-12-12,0,0,felony,obstruct fire equipment,0,272,0,0,0,0,59622.0,pretrial,single,english,-1.46,18,0,0
 male,african-american,less than 25,5,6,1,1,medium,2013-05-15,1,3,felony,arrest case no charge,0,436,1,0,2,0,54798.0,pretrial,single,english,-1.54,18,2,1
-male,african-american,less than 25,10,10,1,0,high,2013-04-19,1,3,felony,criminal mischief,0,132,1,1,2,2,54068.0,pretrial,single,english,-0.38,18,5,-2
+male,african-american,less than 25,10,10,1,0,high,2013-04-19,1,5,felony,criminal mischief,0,132,1,1,2,2,54068.0,pretrial,single,english,-0.38,18,5,0
 male,african-american,less than 25,6,7,1,0,medium,2013-12-02,1,0,felony,resist officer w/violence,0,192,1,0,0,0,59320.0,pretrial,single,english,-1.26,18,0,0
 male,hispanic,less than 25,3,6,0,0,low,2013-10-28,0,0,misdemeanor,battery,0,886,0,0,0,0,58444.0,pretrial,single,english,-1.72,18,0,0
 male,hispanic,less than 25,5,6,1,0,medium,2013-11-18,1,1,felony,arrest case no charge,0,528,1,0,0,1,59067.0,pretrial,single,english,-1.72,18,1,0
@@ -5986,7 +5986,7 @@ male,other,less than 25,5,8,1,1,medium,2014-02-22,1,0,felony,burglary structure 
 male,african-american,less than 25,9,6,1,0,high,2013-10-22,1,4,felony,arrest case no charge,219,273,1,0,0,0,58286.0,pretrial,single,english,-1.62,18,0,4
 male,other,less than 25,4,6,1,0,low,2013-10-31,1,0,felony,tampering with physical evidence,0,155,1,0,0,0,58576.0,pretrial,single,english,-1.68,18,0,0
 male,hispanic,less than 25,6,6,1,0,medium,2014-01-19,1,0,felony,"poss3,4 methylenedioxymethcath",0,387,1,0,0,0,60537.0,pretrial,single,english,-1.52,18,0,0
-male,african-american,less than 25,7,9,0,0,medium,2014-01-28,0,1,felony,carrying concealed firearm,0,215,0,0,1,2,60753.0,pretrial,single,english,-0.85,18,3,-2
+male,african-american,less than 25,7,9,0,0,medium,2014-01-28,0,3,felony,carrying concealed firearm,0,215,0,0,1,2,60753.0,pretrial,single,english,-0.85,18,3,0
 male,african-american,less than 25,3,6,0,0,low,2013-09-05,0,1,felony,burglary unoccupied dwelling,0,939,0,0,0,0,56834.0,pretrial,single,english,-1.53,18,0,1
 male,african-american,less than 25,8,6,0,0,high,2014-02-19,0,0,felony,possession burglary tools,2,772,0,0,0,0,61336.0,pretrial,single,english,-1.5,18,0,0
 male,caucasian,less than 25,10,9,1,1,high,2013-09-14,1,0,misdemeanor,battery,0,480,1,0,0,0,57269.0,pretrial,single,english,-0.63,18,0,0
@@ -5994,17 +5994,17 @@ male,caucasian,less than 25,4,7,0,0,low,2013-08-16,0,0,felony,possession of coca
 male,african-american,less than 25,3,7,1,1,low,2013-06-21,1,1,felony,arrest case no charge,0,59,1,1,0,0,55514.0,pretrial,single,english,-1.39,18,1,0
 male,caucasian,less than 25,9,10,1,0,high,2013-08-29,1,1,felony,arrest case no charge,0,28,0,1,0,0,65392.0,drrd,single,english,-0.82,18,1,0
 male,african-american,less than 25,3,6,0,0,low,2013-12-24,0,0,felony,grand theft in the 3rd degree,1,829,0,0,0,0,59951.0,pretrial,single,english,-1.72,18,0,0
-male,african-american,less than 25,10,8,1,0,high,2013-05-03,1,1,felony,burglary conveyance unoccup,4,135,1,0,1,1,54465.0,pretrial,single,english,-1.22,18,2,-1
+male,african-american,less than 25,10,8,1,0,high,2013-05-03,1,2,felony,burglary conveyance unoccup,4,135,1,0,1,1,54465.0,pretrial,single,english,-1.22,18,2,0
 female,african-american,less than 25,5,7,1,0,medium,2013-08-15,0,3,misdemeanor,operating w/o valid license,0,903,1,0,3,0,56457.0,pretrial,single,english,-1.37,18,3,0
-male,caucasian,less than 25,8,7,1,0,high,2013-07-29,1,1,felony,burglary conveyance unoccup,0,185,1,0,0,3,56021.0,pretrial,single,english,-1.41,18,3,-2
+male,caucasian,less than 25,8,7,1,0,high,2013-07-29,1,3,felony,burglary conveyance unoccup,0,185,1,0,0,3,56021.0,pretrial,single,english,-1.41,18,3,0
 male,caucasian,less than 25,5,9,1,0,medium,2013-08-26,1,0,felony,grand theft in the 3rd degree,1,78,1,0,0,0,56772.0,pretrial,single,english,-0.88,18,0,0
 male,caucasian,less than 25,10,9,1,0,high,2013-08-06,1,0,misdemeanor,battery,0,14,1,0,0,0,56200.0,pretrial,single,english,-0.67,18,0,0
 male,other,less than 25,5,8,1,1,medium,2013-10-03,1,0,felony,tampering with physical evidence,0,119,1,0,0,0,57806.0,pretrial,single,english,-1.21,18,0,0
 male,caucasian,less than 25,4,6,0,0,low,2014-02-12,0,1,felony,possession of cannabis,0,779,0,0,0,0,61185.0,pretrial,single,english,-1.6,18,0,1
 male,african-american,less than 25,3,5,0,0,low,2014-03-27,0,1,felony,"poss3,4 methylenedioxymethcath",0,736,0,0,0,0,62304.0,pretrial,single,english,-1.92,18,0,1
 male,african-american,less than 25,8,7,1,0,high,2013-10-25,1,2,felony,arrest case no charge,32,238,1,0,0,0,58388.0,pretrial,single,english,-1.44,18,0,2
-male,caucasian,less than 25,6,9,1,0,medium,2013-09-14,1,0,felony,grand theft dwell property,0,169,0,0,0,1,57268.0,pretrial,single,english,-0.92,18,1,-1
-male,other,less than 25,10,8,1,1,high,2013-11-04,1,8,felony,driving while license revoked,0,9,0,0,8,1,58677.0,pretrial,single,english,-1.22,18,9,-1
+male,caucasian,less than 25,6,9,1,0,medium,2013-09-14,1,1,felony,grand theft dwell property,0,169,0,0,0,1,57268.0,pretrial,single,english,-0.92,18,1,0
+male,other,less than 25,10,8,1,1,high,2013-11-04,1,9,felony,driving while license revoked,0,9,0,0,8,1,58677.0,pretrial,single,english,-1.22,18,9,0
 female,caucasian,less than 25,4,6,0,0,low,2013-09-23,0,1,felony,resist officer w/violence,0,921,0,0,0,0,57511.0,pretrial,single,english,-1.57,18,0,1
 male,african-american,less than 25,4,7,1,1,low,2013-11-08,1,1,misdemeanor,battery,0,653,1,0,0,0,58825.0,pretrial,single,english,-1.37,18,0,1
 male,african-american,less than 25,4,7,1,0,low,2013-10-24,1,1,felony,arrest case no charge,0,25,0,0,0,1,58355.0,pretrial,single,english,-1.45,18,1,0
@@ -6019,7 +6019,7 @@ male,african-american,less than 25,6,6,0,0,medium,2014-02-02,0,0,felony,burglary
 male,caucasian,less than 25,10,10,0,0,high,2013-08-07,0,4,felony,grand theft (motor vehicle),0,968,0,0,4,0,56229.0,pretrial,single,english,-0.42,18,4,0
 male,african-american,less than 25,3,6,0,0,low,2013-08-06,0,0,felony,burglary dwelling assault/batt,0,969,0,0,0,0,56207.0,pretrial,single,english,-1.53,18,0,0
 male,african-american,less than 25,8,10,1,1,high,2013-08-20,1,1,felony,grand theft (motor vehicle),0,4,1,0,1,0,56589.0,pretrial,single,english,-0.61,18,1,0
-male,caucasian,less than 25,2,5,1,0,low,2014-01-08,1,1,felony,grand theft of the 2nd degree,1,173,0,0,0,2,60243.0,pretrial,single,english,-1.92,18,2,-1
+male,caucasian,less than 25,2,5,1,0,low,2014-01-08,1,2,felony,grand theft of the 2nd degree,1,173,0,0,0,2,60243.0,pretrial,single,english,-1.92,18,2,0
 female,caucasian,less than 25,4,6,0,0,low,2013-11-23,0,0,felony,possession of cocaine,0,860,0,0,0,0,59201.0,pretrial,single,english,-1.65,18,0,0
 female,caucasian,less than 25,10,8,1,1,high,2014-03-26,1,3,misdemeanor,battery,0,27,0,0,2,1,62271.0,pretrial,single,english,-1.06,18,3,0
 female,african-american,less than 25,5,7,0,0,medium,2013-09-10,0,0,misdemeanor,battery,0,934,0,0,0,0,57116.0,pretrial,single,english,-1.49,18,0,0
@@ -6029,16 +6029,16 @@ male,other,less than 25,2,4,1,0,low,2014-01-13,1,3,misdemeanor,battery,0,68,1,0,
 female,other,less than 25,5,7,1,0,medium,2013-12-10,1,0,misdemeanor,aggravated assault w/dead weap,11,189,1,0,0,0,59535.0,pretrial,single,english,-1.49,18,0,0
 male,african-american,less than 25,5,6,1,0,medium,2014-01-10,1,0,felony,deliver cocaine,1,121,1,0,0,0,60304.0,pretrial,single,english,-1.52,18,0,0
 male,african-american,less than 25,10,7,1,1,high,2013-12-05,1,4,felony,grand theft in the 3rd degree,0,13,1,1,1,1,59424.0,pretrial,single,english,-1.32,18,3,1
-male,caucasian,less than 25,3,5,1,0,low,2014-01-26,1,0,felony,felony battery (dom strang),1,391,0,0,0,3,60711.0,pretrial,single,english,-1.84,18,3,-3
-male,hispanic,less than 25,8,8,1,0,high,2013-09-24,1,2,felony,burglary conveyance unoccup,30,132,1,0,2,1,57529.0,pretrial,single,english,-1.06,18,3,-1
+male,caucasian,less than 25,3,5,1,0,low,2014-01-26,1,3,felony,felony battery (dom strang),1,391,0,0,0,3,60711.0,pretrial,single,english,-1.84,18,3,0
+male,hispanic,less than 25,8,8,1,0,high,2013-09-24,1,3,felony,burglary conveyance unoccup,30,132,1,0,2,1,57529.0,pretrial,single,english,-1.06,18,3,0
 male,african-american,less than 25,7,8,1,0,medium,2013-08-11,1,0,felony,grand theft (motor vehicle),1,55,1,0,0,0,56342.0,pretrial,single,english,-1.06,18,0,0
 female,african-american,less than 25,6,8,0,0,medium,2013-12-07,0,0,felony,grand theft in the 3rd degree,0,846,0,0,0,0,59485.0,pretrial,single,english,-1.25,18,0,0
-male,african-american,less than 25,5,8,1,0,medium,2013-11-26,1,1,misdemeanor,battery,0,59,1,0,1,2,59266.0,pretrial,single,english,-1.04,18,3,-2
+male,african-american,less than 25,5,8,1,0,medium,2013-11-26,1,3,misdemeanor,battery,0,59,1,0,1,2,59266.0,pretrial,single,english,-1.04,18,3,0
 male,african-american,less than 25,8,7,1,1,high,2013-11-18,1,1,felony,carrying concealed firearm,0,104,1,0,0,0,58146.0,pretrial,single,english,-1.41,18,0,1
 male,other,less than 25,4,7,1,0,low,2013-08-16,1,0,misdemeanor,burglary dwelling occupied,11,705,1,0,0,0,56482.0,pretrial,single,english,-1.37,18,0,0
-male,hispanic,less than 25,3,5,0,0,low,2014-03-13,0,0,felony,burglary conveyance unoccup,0,750,0,0,0,2,61936.0,pretrial,single,english,-1.8,18,2,-2
-male,african-american,less than 25,2,6,0,0,low,2013-10-15,0,1,felony,arrest case no charge,1,899,0,0,0,2,58118.0,pretrial,single,english,-1.69,18,2,-1
-male,african-american,less than 25,4,7,0,0,low,2013-11-09,0,0,felony,burglary unoccupied dwelling,0,874,0,0,0,1,58859.0,pretrial,single,english,-1.37,18,1,-1
+male,hispanic,less than 25,3,5,0,0,low,2014-03-13,0,2,felony,burglary conveyance unoccup,0,750,0,0,0,2,61936.0,pretrial,single,english,-1.8,18,2,0
+male,african-american,less than 25,2,6,0,0,low,2013-10-15,0,2,felony,arrest case no charge,1,899,0,0,0,2,58118.0,pretrial,single,english,-1.69,18,2,0
+male,african-american,less than 25,4,7,0,0,low,2013-11-09,0,1,felony,burglary unoccupied dwelling,0,874,0,0,0,1,58859.0,pretrial,single,english,-1.37,18,1,0
 male,other,less than 25,4,7,0,0,low,2013-09-30,0,0,felony,grand theft in the 3rd degree,0,297,0,0,0,0,57680.0,pretrial,single,english,-1.45,18,0,0
 male,african-american,less than 25,3,6,1,1,low,2013-03-08,1,1,felony,arrest case no charge,0,39,0,1,0,0,49070.0,pretrial,single,english,-1.56,17,1,0
 female,african-american,less than 25,4,6,0,0,low,2014-02-11,0,0,felony,grand theft in the 3rd degree,0,780,0,0,0,0,61157.0,pretrial,single,english,-1.72,18,0,0
@@ -6046,11 +6046,11 @@ male,african-american,less than 25,3,6,1,0,low,2013-12-27,1,0,misdemeanor,batter
 female,caucasian,less than 25,5,6,0,0,medium,2013-10-02,0,1,felony,possession of heroin,0,912,0,0,0,0,57798.0,pretrial,single,english,-1.53,18,0,1
 male,african-american,less than 25,4,6,0,0,low,2014-02-19,0,1,misdemeanor,prowling/loitering,0,772,0,0,0,0,60827.0,pretrial,single,english,-1.72,18,0,1
 male,caucasian,less than 25,10,10,1,0,high,2014-03-07,1,0,felony,grand theft in the 3rd degree,6,313,1,0,0,0,61790.0,pretrial,single,english,-0.36,18,0,0
-male,caucasian,less than 25,4,7,0,0,low,2013-10-24,0,0,misdemeanor,battery,0,890,0,0,0,5,58350.0,pretrial,single,english,-1.41,18,5,-5
-male,african-american,less than 25,5,7,1,0,medium,2013-09-26,1,2,felony,grand theft in the 3rd degree,0,97,1,0,0,4,57583.0,pretrial,single,english,-1.34,18,4,-2
+male,caucasian,less than 25,4,7,0,0,low,2013-10-24,0,5,misdemeanor,battery,0,890,0,0,0,5,58350.0,pretrial,single,english,-1.41,18,5,0
+male,african-american,less than 25,5,7,1,0,medium,2013-09-26,1,4,felony,grand theft in the 3rd degree,0,97,1,0,0,4,57583.0,pretrial,single,english,-1.34,18,4,0
 male,african-american,less than 25,4,7,1,0,low,2013-11-27,1,0,misdemeanor,battery,0,140,1,0,0,0,59276.0,pretrial,single,english,-1.37,18,0,0
 male,caucasian,less than 25,3,6,0,0,low,2013-09-11,0,0,felony,child abuse,0,933,0,0,0,0,57172.0,pretrial,single,english,-1.61,18,0,0
-female,african-american,less than 25,7,8,1,1,medium,2014-01-02,1,0,misdemeanor,battery,0,154,1,0,0,1,60094.0,pretrial,single,english,-1.12,18,1,-1
+female,african-american,less than 25,7,8,1,1,medium,2014-01-02,1,1,misdemeanor,battery,0,154,1,0,0,1,60094.0,pretrial,single,english,-1.12,18,1,0
 male,hispanic,less than 25,4,6,1,0,low,2014-03-16,1,0,misdemeanor,battery,22,39,1,0,0,0,62005.0,pretrial,single,english,-1.64,18,0,0
 female,african-american,less than 25,6,7,1,0,medium,2014-01-03,1,1,felony,battery on law enforc officer,0,232,1,0,0,0,60117.0,pretrial,single,english,-1.33,18,0,1
 male,other,less than 25,5,6,0,0,medium,2013-10-21,0,0,misdemeanor,battery,0,893,0,0,0,0,58251.0,pretrial,married,english,-1.6,18,0,0
@@ -6058,15 +6058,15 @@ male,african-american,less than 25,3,6,0,0,low,2013-10-28,0,0,felony,carrying co
 male,african-american,less than 25,9,8,0,0,high,2014-03-27,0,1,felony,arrest case no charge,0,736,0,0,0,0,62303.0,pretrial,single,english,-1.18,18,0,1
 male,caucasian,less than 25,4,6,0,0,low,2014-03-11,0,0,felony,pos cannabis w/intent sel/del,0,752,0,0,0,0,61870.0,pretrial,single,english,-1.68,18,0,0
 male,african-american,less than 25,10,8,1,0,high,2013-10-01,1,2,felony,resist officer w/violence,128,227,1,0,0,1,57742.0,pretrial,single,english,-1.23,18,1,1
-male,caucasian,less than 25,10,10,1,0,high,2013-12-10,1,1,felony,poss tetrahydrocannabinols,12,31,0,0,1,1,59529.0,pretrial,single,english,-0.56,18,2,-1
-male,african-american,less than 25,5,8,1,0,medium,2013-10-16,1,1,felony,arrest case no charge,0,3,1,1,0,1,57618.0,pretrial,single,english,-1.25,18,2,-1
+male,caucasian,less than 25,10,10,1,0,high,2013-12-10,1,2,felony,poss tetrahydrocannabinols,12,31,0,0,1,1,59529.0,pretrial,single,english,-0.56,18,2,0
+male,african-american,less than 25,5,8,1,0,medium,2013-10-16,1,2,felony,arrest case no charge,0,3,1,1,0,1,57618.0,pretrial,single,english,-1.25,18,2,0
 male,hispanic,less than 25,8,9,1,0,high,2013-12-11,1,2,felony,arrest case no charge,0,275,0,2,0,0,59581.0,pretrial,single,english,-0.89,18,2,0
 female,african-american,less than 25,10,10,0,0,high,2013-11-20,0,1,felony,arrest case no charge,3,119,0,1,0,0,59138.0,pretrial,single,english,-0.61,18,1,0
 female,african-american,less than 25,6,6,1,0,medium,2013-11-15,1,0,felony,burglary unoccupied dwelling,1,643,1,0,0,0,58995.0,pretrial,single,english,-1.59,18,0,0
 male,african-american,less than 25,9,7,1,0,high,2013-12-03,1,2,felony,possession of cocaine,0,15,1,0,1,0,59367.0,pretrial,single,english,-1.3,18,1,1
-male,caucasian,less than 25,4,7,0,0,low,2014-03-12,0,0,felony,grand theft in the 3rd degree,0,751,0,0,0,2,61907.0,pretrial,single,english,-1.41,18,2,-2
+male,caucasian,less than 25,4,7,0,0,low,2014-03-12,0,2,felony,grand theft in the 3rd degree,0,751,0,0,0,2,61907.0,pretrial,single,english,-1.41,18,2,0
 male,caucasian,less than 25,3,6,0,0,low,2013-12-28,0,0,misdemeanor,possess cannabis/20 grams or less,0,825,0,0,0,0,60015.0,pretrial,single,english,-1.69,18,0,0
-male,african-american,less than 25,8,7,1,0,high,2014-02-03,1,2,felony,arrest case no charge,1,644,1,1,1,1,60908.0,pretrial,single,english,-1.37,18,3,-1
+male,african-american,less than 25,8,7,1,0,high,2014-02-03,1,3,felony,arrest case no charge,1,644,1,1,1,1,60908.0,pretrial,single,english,-1.37,18,3,0
 male,caucasian,less than 25,4,7,1,0,low,2013-11-13,1,0,felony,possession burglary tools,1,397,1,0,0,0,58930.0,pretrial,single,english,-1.37,18,0,0
 male,african-american,less than 25,8,8,1,0,high,2013-10-07,1,1,felony,grand theft in the 3rd degree,0,408,1,1,0,0,68249.0,pretrial,single,english,-1.46,18,1,0
 female,caucasian,less than 25,7,8,0,0,medium,2013-11-14,0,0,felony,"poss3,4 methylenedioxymethcath",0,869,0,0,0,0,58960.0,pretrial,single,english,-1.22,18,0,0
@@ -6076,15 +6076,15 @@ male,african-american,less than 25,6,8,0,0,medium,2013-10-07,0,0,felony,possessi
 male,african-american,less than 25,5,7,1,1,medium,2014-01-31,1,0,felony,deliver cannabis 1000ftsch,0,159,1,0,0,0,60878.0,pretrial,single,english,-1.37,18,0,0
 male,african-american,less than 25,8,8,0,0,high,2013-11-19,0,0,felony,att burgl unoccupied dwel,29,864,0,0,0,0,59086.0,pretrial,single,english,-1.0,18,0,0
 male,other,less than 25,10,9,1,0,high,2014-02-10,1,1,felony,grand theft (motor vehicle),35,115,1,0,0,0,61112.0,pretrial,single,english,-0.76,18,0,1
-male,african-american,less than 25,4,7,1,1,low,2013-11-15,0,0,felony,tampering with physical evidence,0,117,0,0,0,2,58997.0,pretrial,single,english,-1.41,18,2,-2
+male,african-american,less than 25,4,7,1,1,low,2013-11-15,0,2,felony,tampering with physical evidence,0,117,0,0,0,2,58997.0,pretrial,single,english,-1.41,18,2,0
 female,african-american,less than 25,4,6,1,0,low,2013-12-04,1,0,misdemeanor,battery,0,252,1,0,0,0,59380.0,pretrial,single,english,-1.61,18,0,0
 male,african-american,less than 25,9,8,1,0,high,2014-01-11,1,0,felony,grand theft in the 3rd degree,209,258,1,0,0,0,60328.0,pretrial,single,english,-1.13,18,0,0
 male,caucasian,less than 25,7,6,1,0,medium,2013-12-26,1,0,felony,leaving the scene of accident,0,606,1,0,0,0,59974.0,pretrial,single,english,-1.51,18,0,0
-male,caucasian,less than 25,2,6,0,0,low,2013-12-06,0,0,felony,aggravated assault w/dead weap,0,847,0,0,0,2,59450.0,pretrial,single,english,-1.73,18,2,-2
+male,caucasian,less than 25,2,6,0,0,low,2013-12-06,0,2,felony,aggravated assault w/dead weap,0,847,0,0,0,2,59450.0,pretrial,single,english,-1.73,18,2,0
 female,caucasian,less than 25,8,6,1,0,high,2014-01-01,1,1,felony,burglary unoccupied dwelling,16,721,1,0,0,0,60078.0,pretrial,single,english,-1.53,18,0,1
 male,african-american,less than 25,3,6,0,0,low,2014-01-11,0,0,felony,grand theft in the 3rd degree,10,61,0,0,0,0,60330.0,pretrial,single,english,-1.53,18,0,0
 female,african-american,less than 25,4,6,0,0,low,2014-02-02,0,0,felony,grand theft in the 3rd degree,0,789,0,0,0,0,60898.0,pretrial,single,english,-1.53,18,0,0
-male,caucasian,less than 25,4,7,0,0,low,2013-12-30,0,0,felony,grand theft in the 3rd degree,0,823,0,0,0,2,60039.0,pretrial,single,english,-1.33,18,2,-2
+male,caucasian,less than 25,4,7,0,0,low,2013-12-30,0,2,felony,grand theft in the 3rd degree,0,823,0,0,0,2,60039.0,pretrial,single,english,-1.33,18,2,0
 female,other,less than 25,5,7,0,0,medium,2014-02-27,0,0,misdemeanor,disorderly conduct,0,764,0,0,0,0,61542.0,pretrial,single,english,-1.37,18,0,0
 female,african-american,less than 25,5,7,0,0,medium,2014-03-14,0,0,felony,grand theft in the 3rd degree,0,749,0,0,0,0,61978.0,pretrial,single,english,-1.41,18,0,0
 female,other,less than 25,4,7,0,0,low,2013-03-12,0,1,felony,arrest case no charge,0,596,0,1,0,0,52914.0,pretrial,single,english,-1.33,17,1,0
@@ -6095,9 +6095,9 @@ male,african-american,less than 25,4,7,1,0,low,2013-10-30,1,9,felony,arrest case
 male,caucasian,less than 25,4,7,0,0,low,2014-01-31,0,0,misdemeanor,battery,3,791,0,0,0,0,60859.0,pretrial,single,english,-1.41,18,0,0
 male,other,less than 25,6,9,1,0,medium,2014-01-26,1,0,misdemeanor,battery,0,254,1,0,0,0,60705.0,pretrial,single,english,-0.73,18,0,0
 female,caucasian,less than 25,3,6,1,1,low,2014-01-27,0,0,felony,grand theft in the 3rd degree,0,776,1,0,0,0,60722.0,pretrial,single,english,-1.73,18,0,0
-male,caucasian,less than 25,6,7,1,1,medium,2014-03-28,1,0,felony,arrest case no charge,7,287,1,0,0,1,62328.0,pretrial,single,english,-1.43,18,1,-1
+male,caucasian,less than 25,6,7,1,1,medium,2014-03-28,1,1,felony,arrest case no charge,7,287,1,0,0,1,62328.0,pretrial,single,english,-1.43,18,1,0
 male,african-american,less than 25,10,10,1,0,high,2014-02-23,1,1,felony,"poss3,4 methylenedioxymethcath",186,206,1,1,0,0,61437.0,pretrial,single,english,-0.51,18,1,0
-male,african-american,less than 25,10,8,1,0,high,2014-03-05,1,1,felony,arrest case no charge,0,239,1,1,0,1,61722.0,pretrial,single,english,-1.25,18,2,-1
+male,african-american,less than 25,10,8,1,0,high,2014-03-05,1,2,felony,arrest case no charge,0,239,1,1,0,1,61722.0,pretrial,single,english,-1.25,18,2,0
 male,african-american,less than 25,8,7,1,0,high,2014-02-28,1,0,felony,tampering with physical evidence,0,5,1,0,0,0,61575.0,pretrial,single,english,-1.38,18,0,0
 female,african-american,less than 25,8,7,0,0,high,2014-03-23,0,0,felony,grand theft in the 3rd degree,0,740,0,0,0,0,62208.0,pretrial,single,english,-1.31,18,0,0
 male,hispanic,less than 25,8,10,1,0,high,2014-01-17,1,1,felony,arrest case no charge,0,268,1,1,0,0,60500.0,pretrial,single,english,-0.4,17,1,0
