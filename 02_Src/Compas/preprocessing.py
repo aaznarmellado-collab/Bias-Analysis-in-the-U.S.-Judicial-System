@@ -1,13 +1,34 @@
 import pandas as pd
 
-
 from rapidfuzz import process, fuzz
-
 
 import re
 
-
 def convert_to_datetime(df):
+    """
+    Convierte automáticamente columnas con formato de fecha a tipo datetime.
+
+    La función identifica columnas de tipo objeto que contienen valores con
+    formato de fecha mediante una expresión regular y las convierte a tipo
+    datetime de pandas.
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de entrada.
+
+    Retorna
+    -------
+    pandas.DataFrame
+        DataFrame con las columnas de fecha convertidas.
+
+    Notas
+    -----
+    - Detecta múltiples formatos de fecha (YYYY-MM-DD, DD-MM-YYYY, etc.).
+    - Usa inferencia automática de formato.
+    - Los valores no convertibles se transforman en NaT.
+
+    """
     date_regex = r'^(?:(?:\d{4}[-/]\d{1,2}[-/]\d{1,2})|(?:\d{1,2}[-/]\d{1,2}[-/]\d{2,4}))(?:[\sT]+(?:[01]?\d|2[0-3]):[0-5]\d(?::[0-5]\d)?)?$'
 
     for col in df.columns:
@@ -20,6 +41,24 @@ def convert_to_datetime(df):
 
 
 def normalize_df(df):
+    """
+    Normaliza nombres de columnas y valores de tipo texto en un DataFrame.
+
+    Convierte:
+    - Nombres de columnas a minúsculas.
+    - Valores de columnas tipo string a minúsculas y elimina espacios extra.
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de entrada.
+
+    Retorna
+    -------
+    pandas.DataFrame
+        DataFrame normalizado.
+
+    """
     df.columns = df.columns.str.lower()
     str_cols = df.select_dtypes(include="object").columns
     df[str_cols] = df[str_cols].apply(
@@ -29,11 +68,63 @@ def normalize_df(df):
 
 
 def check_duplicate_column(df, column1, column2):
+    """
+    Compara dos columnas y devuelve las filas donde sus valores difieren.
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de entrada.
+
+    column1 : str
+        Nombre de la primera columna.
+
+    column2 : str
+        Nombre de la segunda columna.
+
+    Retorna
+    -------
+    pandas.DataFrame
+        Subconjunto del DataFrame donde los valores de ambas columnas no coinciden.
+
+    """
     return df[df[column1]!=df[column2]]
 
 
 
 def fuzzy_replace_safe(df, col, row, threshold=85):
+    """
+    Realiza una sustitución aproximada (fuzzy matching) de valores en una columna.
+
+    Busca coincidencias similares dentro de un subconjunto de datos filtrado
+    (por fecha de nacimiento 'dob') y reemplaza el valor si la similitud
+    supera un umbral definido.
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de referencia.
+
+    col : str
+        Nombre de la columna a evaluar.
+
+    row : pandas.Series
+        Fila actual a procesar.
+
+    threshold : int, opcional (default=85)
+        Umbral mínimo de similitud para aceptar el reemplazo.
+
+    Retorna
+    -------
+    str
+        Valor original o valor reemplazado si se encuentra una coincidencia válida.
+
+    Notas
+    -----
+    - Utiliza rapidfuzz para medir similitud entre strings.
+    - Reduce errores por inconsistencias en texto.
+
+    """
     
     posibles = df[df["dob"] == row["dob"]]
     
@@ -55,6 +146,25 @@ def fuzzy_replace_safe(df, col, row, threshold=85):
 
 
 def remove_invisible_chars(text):
+    """
+    Elimina caracteres invisibles y espacios innecesarios de un texto.
+
+    Realiza:
+    - Sustitución de espacios no separables (non-breaking space).
+    - Eliminación de caracteres invisibles (zero-width).
+    - Normalización de espacios.
+
+    Parámetros
+    ----------
+    text : str
+        Texto de entrada.
+
+    Retorna
+    -------
+    str
+        Texto limpio.
+
+    """
     if pd.isna(text):
         return text
     
@@ -83,6 +193,30 @@ def convert_to_datetime(df):
 
 
 def convert_categorical(df):
+    """
+    Convierte variables categóricas en variables categóricas ordenadas.
+
+    Define un orden específico para ciertas variables y las transforma en
+    tipo categórico ordinal.
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de entrada.
+
+    Retorna
+    -------
+    pandas.DataFrame
+        DataFrame con variables categóricas ordenadas.
+
+    Notas
+    -----
+    - Variables transformadas:
+        * age_cat
+        * score_text
+        * c_charge_degree
+
+    """
     age_order = ['less than 25', '25-45', '46-65', 'greater than 65']
     score_order = ['low', 'medium', 'high']
     charge_degree_order = ["misdemeanor", "felony"]
@@ -97,6 +231,40 @@ def convert_categorical(df):
 
 
 def classify_charge(x):
+    """
+    Clasifica un tipo de delito en múltiples categorías binarias.
+
+    Analiza el texto de una descripción de delito y genera variables binarias
+    indicando la presencia de diferentes tipos de crimen.
+
+    Categorías:
+    - Violento
+    - Drogas
+    - Propiedad
+    - Fraude
+    - Armas
+    - Tráfico
+    - Sexual
+    - Orden público
+    - Relacionado con justicia
+    - Sin cargos
+
+    Parámetros
+    ----------
+    x : str
+        Texto descriptivo del delito.
+
+    Retorna
+    -------
+    dict
+        Diccionario con variables binarias (0/1) para cada categoría.
+
+    Notas
+    -----
+    - Basado en búsqueda de palabras clave.
+    - Permite feature engineering para modelos predictivos.
+
+    """
     x = x.lower()
     
     return {

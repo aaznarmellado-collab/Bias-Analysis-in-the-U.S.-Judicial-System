@@ -1,4 +1,3 @@
-
 import pandas as pd
 
 
@@ -26,6 +25,48 @@ warnings.filterwarnings('ignore')
 
 # En bar plot (plotly), animation_frame para la barra interactuable
 def eda(df):
+    """
+    Realiza un análisis exploratorio de datos (EDA) sobre un DataFrame de pandas.
+
+    Esta función lleva a cabo un análisis univariable y bivariable del conjunto
+    de datos, incluyendo visualizaciones y estadísticas descriptivas:
+
+    - Variables categóricas:
+        * Gráficos de pastel para variables con ≤ 3 valores únicos.
+        * Gráficos de barras (Plotly) para variables con > 3 valores únicos.
+    - Variables numéricas:
+        * Estadísticos descriptivos (media, mediana, mínimo, máximo, varianza,
+          desviación estándar y moda).
+        * Diagramas de caja (boxplots) para analizar distribución y outliers.
+    - Análisis bivariable:
+        * Boxplots de variables numéricas agrupadas por variables categóricas y sexo.
+        * Matriz de correlación (método Spearman) para variables numéricas.
+        * Test de chi-cuadrado entre variables categóricas/booleanas, mostrando
+          tablas de contingencia cuando son estadísticamente significativas (p ≤ 0.05).
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de entrada que contiene variables numéricas, categóricas,
+        booleanas y temporales. Se espera que incluya:
+        - 'person_id' (excluida del análisis numérico)
+        - 'is_recid', 'is_violent_recid' (variables booleanas)
+        - 'sex' (usada como hue en algunos gráficos)
+
+    Retorna
+    -------
+    None
+        La función no devuelve ningún valor. Muestra directamente gráficos,
+        tablas y estadísticas en pantalla.
+
+    Notas
+    -----
+    - Diseñada para ejecutarse en entornos interactivos como Jupyter Notebook.
+    - Utiliza matplotlib, seaborn y plotly para visualización.
+    - El test de chi-cuadrado se realiza con scipy.stats.chi2_contingency.
+    - La correlación se calcula mediante el método Spearman.
+
+    """
     num_var_list = df.select_dtypes(include = "number").columns.tolist()
     num_var_list.remove("person_id")
     cat_var_list = df.select_dtypes(include = ["object", "category"]).columns.tolist()
@@ -146,7 +187,41 @@ def eda(df):
 
 
 def check_bias(df):
+    """
+    Evalúa posibles sesgos en las predicciones de un modelo según grupos demográficos.
 
+    Esta función analiza el rendimiento de un modelo de clasificación calculando
+    matrices de confusión para distintos subgrupos demográficos, con el objetivo
+    de detectar posibles desigualdades o sesgos en las predicciones.
+
+    Para cada variable demográfica y sus grupos, se calculan:
+    - Matriz de confusión absoluta
+    - Matriz de confusión normalizada respecto al total ('all')
+    - Matriz de confusión normalizada respecto a las clases reales ('true')
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de entrada que debe contener al menos las siguientes columnas:
+        - 'is_recid' : variable objetivo real (binaria)
+        - 'prediction' : predicciones del modelo (binarias)
+        - 'race', 'age_cat', 'sex', 'maritalstatus' : variables demográficas
+
+    Retorna
+    -------
+    None
+        La función no devuelve ningún valor. Imprime y muestra matrices de
+        confusión para cada subgrupo.
+
+    Notas
+    -----
+    - Utiliza sklearn.metrics.confusion_matrix.
+    - Tipos de normalización:
+        * 'all': proporción respecto al total de observaciones
+        * 'true': proporción respecto a la clase real
+    - Útil para análisis de equidad (fairness) en modelos de clasificación.
+
+    """
     df = df.copy()
 
     demographic_var_list = ['race','age_cat', 'sex', 'maritalstatus']

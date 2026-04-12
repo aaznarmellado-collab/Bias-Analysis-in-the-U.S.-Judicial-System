@@ -11,6 +11,30 @@ from IPython.display import display
 
 
 def read_file(file_path):
+    """
+    Lee un archivo y lo carga como un DataFrame de pandas en función de su extensión.
+
+    Esta función detecta automáticamente el tipo de archivo (CSV, Parquet o Excel)
+    y utiliza el método correspondiente de pandas para su lectura.
+
+    Parámetros
+    ----------
+    file_path : str
+        Ruta del archivo que se desea cargar.
+
+    Retorna
+    -------
+    pandas.DataFrame o None
+        DataFrame con los datos cargados si la lectura es exitosa.
+        En caso de error, devuelve None.
+
+    Notas
+    -----
+    - Extensiones soportadas: .csv, .parquet, .xlsx, .xls.
+    - Gestiona errores comunes como archivo no encontrado.
+    - Imprime mensajes de error en caso de fallo en la lectura.
+
+    """
     try:
         file, extension = os.path.splitext(file_path.lower())
 
@@ -33,6 +57,38 @@ def read_file(file_path):
     
 
 def initial_exploration(df):
+    """
+    Realiza una exploración inicial de un DataFrame mostrando información general
+    y análisis básico de la estructura de los datos.
+
+    Esta función proporciona una visión general del dataset mediante:
+    - Dimensiones del DataFrame
+    - Visualización de filas (head, tail y muestra aleatoria)
+    - Información de columnas y tipos de datos
+    - Estadísticos descriptivos
+    - Conteo de valores únicos
+    - Detección de duplicados por columna
+    - Análisis de valores nulos (conteo y porcentaje)
+    - Visualización de valores nulos con missingno
+
+    Parámetros
+    ----------
+    df : pandas.DataFrame
+        DataFrame de entrada a analizar.
+
+    Retorna
+    -------
+    None
+        La función no devuelve ningún valor. Muestra resultados directamente
+        en pantalla.
+
+    Notas
+    -----
+    - Utiliza display() para una mejor visualización en entornos tipo Jupyter Notebook.
+    - Emplea la librería missingno para visualizar patrones de valores nulos.
+    - Incluye gráficos de barras y matrices para analizar la ausencia de datos.
+
+    """
     print('Rows and columns:')
     display(df.shape)
 
