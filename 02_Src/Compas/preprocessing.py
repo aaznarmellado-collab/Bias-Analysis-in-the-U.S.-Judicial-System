@@ -6,27 +6,27 @@ import re
 
 def convert_to_datetime(df):
     """
-    Convierte automáticamente columnas con formato de fecha a tipo datetime.
+    Automatically converts columns formatted as dates to the datetime type.
 
-    La función identifica columnas de tipo objeto que contienen valores con
-    formato de fecha mediante una expresión regular y las convierte a tipo
-    datetime de pandas.
+    The function identifies object-type columns containing values formatted
+    as dates using a regular expression and converts them to the
+    pandas datetime type.
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de entrada.
+        Input DataFrame.
 
-    Retorna
+    Returns
     -------
     pandas.DataFrame
-        DataFrame con las columnas de fecha convertidas.
+        DataFrame with the date columns converted.
 
-    Notas
+    Notes
     -----
-    - Detecta múltiples formatos de fecha (YYYY-MM-DD, DD-MM-YYYY, etc.).
-    - Usa inferencia automática de formato.
-    - Los valores no convertibles se transforman en NaT.
+    - Detects multiple date formats (YYYY-MM-DD, DD-MM-YYYY, etc.).
+    - Uses automatic format inference.
+    - Non-convertible values are transformed to NaT.
 
     """
     date_regex = r'^(?:(?:\d{4}[-/]\d{1,2}[-/]\d{1,2})|(?:\d{1,2}[-/]\d{1,2}[-/]\d{2,4}))(?:[\sT]+(?:[01]?\d|2[0-3]):[0-5]\d(?::[0-5]\d)?)?$'
@@ -42,21 +42,21 @@ def convert_to_datetime(df):
 
 def normalize_df(df):
     """
-    Normaliza nombres de columnas y valores de tipo texto en un DataFrame.
+    Normalizes column names and text values in a DataFrame.
 
-    Convierte:
-    - Nombres de columnas a minúsculas.
-    - Valores de columnas tipo string a minúsculas y elimina espacios extra.
+    Converts:
+    - Column names to lowercase.
+    - String column values to lowercase and removes extra spaces.
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de entrada.
+        Input DataFrame.
 
-    Retorna
+    Returns
     -------
     pandas.DataFrame
-        DataFrame normalizado.
+        Normalized DataFrame.
 
     """
     df.columns = df.columns.str.lower()
@@ -69,23 +69,23 @@ def normalize_df(df):
 
 def check_duplicate_column(df, column1, column2):
     """
-    Compara dos columnas y devuelve las filas donde sus valores difieren.
+    Compares two columns and returns the rows where their values differ.
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de entrada.
+        Input DataFrame.
 
     column1 : str
-        Nombre de la primera columna.
+        Name of the first column.
 
     column2 : str
-        Nombre de la segunda columna.
+        Name of the second column.
 
-    Retorna
+    Returns
     -------
     pandas.DataFrame
-        Subconjunto del DataFrame donde los valores de ambas columnas no coinciden.
+        A subset of the DataFrame where the values in both columns do not match.
 
     """
     return df[df[column1]!=df[column2]]
@@ -94,35 +94,35 @@ def check_duplicate_column(df, column1, column2):
 
 def fuzzy_replace_safe(df, col, row, threshold=85):
     """
-    Realiza una sustitución aproximada (fuzzy matching) de valores en una columna.
+    Performs fuzzy matching on values in a column.
 
-    Busca coincidencias similares dentro de un subconjunto de datos filtrado
-    (por fecha de nacimiento 'dob') y reemplaza el valor si la similitud
-    supera un umbral definido.
+    Searches for similar matches within a filtered subset of data
+    (by date of birth ‘dob’) and replaces the value if the similarity
+    exceeds a defined threshold.
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de referencia.
+        Reference DataFrame.
 
     col : str
-        Nombre de la columna a evaluar.
+        Name of the column to evaluate.
 
     row : pandas.Series
-        Fila actual a procesar.
+        Current row to process.
 
-    threshold : int, opcional (default=85)
-        Umbral mínimo de similitud para aceptar el reemplazo.
+    threshold : int, optional (default=85)
+        Minimum similarity threshold to accept the replacement.
 
-    Retorna
+    Returns
     -------
     str
-        Valor original o valor reemplazado si se encuentra una coincidencia válida.
+        Original value or replaced value if a valid match is found.
 
-    Notas
+    Notes
     -----
-    - Utiliza rapidfuzz para medir similitud entre strings.
-    - Reduce errores por inconsistencias en texto.
+    - Uses rapidfuzz to measure similarity between strings.
+    - Reduces errors caused by text inconsistencies.
 
     """
     
@@ -147,22 +147,22 @@ def fuzzy_replace_safe(df, col, row, threshold=85):
 
 def remove_invisible_chars(text):
     """
-    Elimina caracteres invisibles y espacios innecesarios de un texto.
+    Removes invisible characters and unnecessary spaces from text.
 
-    Realiza:
-    - Sustitución de espacios no separables (non-breaking space).
-    - Eliminación de caracteres invisibles (zero-width).
-    - Normalización de espacios.
+    Performs:
+    - Replacement of non-breaking spaces.
+    - Removal of invisible characters (zero-width characters).
+    - Normalization of spaces.
 
-    Parámetros
+    Parameters
     ----------
     text : str
-        Texto de entrada.
+        Input text.
 
-    Retorna
+    Returns
     -------
     str
-        Texto limpio.
+        Cleaned text.
 
     """
     if pd.isna(text):
@@ -180,38 +180,26 @@ def remove_invisible_chars(text):
     return text
 
 
-def convert_to_datetime(df):
-    date_regex = r'^(?:(?:\d{4}[-/]\d{1,2}[-/]\d{1,2})|(?:\d{1,2}[-/]\d{1,2}[-/]\d{2,4}))(?:[\sT]+(?:[01]?\d|2[0-3]):[0-5]\d(?::[0-5]\d)?)?$'
-
-    for col in df.columns:
-        if df[col].dtype.name == 'object':
-            mask = df[col].dropna().str.match(date_regex)
-            if mask.all():
-                df[col] = pd.to_datetime(df[col], errors='coerce', infer_datetime_format=True)
-
-    return df
-
-
 def convert_categorical(df):
     """
-    Convierte variables categóricas en variables categóricas ordenadas.
+    Converts categorical variables into ordered categorical variables.
 
-    Define un orden específico para ciertas variables y las transforma en
-    tipo categórico ordinal.
+    Defines a specific order for certain variables and transforms them into
+    an ordinal categorical type.
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de entrada.
+        Input DataFrame.
 
-    Retorna
+    Returns
     -------
     pandas.DataFrame
-        DataFrame con variables categóricas ordenadas.
+        DataFrame with ordered categorical variables.
 
-    Notas
+    Notes
     -----
-    - Variables transformadas:
+    - Transformed variables:
         * age_cat
         * score_text
         * c_charge_degree
@@ -232,37 +220,37 @@ def convert_categorical(df):
 
 def classify_charge(x):
     """
-    Clasifica un tipo de delito en múltiples categorías binarias.
+    Classifies a type of crime into multiple binary categories.
 
-    Analiza el texto de una descripción de delito y genera variables binarias
-    indicando la presencia de diferentes tipos de crimen.
+    Analyzes the text of a crime description and generates binary variables
+    indicating the presence of different types of crime.
 
-    Categorías:
-    - Violento
-    - Drogas
-    - Propiedad
-    - Fraude
-    - Armas
-    - Tráfico
+    Categories:
+    - Violent
+    - Drugs
+    - Property
+    - Fraud
+    - Weapons
+    - Trafficking
     - Sexual
-    - Orden público
-    - Relacionado con justicia
-    - Sin cargos
+    - Public order
+    - Justice-related
+    - No charges
 
-    Parámetros
+    Parameters
     ----------
     x : str
-        Texto descriptivo del delito.
+        Descriptive text of the crime.
 
-    Retorna
+    Returns
     -------
     dict
-        Diccionario con variables binarias (0/1) para cada categoría.
+        Dictionary with binary variables (0/1) for each category.
 
-    Notas
+    Notes
     -----
-    - Basado en búsqueda de palabras clave.
-    - Permite feature engineering para modelos predictivos.
+    - Based on keyword search.
+    - Enables feature engineering for predictive models.
 
     """
     x = x.lower()

@@ -4,36 +4,22 @@ from sklearn.preprocessing import OneHotEncoder
 
 def one_hot_encoding(df, column, drop_val):
     """
-    Aplica codificación One-Hot a una variable categórica de un DataFrame.
+    Apply One-Hot encoding to a categorical variable in a DataFrame.
 
-    Esta función transforma una columna categórica en variables dummy binarias
-    utilizando OneHotEncoder de sklearn. Se elimina una de las categorías
-    (drop) para evitar multicolinealidad en modelos estadísticos.
+    This function transforms a categorical column into binary dummy variables
+    using OneHotEncoder from sklearn. One of the categories is removed
+    (drop) to avoid multicollinearity in statistical models.
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de entrada que contiene la variable a codificar.
+        Input DataFrame that contains the variable to be encoded.
 
     column : str
-        Nombre de la columna categórica que se desea transformar.
+        Name of the categorical column to be transformed.
 
     drop_val : str
-        Categoría que se eliminará durante la codificación (referencia),
-        con el fin de evitar la trampa de las variables dummy.
-
-    Retorna
-    -------
-    pandas.DataFrame
-        DataFrame con las nuevas variables dummy generadas a partir de la
-        columna original.
-
-    Notas
-    -----
-    - Utiliza sklearn.preprocessing.OneHotEncoder.
-    - El resultado no incluye la columna original.
-    - El parámetro `sparse_output=False` asegura que la salida sea un array denso.
-    - Es útil como paso previo al entrenamiento de modelos de machine learning.
+        Category that will be removed during encoding (reference)
 
     """
     encoder = OneHotEncoder(

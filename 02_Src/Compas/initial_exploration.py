@@ -12,27 +12,27 @@ from IPython.display import display
 
 def read_file(file_path):
     """
-    Lee un archivo y lo carga como un DataFrame de pandas en función de su extensión.
+    Reads a file and loads it as a pandas DataFrame based on its extension.
 
-    Esta función detecta automáticamente el tipo de archivo (CSV, Parquet o Excel)
-    y utiliza el método correspondiente de pandas para su lectura.
+    This function automatically detects the file type (CSV, Parquet, or Excel)
+    and uses the corresponding pandas method to read it.
 
-    Parámetros
+    Parameters
     ----------
     file_path : str
-        Ruta del archivo que se desea cargar.
+        Path of the file to be loaded.
 
-    Retorna
+    Returns
     -------
-    pandas.DataFrame o None
-        DataFrame con los datos cargados si la lectura es exitosa.
-        En caso de error, devuelve None.
+    pandas.DataFrame or None
+        DataFrame with the loaded data if the read is successful.
+        In case of error, returns None.
 
-    Notas
+    Notes
     -----
-    - Extensiones soportadas: .csv, .parquet, .xlsx, .xls.
-    - Gestiona errores comunes como archivo no encontrado.
-    - Imprime mensajes de error en caso de fallo en la lectura.
+    - Supported extensions: .csv, .parquet, .xlsx, .xls.
+    - Handles common errors such as file not found.
+    - Prints error messages if reading fails.
 
     """
     try:
@@ -58,35 +58,35 @@ def read_file(file_path):
 
 def initial_exploration(df):
     """
-    Realiza una exploración inicial de un DataFrame mostrando información general
-    y análisis básico de la estructura de los datos.
+    Performs an initial exploration of a DataFrame, displaying general information
+    and basic analysis of the data structure.
 
-    Esta función proporciona una visión general del dataset mediante:
-    - Dimensiones del DataFrame
-    - Visualización de filas (head, tail y muestra aleatoria)
-    - Información de columnas y tipos de datos
-    - Estadísticos descriptivos
-    - Conteo de valores únicos
-    - Detección de duplicados por columna
-    - Análisis de valores nulos (conteo y porcentaje)
-    - Visualización de valores nulos con missingno
+    This function provides an overview of the dataset through:
+    - DataFrame dimensions
+    - Row visualization (head, tail, and random sample)
+    - Column information and data types
+    - Descriptive statistics
+    - Count of unique values
+    - Detection of duplicates by column
+    - Analysis of missing values (count and percentage)
+    - Visualization of missing values using missingno
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de entrada a analizar.
+        Input DataFrame to be analyzed.
 
-    Retorna
+    Returns
     -------
     None
-        La función no devuelve ningún valor. Muestra resultados directamente
-        en pantalla.
+        The function does not return any value. It displays results directly
+        on screen.
 
-    Notas
+    Notes
     -----
-    - Utiliza display() para una mejor visualización en entornos tipo Jupyter Notebook.
-    - Emplea la librería missingno para visualizar patrones de valores nulos.
-    - Incluye gráficos de barras y matrices para analizar la ausencia de datos.
+    - Use display() for better visualization in Jupyter Notebook-type environments.
+    - Uses the missingno library to visualize patterns of missing values.
+    - Includes bar charts and matrices to analyze data gaps.
 
     """
     print('Rows and columns:')

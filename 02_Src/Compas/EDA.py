@@ -12,8 +12,6 @@ from scipy.stats import f_oneway
 
 from IPython.display import display, Markdown
 
-
-
 from sklearn.metrics import confusion_matrix
 
 
@@ -21,50 +19,30 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-
-
-# En bar plot (plotly), animation_frame para la barra interactuable
+# In a bar plot (Plotly), animation_frame for an interactive bar
 def eda(df):
     """
-    Realiza un análisis exploratorio de datos (EDA) sobre un DataFrame de pandas.
+    Perform an exploratory data analysis (EDA) on a pandas DataFrame.
 
-    Esta función lleva a cabo un análisis univariable y bivariable del conjunto
-    de datos, incluyendo visualizaciones y estadísticas descriptivas:
+    This function carries out a univariate and bivariate analysis of the dataset, including visualizations and descriptive statistics:
 
-    - Variables categóricas:
-        * Gráficos de pastel para variables con ≤ 3 valores únicos.
-        * Gráficos de barras (Plotly) para variables con > 3 valores únicos.
-    - Variables numéricas:
-        * Estadísticos descriptivos (media, mediana, mínimo, máximo, varianza,
-          desviación estándar y moda).
-        * Diagramas de caja (boxplots) para analizar distribución y outliers.
-    - Análisis bivariable:
-        * Boxplots de variables numéricas agrupadas por variables categóricas y sexo.
-        * Matriz de correlación (método Spearman) para variables numéricas.
-        * Test de chi-cuadrado entre variables categóricas/booleanas, mostrando
-          tablas de contingencia cuando son estadísticamente significativas (p ≤ 0.05).
+    - Categorical variables:
+      * Pie charts for variables with ≤ 3 unique values.
+      * Bar charts (Plotly) for variables with > 3 unique values.
+    - Numerical variables:
+      * Descriptive statistics (mean, median, minimum, maximum, variance, standard deviation, and mode).
+      * Boxplots to analyze distribution and outliers.
+    - Bivariate analysis:
+      * Boxplots of numerical variables grouped by categorical variables and sex.
+      * Correlation matrix (Spearman method) for numerical variables.
+      * Chi-square test between categorical/boolean variables, showing contingency tables when statistically significant (p ≤ 0.05).
 
-    Parámetros
+    Parameters
     ----------
     df : pandas.DataFrame
-        DataFrame de entrada que contiene variables numéricas, categóricas,
-        booleanas y temporales. Se espera que incluya:
-        - 'person_id' (excluida del análisis numérico)
-        - 'is_recid', 'is_violent_recid' (variables booleanas)
-        - 'sex' (usada como hue en algunos gráficos)
-
-    Retorna
-    -------
-    None
-        La función no devuelve ningún valor. Muestra directamente gráficos,
-        tablas y estadísticas en pantalla.
-
-    Notas
-    -----
-    - Diseñada para ejecutarse en entornos interactivos como Jupyter Notebook.
-    - Utiliza matplotlib, seaborn y plotly para visualización.
-    - El test de chi-cuadrado se realiza con scipy.stats.chi2_contingency.
-    - La correlación se calcula mediante el método Spearman.
+      Input DataFrame containing numerical, categorical, boolean, and temporal variables. It is expected to include:
+      - 'person_id' (excluded from numerical analysis)
+      - 'is_recid', 'is_violent_recid' (boolean variables)
 
     """
     num_var_list = df.select_dtypes(include = "number").columns.tolist()
@@ -77,14 +55,14 @@ def eda(df):
     display(Markdown("# Univariable analysis"))
 
     for col in cat_var_list:
-    # Sacamos valores únicos y sus conteos
+    # We extract unique values and their counts
         counts = df[col].value_counts(dropna=False)
         
         if df[col].nunique() <= 3:
-            # Preparamos labels con nombre + conteo
+            # We prepare labels with name + count
             labels = [f'{valor}\n{count}' for valor, count in zip(counts.index, counts.values)]
             
-            # Dibujamos el pie chart
+            # We draw the pie chart
             plt.figure()
             plt.pie(
                 counts.values,
@@ -121,7 +99,7 @@ def eda(df):
 
 
     # df["ethnic_code_text"].value_counts().plot(kind="bar")
-    # plt.title('Distribucion de personas por raza')
+    # plt.title('Distribution of people by race')
     # plt.show()
 
     
@@ -188,38 +166,20 @@ def eda(df):
 
 def check_bias(df):
     """
-    Evalúa posibles sesgos en las predicciones de un modelo según grupos demográficos.
+    Evaluate potential biases in a model’s predictions across demographic groups.
 
-    Esta función analiza el rendimiento de un modelo de clasificación calculando
-    matrices de confusión para distintos subgrupos demográficos, con el objetivo
-    de detectar posibles desigualdades o sesgos en las predicciones.
+    This function analyzes the performance of a classification model by computing confusion matrices for different demographic subgroups, 
+    with the goal of detecting possible inequalities or biases in the predictions.
 
-    Para cada variable demográfica y sus grupos, se calculan:
-    - Matriz de confusión absoluta
-    - Matriz de confusión normalizada respecto al total ('all')
-    - Matriz de confusión normalizada respecto a las clases reales ('true')
+    For each demographic variable and its groups, the following are calculated:
+      - Absolute confusion matrix  
+      - Confusion matrix normalized with respect to the total ('all')  
+      - Confusion matrix normalized with respect to the true classes ('true')  
 
-    Parámetros
+    Parameters
     ----------
-    df : pandas.DataFrame
-        DataFrame de entrada que debe contener al menos las siguientes columnas:
-        - 'is_recid' : variable objetivo real (binaria)
-        - 'prediction' : predicciones del modelo (binarias)
-        - 'race', 'age_cat', 'sex', 'maritalstatus' : variables demográficas
-
-    Retorna
-    -------
-    None
-        La función no devuelve ningún valor. Imprime y muestra matrices de
-        confusión para cada subgrupo.
-
-    Notas
-    -----
-    - Utiliza sklearn.metrics.confusion_matrix.
-    - Tipos de normalización:
-        * 'all': proporción respecto al total de observaciones
-        * 'true': proporción respecto a la clase real
-    - Útil para análisis de equidad (fairness) en modelos de clasificación.
+    df : pandas.DataFrame  
+      Input Data
 
     """
     df = df.copy()
