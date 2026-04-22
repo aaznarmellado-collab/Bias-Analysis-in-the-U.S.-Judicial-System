@@ -7,7 +7,7 @@ The project follows a complete end-to-end Data Science workflow:
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Machine Learning Modeling (The "notebook - test" folder contains all the models that have been tested, whilst the "notebook - final" folder contains the final model)
+- Machine Learning Modeling (The "01_Notebook - test" folder contains all the models that have been tested, whilst the "01_Notebook - final" folder contains the final model)
 - Dashboard Data Preparation (Link to dashboard: https://lookerstudio.google.com/reporting/767c057b-92a8-4ca0-8d44-8d04b8593a3f)
 
 The goal is not only to build predictive models but also to evaluate whether these models introduce or amplify bias across demographic groups.
